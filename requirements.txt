@@ -4,7 +4,9 @@ FlagEmbedding
 lxml
 matplotlib
 numpy
+pandas
 sacremoses
-seaborn
+scikit-learn
+scipy
 sentence_transformers
 torch==2.5.1

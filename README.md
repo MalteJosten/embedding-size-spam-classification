@@ -9,17 +9,19 @@ This repository accompanies a paper (see [Citation](#citation) down below).
 │   ├── pre_processing/      # Parse, anonymize and sample the raw mail corpus
 │   ├── embeds/              # Embedding models + embedding generation
 │   │   └── para/            # Vendored ParaNMT encoder
-│   ├── classification/      # Distance-threshold, kNN and k-Means classifiers
+│   ├── classification/      # Distance-threshold, kNN, k-Means and ML classifiers
 │   ├── statistics/          # Metric aggregation / results → tables & CSV
 │   ├── eval/                # Plotting and sanity-check utilities
-│   ├── util/                # Small shared helpers (progress bars, counters)
+│   ├── util/                # Small shared helpers (progress bars, counters, seeding)
 │   └── tests/               # Sanity tests over the embeddings
 ├── scripts/                 # Shell orchestration for each pipeline stage
 ├── mails/                   # Anonymized email corpus (tracked, see below)
 ├── embeddings/              # Generated embeddings (Release asset, see DATA.md)
+├── embeddings_bin/          # Embeddings packed as .npz for the ML stage (generated)
 ├── res/                     # Classification/clustering results (Release asset)
 ├── output/                  # Generated figures, tables and summaries
 ├── requirements.txt         # Runtime dependencies
+├── requirements-ml.txt      # Extra dependencies for the supervised ML stage
 ├── pyproject.toml           # Packaging metadata (pip install -e .)
 └── DATA.md                  # How to obtain the large data assets
 ```
@@ -71,6 +73,13 @@ source .venv/bin/activate
 pip install -r requirements.txt      # or: pip install -e .
 ```
 
+The supervised ML classification stage (step 5 below) additionally needs
+TensorFlow, which is a large install and is therefore kept optional:
+
+```bash
+pip install -r requirements-ml.txt   # or: pip install -e ".[ml]"
+```
+
 The models are downloaded from the Hugging Face Hub on first use. A CUDA-capable
 GPU is recommended for embedding generation but not required.
 
@@ -108,12 +117,30 @@ scripts/kmeans_create.sh
 scripts/kmeans_classify.sh
 ```
 
-**5. Aggregate metrics and plot results**, e.g.:
+**5. Supervised ML classification** (SVM, logistic regression, random forest,
+naive Bayes, MLP). This stage needs the embeddings packed as `.npz` first, then
+sweeps every classifier × hyperparameter × seed combination and writes
+`output/ml_classification/{results,summary}.csv`:
+
+```bash
+scripts/embeddings_to_bin.sh    # embeddings/*.json -> embeddings_bin/<model>.npz
+scripts/classify_ml.sh          # the full sweep (long-running)
+scripts/plot_ml.sh              # candle, scatter and bar plots per classifier
+```
+
+A LaTeX table of the per-classifier results (as used in the paper):
+
+```bash
+PYTHONPATH=src python3 src/statistics/ml_summary_to_latex.py --reg svm
+```
+
+**6. Aggregate metrics and plot results**, e.g.:
 
 ```bash
 scripts/retrieve_and_plot_thresholds.sh
 scripts/plot_thresholds.sh
 scripts/plot_knn.sh
+scripts/plot_embedding_histograms.sh   # needs embeddings_bin/ (see step 5)
 ```
 
 > Several orchestration scripts contain a hard-coded list of models / parameters
@@ -126,6 +153,8 @@ Running the pipeline populates:
 
 - `res/` — per-message classification results and per-model summaries (JSON).
 - `output/` — figures (`.png`), aggregated tables and CSVs used in the paper.
+- `output/ml_classification/` — results, summary and plots of the supervised ML stage.
+- `embeddings_bin/` — the packed `.npz` embeddings consumed by the ML stage.
 
 ## Citation
 

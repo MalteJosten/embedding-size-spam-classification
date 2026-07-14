@@ -19,10 +19,19 @@ dependencies = [
     "lxml",
     "matplotlib",
     "numpy",
+    "pandas",
     "sacremoses",
-    "seaborn",
+    "scikit-learn",
+    "scipy",
     "sentence_transformers",
     "torch==2.5.1",
+]
+
+# TensorFlow is only needed by the MLP in src/classification/ml_classifiers.py, so the
+# supervised ML stage is an opt-in extra: `pip install -e ".[ml]"`.
+[project.optional-dependencies]
+ml = [
+    "tensorflow[and-cuda]",
 ]
 
 [project.urls]

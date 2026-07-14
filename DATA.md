@@ -72,6 +72,18 @@ for asset in dist/*.tar.gz; do tar -xzf "$asset"; done
 
 This restores `embeddings/*.json` and the `res/` tree in place.
 
+## Packed embeddings (`embeddings_bin/`)
+
+The supervised ML stage does not read the JSON embeddings directly. It uses
+`embeddings_bin/<model>.npz`, which holds the shuffled, labelled train/test
+tensors (`train_x`, `train_y`, `test_x`, `test_y`) for one model. These are
+**derived** from `embeddings/*.json` and are neither committed nor shipped as a
+release asset — build them once with:
+
+```bash
+scripts/embeddings_to_bin.sh
+```
+
 ## Regenerating instead of downloading
 
 ```bash
@@ -80,7 +92,8 @@ scripts/embeddings.sh <model> [cuda-device]
 
 See the model keys in the [README](README.md#embedding-models). Once the
 embeddings are in place, regenerate the results with `scripts/classify.sh`,
-`scripts/knn.sh`, `scripts/kmeans_create.sh` and `scripts/kmeans_classify.sh`.
+`scripts/knn.sh`, `scripts/kmeans_create.sh`, `scripts/kmeans_classify.sh` and
+`scripts/classify_ml.sh`.
 
 ## Building (the release) assets
 

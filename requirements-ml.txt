@@ -1,0 +1,6 @@
+# Extra dependencies for the supervised ML classification stage (scripts/classify_ml.sh).
+# Only the MLP classifier needs TensorFlow; install these on top of requirements.txt:
+#   pip install -r requirements.txt -r requirements-ml.txt
+-r requirements.txt
+
+tensorflow[and-cuda]

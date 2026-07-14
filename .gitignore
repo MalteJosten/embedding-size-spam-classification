@@ -10,6 +10,8 @@ src/embeds/model.para.lc.100.pt
 /res/
 /embeddings/*
 !/embeddings/.gitignore
+# Packed embeddings (embeddings/*.json -> .npz), regenerate with scripts/embeddings_to_bin.sh
+/embeddings_bin/
 # SQLite databases produced by the sanity-check pipeline
 /dbs/
 
