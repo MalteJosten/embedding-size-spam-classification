@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i'm usually comfortable using the apply functions for vectorizing loops in r however my particular problem now is using it in a sequential operation which uses values evaluated in an offset of the loop vector here is my example using a for loop approach dat data frame year rep escapenumber escapenumber each escapenumber yday escapenumber escapenumber dat value sin dat yday escapenumber pi escapenumber rnorm nrow dat sd escapenumber escapenumber dat ca dat cb escapenumber consecutive above and below escapenumber for n in escapenumber nrow dat if dat value n escapenumber dat ca n dat ca n escapenumber escapenumber else dat cb n dat cb n escapenumber escapenumber i'm inquiring if there is a straightforward way to vectorize this or a similar example in r since it gets rather slow with larger data frames if there is no straightforward method no worries thanks in advance mt r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

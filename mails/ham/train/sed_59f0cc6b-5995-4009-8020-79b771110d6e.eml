@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i am a little bit puzzled by the way round works consider the following code a escapenumber escapenumber round a digits escapenumber escapenumber escapenumber escapenumber i would expect the outcome to be something like escapenumber escapenumber or escapenumber escapenumber instead the computer gives me escapenumber escapenumber no matter how large the digits are can anybody help me understand what i'm missing here thanks again for your help robert r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

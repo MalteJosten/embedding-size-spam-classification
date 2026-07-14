@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ can this be done can i compile a module on one box and somehow install the code on another might this be as simple as copying over the contents of the directories in inc as it turns out this was fairly easy to do i followed the advice from chas owens who suggested that i build them manually on another box and stop before the make install there were no pre reqs that needed to be installed so i guess i got lucky there i tar'd up the build directories moved them over did another make test just to feel good about it then the make install further tests with our code went well thanks chas and to all who responded richf to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

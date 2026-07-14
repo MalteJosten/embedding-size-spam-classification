@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber sharan basappa wrote hi all i have some background working with scanners built from flex and i have used lookahead capability of flex many a times but i dont understand the meaning of zero in zero lookahead match rule i e pattern snip i don't know jack about flex so i can't help you with a comparison but snip the other question i have is how does regex engine decide that it has to move further its scanner by escapenumber character everytime snip this is what the zero width lookahead assertion means it say with out moving where you are currently starting the match make certain you can match the following pattern if you want it to move where the match starts then you have to include something that does not have zero width like this match groups of three characters followed by three characters escapenumber and escapenumber store str m \\d\\d\\d \\d\\d\\d g to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

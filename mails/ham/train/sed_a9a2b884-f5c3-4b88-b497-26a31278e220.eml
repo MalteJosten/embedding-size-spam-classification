@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi list jerry this one gave me some headaches i could not set rights with net rpc rights grant got nt status access denied i found that in escapenumber the pipe user ut uid was escapenumber in lsa add acct rights this lead me up to rpc server srv pipe c where i found that the copy current user call was missing compared to escapenumber escapenumber under rpc anonymous auth type in api pipe bind req the attached patch fixes my issue escapenumber volker asked me to present the patch to the list first because this is critical code escapenumber with your approval i would like commit it cheers michael escapenumber michael adam sernet gmbh bahnhofsallee escapenumberb escapenumber g escapelong phone escapenumber escapenumber escapenumber escapenumber fax escapenumber escapenumber escapenumber escapenumber ag g escapelong hrb escapenumber gf dr johannes loxen http www sernet de mailto info sernet de

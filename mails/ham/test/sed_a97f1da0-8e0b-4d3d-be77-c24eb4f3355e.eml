@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+greg thanks for the kind words about odfweave these reports are usually put out as internal webpages for various people in the organization to look at so we could either go the odfweave approach and generate pdf files not as automated as i would like i agree that automating the conversion should be easier my wish would be that the oo binary had a flag to convert from one format to another on linux there is a bash script that uses the open office binaries to do the conversion at the command line by nathan coulter at http sourceforge net projects ooconvert also there is a java class called jooconvert out there if memory serves that has similar functionality max legal notice\\ unless expressly stated otherwise this messag dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

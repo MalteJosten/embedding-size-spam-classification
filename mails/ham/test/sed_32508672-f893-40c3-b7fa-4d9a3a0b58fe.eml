@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i'd like to reshape a sparse matrix generated from the matrix package i can't seem to do it with the command dim a c escapenumber escapenumber which works perfectly with the base package matrices but with the sparse matrices it errors with error in dim a c escapenumber escapenumber dim invalid first argument manipulating the dim attribute of the sparse matrix does not produce the desired effect a dim c as integer escapenumber as integer escapenumber does not produce a column ordering result which i am assuming is because the data is stored in a row i and column j format instead class dgtmatrix does a function for this exist scott r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

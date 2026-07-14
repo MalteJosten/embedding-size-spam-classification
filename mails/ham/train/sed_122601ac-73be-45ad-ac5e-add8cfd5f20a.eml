@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i will test the tell function out i don't think i got access to the server log files on escapenumber escapenumber escapenumber nigel peck wrote yitzle wrote ok i got this script that gets a lot of hits generates high bandwidth is there a simple way to check the amount of bytes printed to stdout so i can track the bandwidth it is generating you may be able to get this information from your web server log files if you're using apache then you can get the bytes sent from either the common or combined log formats http httpd apache org docs escapenumber escapenumber logs html common the last entry indicates the size of the object returned to the client not including the response headers hope this helps nigel mis web design http www miswebdesign com to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

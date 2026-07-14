@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+am sonntag escapenumber mai escapenumber escapenumber escapenumber schrieb pancake no tofu please i think that the right way to handle paddings for memory alignment is using the pack escapenumber pragma directive to make everything fit on escapenumber byte and ensure by code that what we do is correct instead of relaying this task to the compiler this is usually not a good idea as unaligned pointer or integer long double access is usually slower with many cpus if it even succeeds we can pack to escapenumber or so some compilers aka gcc returns some nasty sizes when measuring not necessary aligned to escapenumber you didn't get the problem probably the mmx sse copy operations need escapenumber byte escapenumber aligned start and end addresses for copying if the addresses are not aligned you'll get a bus error please note that this alignment is only needed for the memory pointer and for nothing else in that stucture leo escapenumber there are escapenumber byte versions too and also some which work with unaligned memory

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on saturday escapenumber march escapenumber escapenumber escapenumber escapenumber via rt wrote attached is an extended implementation of the mmap io layer it adds the write and seek funcitons to the layer it can be tested with the attached pir programm it needs also a little modification in io unix c this comes in a separate bug report thanks it looks reasonable allison what do you think about holding onto this one until the revised io pdd gets finished c

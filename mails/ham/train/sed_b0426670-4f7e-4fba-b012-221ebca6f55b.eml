@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+terrence van ettinger napsal a how can i change the softsynth used for speakup i made the mistake of using the same one festival for both speakup and orca and now when i start speakup i kill the voice for orca so how can i fix this as i wrote in another thread on this list recently it should work if you use speech dispatcher both with orca and speakup speech dispatcher will handle speech from both clients for you problems may arise when you try to use one synthesizer through two different speech systems speech dispatcher and gnome speech best regards tomas speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

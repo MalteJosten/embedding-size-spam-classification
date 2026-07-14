@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am working on a data set which has the waiting times taken of jobs running on a cluster i need to come up with a method to use this historical data to come up with a prediction for the future even probably try simulating the full history as in i have history of the job submission time and running time etc so i can run through the actual history and at every job submission depending on the status of the cluster try to predict the waiting time can i do this using any of the models used in r particularly forecast can i used arima or arma for this the problem is i don't think i'm dealing with time series because the measurements of waiting times at a particular state i e job submission ain't done at regular intervals could anyone please suggest a model for this thanking you rs alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

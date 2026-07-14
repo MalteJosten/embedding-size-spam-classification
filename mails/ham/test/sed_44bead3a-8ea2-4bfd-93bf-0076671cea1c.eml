@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello is there a way to define the width of the axis tick marks on traditionnal plots i did not find anything specific on this topic in the help and par lwd does not affect the tick marks i guess that using axes false and recreating the axis with the axis command could do the trick but i wonder if there is no easier way thanks in advance sebastien r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

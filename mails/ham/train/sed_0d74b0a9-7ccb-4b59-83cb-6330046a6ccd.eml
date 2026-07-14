@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi r gurus i'm trying to install the rmpi package here are the errors checking for stdint h yes checking for unistd h yes checking mpi h usability no checking mpi h presence no checking for mpi h no try to find libmpi or libmpich checking for main in lmpi no libmpi not found exiting error configuration failed for package 'rmpi' removing ' home desktop r escapenumber escapenumber escapenumber library rmpi' the downloaded packages are in tmp escapelong downloaded packages warning messages escapenumber installation of package 'rsprng' had non zero exit status in install packages rmpi depend t escapenumber installation of package 'rmpi' had non zero exit status in install packages rmpi depend t i'm thinking that there might be things like mpi home or something like to be set maybe thanks for any help edna bell mailto edna bellescapenumber gmail com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

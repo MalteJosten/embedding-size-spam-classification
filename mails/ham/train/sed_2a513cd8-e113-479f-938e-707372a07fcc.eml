@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+jen mlists 写道 hello i need to output contents with utfescapenumber encoding in cgi scripts can you tell me how to open stdout with utfescapenumber support thanks you hello just do binmode stdout utfescapenumber see perldoc perluniintro for more details jeff pang http home arcor de jeffpang to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

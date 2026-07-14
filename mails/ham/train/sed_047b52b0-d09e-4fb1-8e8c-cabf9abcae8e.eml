@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear r experts this should be a simple question but i couldn't find a way yet i would like to create a function that accepts a vector creates a data frame whose colname is that vector for example i want a function temp func such that name c mike john steve result temp func name result name escapenumber mike escapenumber john escapenumber steve right now i have the following code temp func function x x as data frame x return x the problem is the above function returns the colname factor x which is not name anyone has any idea lastly i would like to thank everyone in this forum who helped me on anything i asked abour r i really appreciate your help thank you view this message in context http www nabble com creating a function tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

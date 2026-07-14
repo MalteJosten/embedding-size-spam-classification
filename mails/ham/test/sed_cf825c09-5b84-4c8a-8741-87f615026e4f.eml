@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+actually that was just an example to explain my problem i am facing this problem when i use tk any subroutine associated with the command option of a button widget use tk my mw mainwindow new my b mw button text 'hello' command sub welcome pack my l mw label text '' pack sub welcome l configure text 'welcome buddy' mainloop in the above example i have to add a declaration sub welcome before declaring b but cant define it to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

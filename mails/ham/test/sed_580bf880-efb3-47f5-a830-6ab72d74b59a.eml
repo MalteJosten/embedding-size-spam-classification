@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+simo wrote but do we really need to keep it separated from the main samba tree what's the advantage by its nature this code is not related to samba just used usr bin ntlm auth and nothing more otoh it is much more apache related just thoughts buc

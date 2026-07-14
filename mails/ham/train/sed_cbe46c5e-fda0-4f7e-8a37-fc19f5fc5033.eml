@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+chromatic wrote on tuesday escapenumber june escapenumber escapenumber escapenumber escapenumber ron blaschke wrote i tried to build rescapenumber and received the following error message src\\global setup c src\\interpreter c in file included from src\\interpreter c escapenumber include parrot oplib core ops h escapenumber internal compiler error segmentation fault please submit a full bug report with preprocessed source if appropriate see for instructions mingwescapenumber make src\\interpreter o error escapenumber fwiw the last successful smoke seems to be rescapenumber on escapenumber escapenumber escapenumber escapenumber sorry for the delay can you provide a backtrace thanks for picking this up the problem was caused by c pragma once which mingw gcc escapenumber escapenumber escapenumber seems to choke on there was some discussion on the list removing pragma too ron

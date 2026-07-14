@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ why filename xmp it should be basename xmp no dot prepended i don't know where this convention comes from but definitely not the one from the current non free implementations i'd rather wish we don't reinvent the wheel jamie will have to respond on this one it'd be convenient to have the xmp hidden tracker wouldn't index it twice but following the current convention which i wasn't aware of would be best how does the patch look style approach etc also how do i go about getting commit access xmp init cost a lot to call same as xmp terminate you should only call then once actually xmp terminate isn't mandatory as when the programm quits things will be cleaned up i'm not sure what can be done about this one for each file that is indexed a separate process is spawned and the cc namespace of xmp is defined in the library it is ns cc this is cosmetic but ensure that we use the right string ah i'll make sure to use that jason cc devel mailing list cc devel lists ibiblio org http lists ibiblio org mailman listinfo cc devel

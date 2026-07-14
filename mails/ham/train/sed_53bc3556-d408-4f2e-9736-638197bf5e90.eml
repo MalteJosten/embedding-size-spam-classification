@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi james for the clustering i need to add event loop processing to the parent smbd listener this conflicts with your new handling of the idle timeout variable if the select exits without an active fd after the idle timeout the parent exits with timed events in this is not right anymore i'm going to deactivate the exit for now this needs to become a timed event volker

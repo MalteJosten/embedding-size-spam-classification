@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+package bitstormlite version escapenumber escapenumberk escapenumber severity serious justification license incompatibility the bitstormlite package currently in archive escapenumber escapenumberk escapenumber links to libcurlescapenumber openssl and therefore indirectly links to libssl since bitstormlite is licensed under gpl with no exceptions i believe there is an license incompatibility and the binary package is undistributable as is maybe just building depend on libcurlescapenumber gnutls dev and therefore linking to libcurlescapenumber gnutls will solve the problem but i didn't test in any case libcurlescapenumber dev is no longer a real package and shouldn't be used as build dependency this is the first time i report a bug about licensing issue and i am not sure i am understanding everything correctly therefore i am cc ing debian legal list for confirmation ming escapenumber escapenumber escapenumber to unsubscribe email to debian legal request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

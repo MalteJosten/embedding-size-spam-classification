@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+we would like to announce the availability of the 'tradecosts' package in r for analysing transaction costs of trading version escapenumber escapenumber escapenumber is now available on cran to take a look you can install packages tradecosts vignette tradecosts and play around this is the first and very basic version of a package that we hope to expand over the next few months the cost analysis this package performs is currently very basic we are releasing this version with the goal of getting feedback from potential users on what functionality they would like to see in future releases of the tradecosts package aaron schwartz luyi zhao r packages mailing list r packages stat math ethz ch https stat ethz ch mailman listinfo r packages r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+haloo jonathan lang wrote but then a file handle doesn't behave exactly like standard in or standard out either last i checked perl escapenumber won't do anything useful if you say seek stdin escapenumber seek end how should perl escapenumber behave i guess it's possible to return a lazy list that captures stdin from the time of call onwards regards tsa 

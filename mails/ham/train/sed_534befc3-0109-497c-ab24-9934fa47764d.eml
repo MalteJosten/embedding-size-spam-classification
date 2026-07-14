@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all after i installed some programs in my debian laptop and removed some others through apt get in order to run a certain program that i needed i cannot mount nokia escapenumber any more i can mount easily any other flash device but debian doesn't even recognize nokiaescapenumber as a scsi device i show that with dmesg command does anyone has a clue about how to solve the problem does anyone know what i may have done wrong regards dionysis to unsubscribe email to debian laptop request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

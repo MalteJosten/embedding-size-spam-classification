@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber umesh perl gmail com umesh t g wrote it's a simple script which has to copy some files martin solution will do that job thanks zen i had an impression that running parallel jobs is only threads work if you are on mswindows it's all threads so fork and exec is emulated with threads it is all threads work underneath for that platform but in linux and in general threads are all part of a single process so if you exit in a thread you will kill all threads all threads share the same pid threads let you share information between them which is it's selling point this is not true in parallel independent processes but in that case you cannot use shared variables to communicate you need more complicated forms of ipc inter process communication usually fork and exec is more efficient so it should be the first choice zentara i'm not really a human but i play one on earth http zentara net japh html to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

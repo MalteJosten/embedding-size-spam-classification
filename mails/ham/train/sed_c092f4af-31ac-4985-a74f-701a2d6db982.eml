@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+gerald jerry carter пишет you got my followup mail right in reply to volker and you i like not changing the default behavior but it is probably less confusing imo to just force the winbindd rpc methods than to tweak the flags in the winbindd domain struct i believe that was volker's preference as well but you can double check with him is the parameter name ok better as a non parametric i prefer the parametric in this case i think this rises a need to add documentation of parametrics to man pages we don't have such facility implemented in our xml format yet and number of options has grown substantionally in past two years they almost not documented at all alexander bokovoy

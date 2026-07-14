@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i want to make a linear discriminant analysis for the dataset olive and i get always this error warning message variables are collinear in lda default x grouping loading data library mass olive url http www statistik tuwien ac at public filz students multi ssescapenumber olive r print load olive y escapenumber escapenumber x sample y yescapenumber x escapenumber escapenumber train olive yescapenumber escapenumber test olive yescapenumber escapenumber summary train summary test table train region table test region linear discriminant analysis z lda region train predict z train z lda region test predict z test thanks in advance escapenumber mit freundlichen gr fcssen best regards soare marcian alin alternative html version deleted 

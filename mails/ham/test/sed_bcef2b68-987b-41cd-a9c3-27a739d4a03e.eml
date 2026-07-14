@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+robin hankin wrote if iterative methods are appropriate it's perhaps worth pointing out that newton rapheson works nicely for complex functions hmmm i think there are many cases where newton raphson diverges for complex functions like those that generate beautiful fractals alberto monteiro r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

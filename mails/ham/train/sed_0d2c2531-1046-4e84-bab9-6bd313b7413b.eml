@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i wanted to make a database connection using the values provided in cfg file my cfg dbname xyz user abc passwd abcescapenumber my perl package which need to read the my cfg file make the connection mypackage sub new my arr readcfg foreach arr print \\n print for loop dbname arr escapenumber usr arr escapenumber pwd arr escapenumber self bless self databasehandle dbi connect dbi pg dbname dbname usr pwd printerror escapenumber if databasehandle print database connection is not estabilished exit sub readcfg cfgpath shift open fh chomp line next if line \\s next if line \\s line s key val line \\s \\s \\s \\s \\s \\s push arr val return arr return self i am getting an error dbi connect ' ' failed fatal database 'root' doesn't exist can any one suggest me how can we read the values from conf file get the database connection i need to call the database handle to call the subroutine thanks in advance to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

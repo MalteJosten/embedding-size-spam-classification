@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi this patch contains a power saving mode for read activity implemented in the evince olpc widget whereby the system goes to sleep five seconds after the last scroll event via a dbus call to olpc power manager this doesn't happen by default running touch enable ebook sleep enables the code in the patch it's a temporary solution eventually we will be automatically suspending any time the cpu and display aren't doing anything the patch requires a recent kernel from the master tree of olpc escapenumber escapenumber such as commit escapelong the bescapenumber machines in the field don't have a hardware modification needed to keep the screen image steady while the cpu is sleeping so this is mostly useful for machines that olpc has modded comments welcome thanks chris 

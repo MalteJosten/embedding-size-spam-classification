@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber at escapenumber escapenumber am peter somogyi wrote snip picking another vasprintf implementation like this solves my problem int vasprintf char ptr const char format va list ap int ret va list tmp ap va copy tmp ap ap ret vsnprintf null escapenumber format tmp ap note that you can't rely on this returning the number of characters that would have been output if the buffer were large enough until cescapenumber or unixescapenumber iirc james peach jpeach samba org

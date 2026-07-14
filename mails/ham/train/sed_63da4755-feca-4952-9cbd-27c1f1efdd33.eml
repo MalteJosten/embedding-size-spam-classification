@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i am a total beginner with “r” and found a package “venn” to create a venn diagram the problem is i cannot create the vectors required for the diagram the manual say r venn accession libname main all samples where accession was a vector containing the codes identifying the rna sequences and libname was a vector containing the codes identifying the tissue sample library the structure of my data is as follows r structure list cyto c a “b” “c” “d” nuc c “a” “b” “e” “” chrom c “b” “f” “” “” names c cyto nuc chrom accession should be a b and libname schould be cyto nuc and chrom as i understand it could you help me sorry that might be a very simple question but i am a total beginner as said before the question has already been asked but unfortunately there was no answer thank you a lot nina hubner r help stat math ethz ch mailing listhttps stat ethz ch mailman listinfo r helpplease do read the posting guide http www r project org posting guide htmland provide commented minimal self contained reproducible code 

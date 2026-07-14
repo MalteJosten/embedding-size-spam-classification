@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ original message from r help bounces stat math ethz ch mailto r help bounces stat math ethz ch on behalf of raymond chiruka sent thursday april escapenumber escapenumber escapenumber escapenumber am to r help stat math ethz ch subject re r random number generator in r compared i am trying to generate survival data using r im trying to randomly generate a column of escapenumbers and escapenumber and another column randomly generated using an exponential distribution but l cant seem to get the random function how do l go about it thanks in advance rt chiruka to get your random column of escapenumber's and escapenumber's try sample y sample c escapenumber escapenumber size escapenumber replace true for your random sample from an exponential distribution try rexp x rexp escapenumber hope this is helpful dan dan nordlund bothell wa r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

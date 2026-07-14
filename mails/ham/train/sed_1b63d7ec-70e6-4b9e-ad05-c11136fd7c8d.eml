@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on thu escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber afshartous david wrote all is there one liner way to obtain the max per observation for two vectors i looked at apply and lapply but it seems that groundwork would have to be done before applying either of those the code below does it but seems like overkill thanks dave x rnorm escapenumber y rnorm escapenumber ind which x y z x z ind y ind z now contains the max's pmax seb r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

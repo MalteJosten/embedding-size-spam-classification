@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ revno escapenumber revision id tridge samba org escapenumber escapelong parent tridge samba org escapenumber escapelong committer andrew tridgell branch nick tridge timestamp thu escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber message fixed a memory leak in the ctdb control code modified common ctdb daemon c ctdb daemon c escapenumber escapelong escapenumber modified file 'common ctdb daemon c' a common ctdb daemon c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber b common ctdb daemon c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber construct a message to send to the client containing the data len offsetof struct ctdb reply control data data dsize r ctdbd allocate pkt ctdb client ctdb reply control len r ctdbd allocate pkt ctdb state ctdb reply control len struct ctdb reply control ctdb no memory void ctdb r 

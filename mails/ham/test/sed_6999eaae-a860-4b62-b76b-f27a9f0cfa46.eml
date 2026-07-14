@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i have a strings such as formatting l cs cat formatting l da cat formatting l de cat formatting l zh tw cat i need to extract the substring before the and after the last occurence of ie in the above cases it would return cs or zh tw etc how can i achieve this thanks 

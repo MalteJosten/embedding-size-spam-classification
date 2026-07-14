@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sat escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber jra samba org wrote author jra date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber sat escapenumber apr escapenumber new revision escapenumber escapenumber websvn http websvn samba org cgi bin viewcvs cgi view escapenumberdrev root escapenumberdsam ba rev escapelong escapenumber log cope with signature errors on sessionsetupx logins where the server just reflects our signature back to us allow the upper layer to see the real error jeremy this is odd we shouldn't be checking at all until the signature has been checked as valid once at least that's how i intended it to work in the meantime it should try and send a new 'packet escapenumber' signature on each outgoing session setup until it gets a valid packet escapenumber reply escapenumber andrew bartlett escapenumber andrew bartlett http samba org abartlet authentication developer samba team http samba org samba developer red hat inc http redhat com

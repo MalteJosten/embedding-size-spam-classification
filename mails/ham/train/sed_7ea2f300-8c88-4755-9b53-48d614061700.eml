@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber yitzle wrote inside the loop i check if the value is defined so i don't care where in the order the undefined one shows up in i don't want to delete undefined ones or anything then you can either turn off the warnings for that section not advised ignore the warnings also not advised or give the null values a value in the following example i use escapenumber as the value but it could be any numeric value depending on where you want undefined values to be sorted usr bin perl use strict use warnings my h a val escapenumber b val escapenumber c val escapenumber d for my key sort h a val escapenumber h b val escapenumber keys h print key\\n to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

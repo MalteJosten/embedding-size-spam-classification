@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+erik blankinship wrote perhaps there is a different approach to this can i run a local http server on the xo that can function as a cgi and kids can interact with the html it produces through the browser activity what would the path to that server be it is possible that the local library activity might benefit from such a server to augment complement the static html yes you can run an http server and this is how the current library is setup i don't think the server used by the library currently is anything more than a placeholder there hasn't been much discussion about what a server might look like though of course you are always welcome to bundle your own server with your activity and i think that would be the best plan at the moment ian bicking ianb colorstudy com http blog ianbicking org write code do good http topp openplans org careers sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber escapenumber escapenumber am lucke joseph f wrote suddenly e g yesterday all my functions that have na rm as a parameter e g mean sd range etc have been reporting warnings with na rm t the message is warning message the condition has length escapenumber and only the first element will be used in if na rm x x is na x this has never happened before i don't recall having done anything that might generate this message how do i fix this i imagine you have created a variable t of length greater than escapenumber use true which is a reserved word so you can't create such a variable don't keep big workspaces full of stuff you don't know about create a new empty one in each session duncan murdoch r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+it is desired to abort an r script with a message returning to the r prompt pending 'if' results as follows first part of script if condition action else 'error' abort remainder of script note 'stop' aborts the current script expression but keeps running the script too little 'quit' aborts the r session too much thx ted this e mail and any files transmitted with it may contain privileged or confidential information it is solely for use by the individual for whom it is intended even if addressed incorrectly if you received this e mail in error please notify the sender do not disclose copy distribute or take any action in reliance on the contents of this information and delete it from your system any other use of this e mail is prohibited thank you for your compliance alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

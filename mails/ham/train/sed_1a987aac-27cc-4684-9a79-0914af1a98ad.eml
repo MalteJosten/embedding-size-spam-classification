@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i start with an array of booleans x c true true true false false true true false true i want to define an y f x such that y c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber in other words do a cumsum when i see a true but reset to escapenumber if i see a false i know i can do this with a very slow and ugly loop or maybe use apply but i was hoping there are some r experts out there who can show me a cleaner more elegant solution thanks in advance ken r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

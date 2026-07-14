@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am changing the authetication typ from local to remote ldap on a pc i want to get the new userid of a user therefore i have following code system etc init d nscd stop system etc init d winbind restart print getpwnam christian \\n code that changes from local to remote ldap authsrv set pdc escapenumber escapenumber escapenumber escapenumber bbads local administrator authsrv mod nsswitch system etc init d nscd start while escapenumber print eval getpwnam 'christian' \\n sleep escapenumber but that code just print the old uid of christian if i do a perl wle 'print getpwnam christian ' the correct new uid is returned any suggestions to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

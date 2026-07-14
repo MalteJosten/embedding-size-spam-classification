@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber allison randal via rt wrote do you have a test case that shows where the current behavior is incorrect the attached test case demonstrates that passing null from c into pir then passing that value to c causes the wrong init method to be called yes it's rare but the patch doesn't cost anything so it might as well be applied it won't matter once we get rid of the old object system but it makes me feel better for now p s i picked integer to stick foo in arbitrarily just to make things simpler alek storm

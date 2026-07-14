@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+looking more closely at debian patches i only find two remining patches that could need to be forwarded but require further investigation preparation on our side one patch for locking issues in smbstatus the big one the so called fhs patch which is aimed to better respect the fhs by using dedicated directories for discardable cache data var cache samba browse dat printers tbd tdb non discardable state data all tdb files that may need to be backed up shared data usr share samba codepage stuff that patch currently has issues such as preventing running more that one instance of samba on a single machine and the like this is quite certainly the most debatable and invasive one one of our user proposed a rewrite to make ti cleaner so we'll discuss first internally before submitting it i will do my best to forward them later so please consider that the current batch ends up with the escapenumber escapenumber patch 

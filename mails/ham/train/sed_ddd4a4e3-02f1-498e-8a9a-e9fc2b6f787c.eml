@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello it's now possible to run sugar from the source directory something like this should work sugar jhbuild shell cd source sugar sugar emulator the only thing which is still running from the installation directory are the services scripts it should not be a big problem in practice because they are loading the actual code from the source directory too if you find any bugs with this please let me know marco sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+mike ford csl psychol cam ac uk writes hi i get an error message about not converging when i try and use the pvals fnc from the languager library the lmer analysis worked fine see below i am not an expert so i don't understand why the lmer worked but not the pvals fnc any help gratefully received mike results of traceback after the error precise wording of the error message any chance of sending to the list or posting a data set that produces the error see the posting guide on the face of it is puzzling because pvals fnc doesn't seem to do any fitting just post processing of the lmer object by the way that's the languager package library fortunes fortune maechler package ben bolker r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

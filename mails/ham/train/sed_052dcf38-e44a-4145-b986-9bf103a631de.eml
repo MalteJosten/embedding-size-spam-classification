@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by patrick r michaud please include the string perl escapenumber in the subject line of all future correspondence about this issue defining a sub with both optional positional and slurpy named parameters results in an exception invalid arg type in named portion of args when called without the optional arg example cat x pir sub 'main' main 'foo' escapenumber 'xyz' 'abc' 'foo' 'xyz' 'abc' end sub 'foo' param string posarg optional param int has posarg opt flag param pmc namedargs slurpy named say posarg sescapenumber namedargs 'xyz' say sescapenumber return end parrot x pir escapenumber abc invalid arg type in named portion of args current instr 'foo' pc escapenumber x pir escapenumber called from sub 'main' pc escapenumber x pir escapenumber i've entered a todo test for this into t op calling t and will cite this rt in the test as soon as i have it thanks pm

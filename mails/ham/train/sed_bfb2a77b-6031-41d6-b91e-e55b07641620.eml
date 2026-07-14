@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ these look ok will apply as soon as the other stuff is tidied up need tracker read xmp before i can apply these here's a patch that just adds tracker read xmp it reads licenses and dublin core metadata from xmp and could easily be extended to other schemas like exif i'll be working on updating the xmp sidecar patch next cheers jason

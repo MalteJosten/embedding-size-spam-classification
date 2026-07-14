@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi this is charlie i have installed rpad on windows xp following servernotes during the installation i copy the directory statistics to my perl\\lib while nmake and nmake install commands do not work althought perl activeperl is installed ps perl makefile pl command works while i am testing rpad the rpad home page loaded as normal but after i clicking examples it was loaded as source codes rather than html i did add a mime type for rpad files in conf\\mine as text html rpad after i check steps i have done they were same to the guide therefore i am not sure where i did wrong thank you for helping me with it regards charlie view this message in context http www nabble com rpad files do not work as html tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

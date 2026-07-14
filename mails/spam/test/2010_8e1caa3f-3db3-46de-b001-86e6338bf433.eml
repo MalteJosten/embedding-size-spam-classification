@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: New Resume
+
+
+Please review my CV, Thank You!Content-Type: application/pdf;	name="resume.pdf"Content-Transfer-Encoding: base64Content-Disposition: attachment;	filename="resume.pdf"

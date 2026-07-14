@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i need to check for strings in a file an example would be checking for a username in etc passwd or var log maillog the string is in another file sometimes a single field on a line by itself sometimes in a line with other strings based on what i have seen online and what i have done in other scripts i can escapenumber slurp the file into a single string and then check for a match escapenumber read the relevent field from the file into hash keys and check for a match escapenumber loop through the file line by line and look for a match generally there are escapenumber escapenumber escapenumber strings and escapenumber escapenumber to escapenumber escapenumber escapenumber lines per file i am wondering how these different methods may impact performance i hope i have been clear tia karyn williams network services manager california institute of the arts karyn calarts edu http www calarts edu network to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

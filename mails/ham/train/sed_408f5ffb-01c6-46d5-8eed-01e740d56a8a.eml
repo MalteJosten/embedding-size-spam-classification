@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i am very new to r one week and i am trying to run a multinomial logit model the model i am using is modelescapenumber multinom y xescapenumber xescapenumber xn if i put in summary modelescapenumber i get error in function classes fdef mtable unable to find an inherited method for function fitted for signature multinom and if i put in coef modelescapenumber i get the coefficients i would like however to get the coefficients estimates std erros and t ratios and or z or p z also can you change the speficiation of the base category without recoding thanks nicole r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed jun escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber chromatic wrote on wednesday escapenumber june escapenumber escapenumber escapenumber escapenumber andy lester wrote it'd have to be against the last update from svn of the file itself yes just to toss some random brainstorms into the mix here to avoid svn specific behavior is there perhaps another file in the repository that we could use to compare timestamp against i personally don't have an issue with tying things to svn i just think we might be able to do it otherwise even possibly check files modified within the last nn hours also instead of running mailing the perlcritic tests on every checkin we could perhaps set up a cron job to do it once per day this would keep potential mail messages down and may be easier to set up and control than a subversion hook i could fairly quickly set up such a system as part of the daily smoke tests that i already run from my box again just some random ideas pm

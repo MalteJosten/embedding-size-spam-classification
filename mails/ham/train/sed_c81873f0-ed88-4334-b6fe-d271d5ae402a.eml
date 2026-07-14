@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi according to a doc string see sugar activity escapelong py the dbus method com redhat sugar activityfactory create needs to answer the xid of the created activity's instance however that return value is not used and in fact the method's dbus type signature does not specify any out parameter is there a requirement that every activity instance needs to open a separate top level x window if so could we remove that requirement since activities are full screen to the user it should not matter if switching instances reuses the same x window or switches between different x windows bert sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

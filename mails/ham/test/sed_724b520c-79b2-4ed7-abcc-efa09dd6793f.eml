@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i'm starting to work on pdb for fixing bugs segfaults and so and maybe implement new commands listed in todo i noticed that command arguments does not support spacing between command and argument i have written a small patch that uses nextarg for getting command arguments this means that now works things like pdb next escapenumber pdb next escapenumber but will not run the old fashion commands pdb nextescapenumber imho the 'old' syntax is ugly and we should relay on the new one checking for spaces properly feel free to submit this patch if looks ok for you thanks pancake

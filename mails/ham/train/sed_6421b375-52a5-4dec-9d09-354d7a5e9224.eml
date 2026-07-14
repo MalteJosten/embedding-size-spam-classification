@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ aa wrote dear list i have the following function where i plot on one page a histogram and a boxplot i use option labels true in hist to show labels however the label on the highest bar in the histogram is not showing entirely how can i correct this thanks for any suggestions histtst function n escapenumber set seed escapenumber makes rnorm reproducible par mfrow c escapenumber escapenumber x rnorm n hist x labels true boxplot x horizontal true you're running out of room on the y axis i don't know how to cure it in general because i don't know how to find the general height of the largest bin but this shows the problem you need to extend the ylim histtst function n escapenumber set seed escapenumber makes rnorm reproducible par mfrow c escapenumber escapenumber x rnorm n hist x labels true ylim c escapenumber escapenumber boxplot x horizontal true hhescapenumber histtst escapenumber r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

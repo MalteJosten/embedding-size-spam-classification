@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon escapenumber jun escapenumber chromatic via rt wrote on monday escapenumber june escapenumber escapenumber escapenumber escapenumber andy spieherty wrote i'm sorry to report it but this one isn't fixed for example consider test t src hash escapenumber if i compile and run it manually i get t src hash escapenumber escapenumber segmentation fault coredump i think the exit code stuff has been changed this test used to get reported as failing but the builder diag weirdness is unchanged ah i didn't add the exit code checking to c tests does this patch pass along the error it looks like it should but it may be a while before i can test it although anyone else who is looking for an easy task can easily test it just take any of the t src tests and add a core dump inducing statement at the end andy spieherty spiehera lafayette edu

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+alma wrote hi all i need to pass the result of prepare statement as an argument to the subroutine snip abc is calling delete file where it need to delete the file stored at the location mentioned in file path its not giving me an error but its not deleting the files from the location a few thoughts escapenumber where are you setting ' delete posterfile' and to what are you setting it escapenumber iirc following a sub declaration with empty parentheses tells the compiler that that sub doesn't take any parameters within the scope of the delete file sub is set to ' ' so shifting or assigning from to a list will always result in null assignments try removing the ' ' from the sub declaration lines jonathan dataweaver lang to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

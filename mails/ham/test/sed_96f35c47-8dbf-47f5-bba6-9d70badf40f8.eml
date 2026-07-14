@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber tim bergsma wrote is there a conventional way to test for nested factors i e if 'a' and 'b' are lists of same length factors does each level specified by 'a' correspond to exactly one level specified by 'b' the function below seems to suffice but i'd be happy to know of a more succinct solution if it already exists how about nested function a b if is list a a do call interaction c a drop true if is list b b do call interaction c b drop true length unique a length unique interaction a b drop true coescapenumber plant nested coescapenumber c type treatment true coescapenumber plant nested coescapenumber uptake mean coescapenumber uptake false hadley r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

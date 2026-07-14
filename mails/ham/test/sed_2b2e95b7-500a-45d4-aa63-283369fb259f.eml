@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+thats exactly what i am looking for thanks for your help ursprüngliche nachricht von peter dalgaard mailto p dalgaard biostat ku dk gesendet dienstag escapenumber mai escapenumber escapenumber escapenumber an dimitris rizopoulos cc thür brigitte r help stat math ethz ch betreff re r simulation dimitris rizopoulos wrote maybe you're looking for something like this x rpois escapenumber escapenumber y numeric length x for i in seq along x y i sum exp rgamma x i scale escapenumber shape escapenumber escapenumber or use sapply sapply x function x sum exp rgamma x i scale escapenumber shape escapenumber escapenumber or even replicate escapenumber sum exp rgamma rpois escapenumber escapenumber scale escapenumber shape escapenumber escapenumber esafe swica scanned this email for malicious content and found it to be clean r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

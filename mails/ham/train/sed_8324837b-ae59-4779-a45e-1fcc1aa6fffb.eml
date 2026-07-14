@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+frank e harrell jr wrote duncan murdoch wrote on escapenumber escapenumber escapenumber escapenumber escapenumber pm gad abraham wrote hi i'm using latex from frank harrell's hmisc library to produce latex files by default it calls xdvi and displays the dvi how can i make xdvi not show i couldn't find a clue in the extensive documentation unclass the result so it doesn't print as a latex object for example unclass latex escapenumber file test tex file escapenumber test tex style character escapenumber alternatively if you just assign the result you can print it later it's when you print that the latex'ing happens duncan murdoch just say w latex object file 'foo tex' so simple thanks gad gad abraham department of mathematics and statistics the university of melbourne parkville escapenumber victoria australia email g abraham ms unimelb edu au web http www ms unimelb edu au gabraham r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

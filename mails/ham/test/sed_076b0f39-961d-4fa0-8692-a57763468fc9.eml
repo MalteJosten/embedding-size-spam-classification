@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have a vector of character strings such as mainnames c cad aud and another vector say checknames c cad lescapenumber aud lescapenumber jpy lescapenumber eur lescapenumber cad lescapenumber aud lescapenumber jpy lescapenumber eur lescapenumber i want a new vector of character strings that is just resultnames c jpy lescapenumber eur lescapenumber jpy lescapenumber eur lescapenumber because any time a name occurs in checknames that has a subset that matches with mainnames the name in checknames should not be in the final result i can't use in because this example doesn't require exact matching the general problem would always have an el after the dot but the numbers can go upto double digits thanks a lot mark this is not an offer or solicitation of an offer to buy se dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

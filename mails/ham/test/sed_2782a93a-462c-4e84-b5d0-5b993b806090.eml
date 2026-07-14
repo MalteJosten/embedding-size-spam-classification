@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by chromatic please include the string perl escapenumber in the subject line of all future correspondence about this issue on monday escapenumber june escapenumber escapenumber escapenumber escapenumber mark glines wrote the ld library path bit is required on freebsd so parrot can find libparrot so the gnu linker supports a flag to mark a relocatable shared library from my makefile wl rpath home chromatic dev parrot blib lib i don't know which linker you use on freebsd but is there a similar flag if so using it could clear up some of the dynamic loading problems especially for dynops and dynpmcs c

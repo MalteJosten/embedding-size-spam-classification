@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+the hash was not suggested because of efficiency i suggested a hash because they require less coding and make your life so much easier less coding less room for errors nicer code etc not to mention that filling a hash from a textfile is trivial so you can move the associations into a file open file assocfile foreach find beginning of line until a pipe arbitrary marker and pipe until end of line assochash escapenumber escapenumber close file i think the loop can be done in one less line but who cares on escapenumber escapenumber escapenumber johnson reginald gti wrote yes that solves my problem i could've looked at the hold day and would not have caught it i guess a hash would be more efficient but since that's not an issue for me at this time i'll stick with what i got thanks to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

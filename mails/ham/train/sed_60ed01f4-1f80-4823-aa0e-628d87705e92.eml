@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber marin wrote i'm trying to get references from a simple regular exepression like this escapelong xdigit escapenumber print escapenumber escapenumber escapenumber escapenumber escapenumber \\n how to get all references and not the last one in the second parenthesis pair i don't think you're looking for references those are described in the perlref manpage you're using regular expressions described in the perlre manpage and elsewhere is that the source of your confusion i think you're looking to get every hex digit pair you can match maybe you could use m g in list context my matches escapelong xdigit escapenumber g but that may not be what you want especially if your data isn't just hex good luck with it tom phoenix stonehenge perl training to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

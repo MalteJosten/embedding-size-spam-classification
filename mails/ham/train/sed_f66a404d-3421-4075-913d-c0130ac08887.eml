@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i've just started to experiment with vista and i wonder if i can somehow tell if a file object is an ordinary file or a symlink junction as i understand it i will not be able to follow symlinks until the implementation of smbescapenumber so in the meantime i would like to ignore those files instead of throwing a bunch of ebadf any ideas regards henrik

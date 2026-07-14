@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by jerry gay please include the string perl escapenumber in the subject line of all future correspondence about this issue it seems that 'object' is a reserved word in imcc it's a synonym for 'pmc' it seems undocumented and i don't see a reason for it we already have a word for 'pmc' d \\usr\\local\\parrot\\head parrot sub main local pmc object end z error imcc syntax error unexpected objectv expecting identifier in file ' ' line escapenumber sure enough i can create a ' local object foo' d \\usr\\local\\parrot\\head parrot sub main local object foo foo new 'string' foo 'bar' say foo end z bar i suggest we deprecate 'object' jerry

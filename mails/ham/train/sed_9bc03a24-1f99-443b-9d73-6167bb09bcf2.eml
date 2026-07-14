@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+andrew bartlett wrote dragging up an old thread i realised never got anywhere on thu escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber alison winters wrote judging by what's in substitute c it looks like it will always substitute known macros regardless otherwise it will use a literal ' ' that's kinda wonky behavior if you need to use a literal ' ' next to a character reserved for macros we could add ' ' a la printf but that may regress people's existing smb confs that expect it to work otherwise it still seems like a reasonable change it seems silly we can never escape that indeed this fix should be trivial add an option to alloc sub basic to do something like realloc string sub a string but it's also silly that backslashes sometimes have meaning and other times do not see http lists samba org archive samba technical escapenumber may escapenumber html i think samba would gain a lot from an audit of what values are expected and legal for each smb conf option alison

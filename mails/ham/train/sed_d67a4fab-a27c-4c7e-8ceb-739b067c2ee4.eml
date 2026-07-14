@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am using levelplot from lattice with grids that have unequal cell sizes this means that the boundary between two cells is not always half way between nodes as levelplot assumes the result is that some cell sizes are rendered incorrectly which can be painfully obvious if using relatively large cells is there any work around i am using the conditioning capability of lattice and therefore image would not be a good way to go thanks scott waichler pacific northwest national laboratory scott waichler at pnl gov r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

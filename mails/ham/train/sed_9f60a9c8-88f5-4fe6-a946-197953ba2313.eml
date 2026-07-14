@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber volker lendecke wrote hi jeremy is there any particular reason why struct byte range lock contains a void as lock data i could not find a place where we store anything but struct lock struct s in there changing the record definitions gets rid of quite a few casts sounds fine to me jeremy 

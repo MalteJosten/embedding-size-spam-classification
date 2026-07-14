@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi provided speech dispatcher starts at system startup and also the festival server i think the easiest way to start speakup is to pu the following in etc modules speakup sftsyn i do it this way and there's no need for any scripts if you cannot start speakup manually without error messages you should solve this first hermann speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

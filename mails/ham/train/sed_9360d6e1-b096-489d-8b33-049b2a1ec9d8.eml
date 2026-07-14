@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i found most of r packages do stepwise model selection with aic criterian i am doing a study on the comparison of severy popular model selection methods including stepwise using p value criterian we know that in sas the stepwise uses p value criterian so this method could be a widely used method does any one know in r which package has the stepwise using p value criterian thanks li junjie alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

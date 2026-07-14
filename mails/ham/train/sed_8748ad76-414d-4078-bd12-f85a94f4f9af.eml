@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i don't know if i am giving text editors the wrong path but for some reason i can't edit speech conf in order to adjust the volume for espeak in speakup which is verry quiet compared to espeak with orca which is set at a good level i tried gedit which i thought might be the easiest route only it only treats the file as a read only file i have tried using sudo nano speech conf in the directory where the file is but for some reason it is not opening it and i have also tried vi with the same results when i try editors like nano and vi i am wondering if it is trying to create new files rather than allow me to modify the existing file speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

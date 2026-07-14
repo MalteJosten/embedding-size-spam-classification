@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all we have the following problem qa team using netbench raised a problem to having a escapenumber performance regression on samba shares between the escapenumber escapenumber escapenumberc and escapenumber escapenumber escapenumber versions of samba we tried to reproduce it by smbtorture using the tridge's client txt and we obtained the performance diffs between the escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumberc escapenumber escapenumber escapenumber flat diffs was no more than escapenumber escapenumber we trying to find a root cause of this different results we found the client txt was obtained snooping the traffic of the netbench of the version escapenumber questions is there anybody who has the client txt derived from the netbench vescapenumber traffic or who is experienced with the creating it is anybody know the differences which can cause such performance drop thank you in advance for any idea regards jiri

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i think this patch fixes the visibility problem with linux and gcc versions before escapenumber escapenumber i think it also enables symbol hiding on other platforms with gcc c

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i'm trying to do the following i want to search for a specific file s in my current dir and when it finds it print its contents so i did the following usr bin perl opendir current list readdir current closedir current foreach item list if item notes open file item file while print close file print file\\n i keep getting the following error in string item now must be written as \\ item at objescapenumber escapenumber pl line escapenumber near item execution of objescapenumber escapenumber pl aborted due to compilation errors so i changed the script usr bin perl opendir current list readdir current closedir current foreach item list if item messages open file \\ item note the \\ file while print close file print file\\n i don't get any output the file for sure exists any ideas on what i'm doing wrong amichai

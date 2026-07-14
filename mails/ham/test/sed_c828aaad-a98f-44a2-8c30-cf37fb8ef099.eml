@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i would like to use a nonparametric bootstrap to calculate the confidence intervals for the escapenumber and escapenumber quantiles using boot ci as you know boot ci requires the use of boot to generate bootstrap replicates for my statistic however this last function doesn't work in my case because i am missing something here is an example y rnorm escapenumber quantile function df quantile df probs c escapenumber escapenumber escapenumber escapenumber boot out boot y quantile r escapenumber sim ordinary error in statistic data original unused argument s c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber i think that it's due to another parameter stype that i have not included but i don't know what this paremeter represents many thanks for any suggestion bernard alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

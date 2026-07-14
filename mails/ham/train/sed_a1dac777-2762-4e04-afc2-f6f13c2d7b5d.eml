@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i have a script which is usually run through cgi but i want to set it up to be executed by a cron job each day too within the script i want to know where it was executed from cgi or command line cron job i'm currently checking argv to do this i e if there is data in argv then it was called from the command line but obviously this means there must be command line arguments and i'm also not sure whether there could sometimes be arguments in argv when called through cgi is there a better way to check tia cheers nigel to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

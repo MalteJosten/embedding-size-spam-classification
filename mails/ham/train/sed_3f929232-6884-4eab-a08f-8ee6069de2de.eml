@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri jun escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber james peach wrote not sure about this i think this depends on how you define idleness escapenumber see below recently i also had a quick chat with tridge about adding real idle events for example disconnecting an idle ldap connection is nothing you want to spend time on if you're really busy doing other things right now this is a normal timed event that is run when it's time has come i'm not sure about the api that this would need but if we added that to lib events c we would have a good way to determine if we have real work in the queue what to others think about an idle event api that says please run me every minute if you can but every ten minutes at least or something like this volker

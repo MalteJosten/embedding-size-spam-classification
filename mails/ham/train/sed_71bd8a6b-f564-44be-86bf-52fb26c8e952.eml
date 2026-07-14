@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber mark j reed wrote right something akin to pescapenumber's sig warn and sig die would also work but that never seemed to be quite the right way to do that to me never seemed quite right to me either er except way back when it did in pescapenumber such hooks are unnecessary for two reasons exception handlers are executed before the stack is unwound so a surrounding dynamic scope can get control at that point warnings are just exceptions that default to restarting so the same considerations apply and even if we did decide to install some kind of temporizable global hook for such callbacks i wouldn't put it into sig these days i'm not even sure signals belong in sig anymore seems to me they should just be event objects coming in via some feed to the event driven underbelly of the program assuming we go ahead with a unified events threads model as suggested by http www seas upenn edu lipeng homepage unify html larry

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i wonder if someone has done this before i am writing several functions that conduct statistical analysis using a gui interface by tcl tk they share many identical gui components what i am trying to do now is to simplify the code by writing a gui repository for all the components they use thus save effort for code maintenance since they all use mainframe tkcanvas top i wonder if i can write functions that take mainframe as an argument and call those functions from other place with initialized tkcanvas object i did not see example like this and from my limited experience with tcltk i found it always need something to be initialized before put to use that makes me wonder if this idea will work if it does not any work arounds like using macro thanks hao alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ however the legend does not reproduce the color shading used in the original barplot are those available somehow actually ingmar there's a more elegant way to recre ate the original colors to expand on your example data escapenumber escapenumber rows escapenumber cols escapenumber labels c 'left' 'right' position 'topleft' colors gray colors rows inset c escapenumber escapenumber escapenumber escapenumber height matrix data rows cols barplot height beside t legend position labels fill colors inset inset the key is the gray colors ' palette and inset' is for beautification best peter r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

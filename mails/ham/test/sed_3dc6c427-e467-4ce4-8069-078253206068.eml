@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by mark glines please include the string perl escapenumber in the subject line of all future correspondence about this issue include parrot string h contains escapenumber typedefs for the same thing string and string string is used everywhere string is used occasionally they are interchangeable this confused me at first because i thought string was the string pmc not the string c structure here's a patch to consolidate that and standardize on string based on the fact that it's used much more often than string is mark

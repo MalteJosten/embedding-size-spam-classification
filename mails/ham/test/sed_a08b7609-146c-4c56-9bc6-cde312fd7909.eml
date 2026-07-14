@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i havent seen that lme or lmer allows to specify certain constraints although i heard one could program ones own covariance structure specific constraints including one on the residual variance can be specified in sas proc mixed in my model i want to fix the residual variance to the known value of escapenumber if anyone having an idea about that i would appreciate letting me know thanks toby r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ text mode line endings are translated to from perl's end of line character \\n to the host operating system's end of line character crlf for dos based machines lf for unix based machines etc binary mode aka raw no translations are made characters bytes are written directly to the file encryption a method of making data hopeful unreadable but recoverable using an algorithm the output can be either binary or text depending on the algorithm do you want to compare two binary files to see if they have the same contents yes i need to compare the contents of two binary files to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

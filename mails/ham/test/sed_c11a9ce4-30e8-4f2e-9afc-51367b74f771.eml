@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i think that would be more work than truly necessary we have an obvious dependency on having a make that can read a generic makefile and a c compiler that can compile to the running architecture successfully cross compiling would come later we can limit what goes into parrot which pmc's etc and try to get a miniparrot that's works with a fairly default makefile for bootstrapping type make then whatever configure script then make again to build a full parrot it would help our external dependancies go down to what's an expected dependency make and cc the main things to consider is how much we'd need inside miniparrot on apr escapenumber escapenumber at escapenumber escapenumber pm jonathan worthington wrote jonathan worthington wrote i guess that doing so will involve re writing a lot of the current configure system and build tools into something that compiles down to pbc and then just ship something very basic that can run a pbc whoa i meant have some kinda miniparrot that can run a pbc but is pure ansi c or something long day jonathan 

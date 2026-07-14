@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on jun escapenumber escapenumber at escapenumber escapenumber am volker lendecke wrote on wed jun escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber gerald jerry carter wrote the names are confusing but windows nested groups implements the ntescapenumber model of local groups e g builtin\\administrators the winbind expand groups patch unrolls nested domain groups why have a parameter for that at all i would consider this to be a plain bug i've also read somewhere that the nesting limit for windows global groups is escapenumber so we could stop there please can we retain this parameter darwin does have true nested groups so i'm not sure that i would want this behaviour on be default for darwin james peach jpeach samba org

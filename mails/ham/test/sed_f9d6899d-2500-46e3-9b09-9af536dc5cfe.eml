@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber andreas moroder wrote hello in our application i have to convert all german umlaute in a string to a two char combination ä to ae ö to oe and so on can anyone please tell me how to do this use lingua de ascii http search cpan org dist lingua de ascii i learned it existed in the perlmonks thread rfc how to unaccent text http www perlmonks org node id escapenumber when salva made this comment http www perlmonks org node id escapenumber regards adriano ferreira thanks andreas to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

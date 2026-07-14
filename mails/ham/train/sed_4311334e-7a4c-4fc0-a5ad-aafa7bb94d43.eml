@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber alok nath wrote snip if m id\\s \\s \\sdirabsolute snip it does look fragile a lot depends on how likely the real input matches the example you gave that regex will break if the input is note the second space after the id also you can generalize the code by using character classes if my rec s \\s \\w \\w \\s \\s g my id exists rec id rec id not set my dir exists rec dirabsolute rec dirabsolute not set my desc exists rec 'test description' rec 'test description' not set print id id dir dir desc desc\\n to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

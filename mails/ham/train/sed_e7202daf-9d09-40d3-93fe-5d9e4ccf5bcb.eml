@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+good morning everybody i need to compare intercorrelations between variables my data were collected from escapenumber samples with various number of subject containing escapenumber variables scores some of my hypothesis are about the strength of relations the sign doesn't matter between variables across samples i have such correlation matrix a b ab c ac bc d ad bd cd a b c d my hypothesis are ad ac ad ab ad bd ad cd bc ac bc cd bc ab bc bd ac bd escapenumber ab bc cd ad escapenumber i would like to make above comparisons across the samples i'm only interested in whether the pattern is replicated in all samples not in the differences between them is it possible to do it in r i'm newbie any help would be greatly appreciated rafal bartczuk institute of psychology catholic university of lublin r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

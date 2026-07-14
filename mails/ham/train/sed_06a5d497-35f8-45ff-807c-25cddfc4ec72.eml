@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ revno escapenumber revision id tridge samba org escapenumber escapelong parent tridge samba org escapenumber escapelong committer andrew tridgell branch nick tridge timestamp thu escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber message fully separate the client version of ctdb call from the daemon version the client version is different enough that this is worthwhile enable local shortcut for client version of ctdb call add idr find type with better error reporting in case of type mismatch modified common ctdb call c ctdb call c escapenumber escapelong escapenumber common ctdb client c ctdb client c escapenumber escapelong escapenumber common ctdb util c ctdb util c escapenumber escapelong escapenumber include ctdb h ctdb h escapenumber escapelong escapenumber include ctdb private h ctdb private h escapenumber escapelong escapenumber tests bench sh bench sh escapenumber escapelong escapenumber diff too large for email escapenumber the limit is escapenumber 

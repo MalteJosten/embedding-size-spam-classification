@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i'm sorry that this question has been asked before but i ask it again because in the archives i didn't see a solution it's an old s plus dmp file for a hierarchical bayes linear model program written by dumouchel and available publicly and freely at ftp ftp research att com dist bayes meta hblm dmp only problem is that it cannot be read in r even using the functions of the library foreign to read dmp files does anyone know a workaround maybe hints about what parts of the file need to be modified so that it can be read i have read the documentations of the program it seems a very interesting program it's a shame that i can't read it thanks view this message in context http www nabble com reading old s plus dmp files tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

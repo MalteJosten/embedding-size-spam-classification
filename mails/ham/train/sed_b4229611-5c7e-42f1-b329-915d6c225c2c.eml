@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear latexrs i tried to make a latex printout of a simple categorial ftable it should look like the output of print ftable any ideas how to get the syntax of summary formula right or some alternative as far i see xtable does not have method for ftable dieter library hmisc n escapenumber sex factor sample c m f n rep true treatment factor sample c drug placebo n rep true symptom factor sample c 'h' 's' 'g' n true i want this output in latex ftable symptom treatment sex no it's not the same ss summary symptom treatment sex fun table latex ss r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i typically use a heredoc to format my email messages you can do all sort of things by sending the email as html of you want as well robert mathew wrote i'm using mime lite to create the email it is being generated as i'm able to send out all the emails necessary the way i'm doing it now is to use a variable which holds a small message to be inserted into the email however i don't know how to dynamically format that variable with the data i'm sending the data looks like this ticket id hh mm escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber and so on that is what gets placed in the file but i'd prefer it be placed inside the email mathew to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

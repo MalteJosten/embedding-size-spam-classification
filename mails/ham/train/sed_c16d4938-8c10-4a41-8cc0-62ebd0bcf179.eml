@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear users i have uploaded the new escapenumber escapenumber escapenumbera packages compiled for sarge at the same time i have removed older escapenumber escapenumber x and escapenumber escapenumber x packages for woody support for back porting packages to woody was already discontinued but older packages were still provided as these packages were not updated after the recent security issues i decided to remove them to avoid pushing people to use outdated and insecure packages with the believe they are ok because they are hosted on samba org i am looking to see if i have time to start publishing packages for etch i am undecided yet and i may discontinue this service if someone is highly motivated and wants to give a hand please contact me privately simo simo sorce samba team gpl compliance officer email idra samba org http samba org

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi during booting i get a msg fatal error inserting iescapenumberxx tco no such device i don't think i need the watchdog and would like to prevent kernel of trying to load it it is already blacklisted in etc modprobe de blacklist and put as skip in etc discover conf but that doesn't help can i do this in any other way than recompiling the kernel i'm running lenny with escapenumber escapenumber escapenumber escapenumber thanks kemal to unsubscribe email to debian laptop request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

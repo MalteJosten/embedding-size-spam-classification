@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber andy lester wrote my point is that d s is no more a weird cryptic construct than n or while s d s for that matter that's a very good point as you said in the original message all you need is dest src since the compiler will automatically complain if the two pointers don't point to the same type of object afaict the wrapping around the assignment in the macro just makes sure that there aren't any side effects but the only reason side effects would be a problem is that it's a macro mark j reed

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on friday escapenumber may escapenumber escapenumber escapenumber escapenumber david fetter wrote thanks to steven for the update and to nuno carvalho for the hacks atop same i've got the following one running for fedora core escapenumber although rpmlint complains that the devel package has no docs any chance of throwing this one into trunk works for me i changed the phrasing in the description slightly and added a nod to steve fink who created the original parrot spec file in escapenumber thanks applied as rescapenumber c

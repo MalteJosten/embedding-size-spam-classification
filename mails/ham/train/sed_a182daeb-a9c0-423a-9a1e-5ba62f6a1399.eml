@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber nath alok stsd wrote hi can i send a kill signal to a process which is created using system call basically i wanted to send a ctrl c signal to the process created by system call of course in the same program something like this sub test system create process now send kill signal system create next process is it possible maybe you want to look at perldoc f kill perldoc f getppid as a starter to get you going owen to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

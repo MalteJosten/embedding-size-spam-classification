@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello this is my first post to the list i am just getting my feet wet with perl my first programming language i'm running perl escapenumber escapenumber escapenumber on libranet linux a now defunct distro based on out of date debian sarge or before i think i am having trouble inputting a value via here is my troublesome script usr bin perl use strict open f junktesttext txt local \\ \\ \\ my sections close f print sections print \\n\\n end of echo check \\n\\n my patient print which patient are you looking for \\n chomp patient print you are looking for patient\\n when executed it runs up to and including asking me for input from the terminal when i enter a value for patient a escapenumber digit number and press enter nothing happens the cursor goes down to the next line and just waits if i replace the whole stdin thing with a fixed value for patient the script runs fine appreciate any advice chris to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

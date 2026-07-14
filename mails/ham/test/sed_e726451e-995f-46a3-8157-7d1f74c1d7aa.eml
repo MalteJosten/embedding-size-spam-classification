@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on apr escapenumber escapenumber at escapenumber escapenumber marco pesenti gritti wrote on thu escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber dafydd harries wrote it seems that recent commits to cairo add the warn if result is unused attribute to various functions returning cairo status t it seems rsvg doesn't check some of these and since it's built with werror the build fails this can be worked around as follows in source librsvg configure in revision escapenumber configure in working copy escapenumber escapenumber escapenumber escapenumber set more warnings enableval if test f srcdir cvsversion then is cvs version true set more warnings yes set more warnings no else set more warnings no fi this went on the wrong thread it seem the work around worked around the problem for us bert sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

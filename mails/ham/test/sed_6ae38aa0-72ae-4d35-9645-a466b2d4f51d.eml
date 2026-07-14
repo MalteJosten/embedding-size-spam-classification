@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ heard that i can't use multivariate garch model in r because r has only univariate garch models so how can i run a multivariate garch model in r there is a package in r for bivariate garch you can try search on mgarchbekk hope it helps gaurav alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

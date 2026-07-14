@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by andy spieherty please include the string perl escapenumber in the subject line of all future correspondence about this issue t configure escapenumber options fails if there is a directory with the substring 'parrot' located earlier in the working directory for example i have my source in home src parrot parrot current but t configure escapenumber options skips up past the 'parrot current' part and prints out t configure escapenumber options unable to open handle to home spiehera src parrot configure pl no such file or directory at t configure escapenumber options t line escapenumber andy spieherty spiehera lafayette edu

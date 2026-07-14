@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber nigel peck wrote i'd like to find a way of comparing the two mysql database strcutures and getting a list of the differences anyone know of any modules methods for doing this i don't know about something perl specific but i guess what you want is something like this mysqldump serverdb server sql mysqldump clientdb client sql diff napu clientdb serverdb changes diff requires some postprocessing of course but chances are it'll work fine leslie escapenumber personal homepage https viridian dnsalias net sky homepage gpg keyserver pgp mit edu recv keys escapelong

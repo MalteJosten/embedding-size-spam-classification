@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by paul cochrane please include the string perl escapenumber in the subject line of all future correspondence about this issue in the file config init hints darwin pm there is the todo item this variable needs renaming to be more general xxx ugly hack for rpath lib in config inter libparrot pm which occurs just before definition of the 'rpath' hash element of the config data object for darwin the variable needs to be renamed an appropriate name needs to be found first and the ugly hack for rpath lib needs to be implemented more nicely the link to config inter libparrot pm is unclear and should be clarified 

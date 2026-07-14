@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sun apr escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber preben randhol wrote we are noticing that a new vaio laptop is extremely slow to boot check that you're running a kernel that knows about you cpu and its pm and cpufreq features check that you have 'performance' as default cpufreq governor put some bogomips escapenumber and or cat sys devices system cpu cpuescapenumber cpufreq scaling cur freqtest in key rc scripts just to get trace of cpu state as boot goes on perhaps the cpu didn't notice you've done power on and keeps on sleeping paolo to unsubscribe email to debian laptop request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

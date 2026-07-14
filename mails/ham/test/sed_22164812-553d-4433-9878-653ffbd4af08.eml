@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber tridge samba org wrote what do you think not sure it's certainly cheap in the non contended case and very little and easy to understand code but i would suspect that it is quite easy to generate very many processes with that approach and what about the situation where very many children are waiting for a lock the child sits in f wrlck with setlkw it gets the lock it has to free it by exiting then there's a window where the lock is free and i think it is far from clear that the parent ever gets the chance to try the setlk because other children are sitting there in setlkw i might be wrong but i would like to understand that situation volker

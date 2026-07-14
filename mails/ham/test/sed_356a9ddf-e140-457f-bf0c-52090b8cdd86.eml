@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+will coleda wrote if we're keeping vtable we need to update this verbiage and include an example to avoid confusion on a related note method is mentioned in docs compiler faq pod docs imcc calling conventions pod if it's dead it needs to be deprecated if it's not it should probably be mentioned in pddescapenumber good idea text added to pdd escapenumber allison

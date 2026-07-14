@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi guys this is my first post in the list maybe you can help me with this issue i have a simple regex like this if line string do something the problem is that the contents in string may contain metachars i tried something like char \\ char but i did not work thank you for any replies regards jeff

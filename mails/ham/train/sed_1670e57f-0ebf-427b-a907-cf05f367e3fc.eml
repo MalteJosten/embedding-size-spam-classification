@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi we are having some problems on a workstation where we run a gina replacement and do escapenumber escapenumberx authentication on user logon this means that the network is not available when nobody is logged in the computer after the network becomes available we try to log the user into the domain and we get a unknown user name or bad password error if we wait for one minute the logon works ok we did a series of packet captures and found out that during that time some kind of initialization with the domain is done which normally is done when computer boots we'd like to know if it is possible to reproduce this behaviour using the windows api in order not to have to wait for a minute after each logon can anyone give us a tip on where to look thanks in advance carolina bruzzoni

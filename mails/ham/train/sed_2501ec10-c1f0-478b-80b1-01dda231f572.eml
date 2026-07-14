@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+it is an selinux problem so don't worry i will make dan fix the policy for fcescapenumber but you may still want to think if we need to add a better exit condition code in case of errors smbd was looping forever and filling the logs on selinux denying smbd access to inotifyfs simo simo sorce samba team gpl compliance officer email idra samba org http samba org

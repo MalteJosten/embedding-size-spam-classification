@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am not sure i am using correctly the mahalanobis distnace method suppose i have a response variable y and predictor variables xescapenumber and xescapenumber all cbind y xescapenumber xescapenumber mahalanobis all colmeans all cov all however my results from this are different from the ones i am getting using another statistical software i was reading that the comparison is with the means of the predictor variables which led me to think that the above should be transformed into predictors cbind xescapenumber xescapenumber mahalanobis all colmeans predictors cov all but still the results are different am i doing something wrong or have i misunderstood something in the use of the function mahalanobis thanks yianni r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

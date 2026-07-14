@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+tcltk must be installed on your system it is not a r package which linux are you using w eryk wolski wrote rusers library rcmdr loading required package tcltk error in firstlib which lib loc package tcl tk support is not available on this system while installing r i run configure with configure prefix bla bla with tcltk make make install configure did not returned any errors hence i assume that the the tcl tk libraries have been found installin packages tcltk returns an error telling me that there is no package tcltk on cran and indeed there no such package on cran whats wrong eryk alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+whenever i try to share an activity i get an error about get id not being defined on an activity and if you add it just for the heck of it it complains about get service name missing for example debug root activityservice set active escapenumber debug root requesting share of activity escapelong stderr traceback most recent call last file development sugar jhbuild build lib pythonescapenumber escapenumber site packages sugar activity activity py line escapenumber in share clicked cb self activity share file development sugar jhbuild build lib pythonescapenumber escapenumber site packages sugar activity activity py line escapenumber in share self pservice share activity self file development sugar jhbuild build lib pythonescapenumber escapenumber site packages sugar presence presenceservice py line escapenumber in share activity actid activity get id attributeerror 'abiwordactivity' object has no attribute 'get id' does anyone know what should be done to get this up and running again thanks marc sugar mailing list sugar lists laptop org http lists laptop org listinfo sugar

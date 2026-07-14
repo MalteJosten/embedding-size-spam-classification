@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ok i got this script that gets a lot of hits generates high bandwidth is there a simple way to check the amount of bytes printed to stdout so i can track the bandwidth it is generating 

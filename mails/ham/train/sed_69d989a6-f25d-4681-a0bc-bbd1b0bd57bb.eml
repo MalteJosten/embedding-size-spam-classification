@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello people one question about the header i recently sent for final approval the project developers want to distribute a single set of source files under both the licenses they don't want to have to maintain two different directories with two different versions of the same files with merely the license headers differing so this means that the header must be appropriate for both the gpl and the professional license i presume it is sufficient if it indicates that the source file can be used under both licenses for the gpl the disclaimer of warranty is a must a similar disclaimer is still applicable to their professional license so how should i change the latest draft i sent so that the same source files can be distributed to both gpl and professional license users shriramana sharma to unsubscribe email to debian legal request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

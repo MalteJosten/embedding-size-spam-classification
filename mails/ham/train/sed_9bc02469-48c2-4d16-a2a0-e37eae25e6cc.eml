@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by chromatic please include the string perl escapenumber in the subject line of all future correspondence about this issue the test t src intlist t calls into unexported libparrot functions which is why it just doesn't work on winescapenumber there's no easy way to test these functions through pir or the external api so the test is fairly decent a better test would link all of the necessary c files mostly just src intlist c into a full application without linking against libparrot dynamically however we don't have a test function that does that your task is to build one this may necessitate figuring out how to save the relevant how do i invoke the compiler magic from the makefile into a separate program or configuration file or perl module somewhere 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ yaron yaron writes yaron i am using cpan to install modules yaron from time to time i have to uninstall a module yaron untill now i did not find a tool to do it yaron is there an official tool for this no because the cpan pm shell is an installer not a packager it does not maintain a list of which files belong to which installations and will happily let two installations both write to the same file this will be problematic when you want to remove one of those installations later if you want package management you'll have to use a distribution like many linux and bsd distributions that have taken the extra time to package the cpan distributions that has its own downsides of course randal l schwartz stonehenge consulting services inc escapenumber escapenumber escapenumber escapenumber perl unix security consulting technical writing comedy etc etc see perltraining stonehenge com for onsite and open enrollment perl training to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i've never had a problem with any ftp client including ncftp from just typing get fileescapenumber then without waiting for it to finish processing that command or even while it's downloading simply type get fileescapenumber and it queues them automatically so when fileescapenumber is finished it automatically starts getting fileescapenumber i'm sure there's a setting somewhere in the config files that will tell it to get them in sequence or simultaneously but i've never fiddled with that and my files always come down one after the other i e you don't have to wait for fileescapenumber to be finished before asking for fileescapenumber but it will wait until fileescapenumber is finished before getting fileescapenumber anyway this works for standard ftp as well never used lftp so can't comment the reason this works is because when you type a new command it simply goes into the buffer and the ftp program processes the input buffer after it's finished what it's doing at the moment speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

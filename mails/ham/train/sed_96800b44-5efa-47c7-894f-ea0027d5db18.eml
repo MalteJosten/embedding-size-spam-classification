@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sun apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber tridge samba org wrote revno escapenumber revision id tridge samba org escapenumber escapelong parent tridge samba org escapenumber escapelong committer andrew tridgell branch nick tridge timestamp sun escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber message yay finally fixed the bug that volker ronnie and i have been chasing for escapenumber days the main bug was in smbd but there was a secondary and more subtle bug in ctdb that the bug in smbd exposed when we get send a dmaster i'll change ctdb read req to take care of stuff that's already in ctx inbuf i think that's easiest volker

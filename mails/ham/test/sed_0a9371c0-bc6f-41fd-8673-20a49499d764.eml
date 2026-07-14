@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+well wednesday evening i was on the phone with mike the author of yasr we eventually got yasr running through speech dispatcher and the new ibm tts last week someescapenumber mentioned we needed an emacs server for yasr well can you please tell us how and where main drawback is that when speech dispathcer is running i cannot use my sound card for anything else we could not find any commands to start tts so mike used telnet to controll it i really like the sound of this eliquence clone and some day i may want to even run speakup occasionally through it as i am still having some issues with dec talk thanks in advance and i will send along helpful comments to mike hart speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

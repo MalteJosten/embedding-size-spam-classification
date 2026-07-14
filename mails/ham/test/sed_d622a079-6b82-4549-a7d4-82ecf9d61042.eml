@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri jun escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber james peach wrote hi all the attached patch refactors sys setgroups according to jeremy's previous suggestion we add a primary gid argument which is used to preserve the effective gid when calling setgroups escapenumber on bsd systems we split the different setgroups getgroups implementations into separate functions to clarify the ifdef paths looks good to me thanks jeremy 

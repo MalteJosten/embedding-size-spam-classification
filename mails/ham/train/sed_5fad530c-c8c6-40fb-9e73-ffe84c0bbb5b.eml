@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+inside the loop i check if the value is defined so i don't care where in the order the undefined one shows up in i don't want to delete undefined ones or anything on escapenumber escapenumber escapenumber chas owens wrote on escapenumber escapenumber escapenumber yitzle wrote warning message use of uninitialized value in numeric comparison at code foreach sort dhash b 'val dhash a 'val' keys dhash how do i fix should my sort function be checking for variable defined what do i return on undefined it sounds like one of your keys does not have the key 'val' defined or its value is undef this may or may not be an error which is why it is a warning message i would loop over dhash until i found the bad value s and then decided what to do from there for my key sort keys dhash if not exists dhash key val print key does not have a val\\n elsif not defined dhash key val print key's val is undefined to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

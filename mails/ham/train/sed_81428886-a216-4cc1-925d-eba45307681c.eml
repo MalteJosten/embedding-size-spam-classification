@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+leo in the discussion around rt escapenumber i think i heard you say something about the code context interp ctx constants pmc sub sub seg const table constants seen for example in parrot call sub in src extend c do i remember correctly that you called this an optimization that could take place elsewhere in a similar case i have an nci sub i want to invoke from c my impression is that the structure of nci subs is sufficiently different from sub subs that this code doesn't do the right thing if i were to figure out where to move this initialization how would i do so c

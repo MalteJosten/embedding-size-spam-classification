@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+heads up a few weeks ago simon mcvittie attached himself to telepathy gabble and yesterday a connection manager library libtelepathy glib burst out of gabble's chest and ran off into the world soon gabble will need libtelepathy glib as with other telepathy components libtelepathy glib is kept in darcs http projects collabora co uk darcs telepathy telepathy glib can somebody add this to the jhbuild module set dafydd sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

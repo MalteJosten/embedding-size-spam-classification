@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i have several files with matlab code which i am translating to r for the zero level approach i took the very old shell script from r help archives which has made some obvious leg work such as replacement of with now i am translating indexing matrix operations and function call using this table http escapenumbermm no mpy octave r html the problem is i cannot find the r equivalent of the matlab's function medfiltescapenumber performing escapenumber dimensional median filtering of a vector its summary is here http www ccs ucsd edu matlab toolbox signal medfiltescapenumber html view this message in context http www nabble com looking for equivalent of matlab escapenumbers medfiltescapenumber function tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

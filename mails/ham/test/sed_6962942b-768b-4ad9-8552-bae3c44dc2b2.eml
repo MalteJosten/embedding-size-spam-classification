@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear r team i have a problem with writing an array to for example a txt file because of the txt file must be read from another programm opl ilog the syntax of the output must be from a special form name of the object escapenumber escapenumber escapenumber i think it's easier to understand with a small example x array escapenumber escapenumber c escapenumber escapenumber should be written as x escapenumber escapenumber escapenumber escapenumber i have until now used the following write x file filename write table x file filename sep eol \\n row names false col names false append true which leads to the following output x escapenumber escapenumber escapenumber escapenumber i hope you can help because it's very annoying to adjust the resulting txt file by hand thanks a lot for your help with nice greetings andreas gegg mathematic student on catholic university of eichstätt ingolstadt germany r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on friday escapenumber april escapenumber escapenumber escapenumber andy spieherty wrote unfortunately configure pl gc libc doesn't compile i don't know how long it's been broken i do i know i haven't tried it for a very long time here's the error message i get src gc dod c line escapenumber undefined symbol pobj bufstart external flag i don't see an obvious fix me neither ugh for the moment i'd recommend at least the following patch to platforms i'd also suspect it's worthwhile for an xescapenumber linux user to check whether the optimize version is in fact working optimize works for me on xescapenumber linux i'm going to hold off on this patch allison c

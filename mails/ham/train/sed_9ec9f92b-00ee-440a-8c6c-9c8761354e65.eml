@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber chas owens wrote on escapenumber escapenumber escapenumber bob mcconnell wrote snip can i also send it a signal to wake it up from another process in theory you should be able to use kill to send the alrm signal to another process i have not tried it snip looks like winescapenumber doesn't do the right thing with kill kill doesn't have the semantics of raise i e it doesn't send a signal to the identified process like it does on unix platforms instead kill sig pid terminates the pro b b cess identified by pid and makes it exit immediately with exit status sig as in unix if sig is escapenumber and the specified process exists it returns true without actually terminating it winescapenumber to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

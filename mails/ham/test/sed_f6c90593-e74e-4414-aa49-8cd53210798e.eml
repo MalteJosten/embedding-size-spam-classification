@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber markus loecher wrote hi i am trying to avid the somewhat costly startup overhead of launching a separate r executable for each client request on linux my current architecture is such that my java client explicitly calls r in batch mode and passes it certain parameters the initital startup takes almost escapenumber seconds because r has to load a bunch of libraries as well as a moderately large previously created workspace i am thinking that it would be so much more eficient to instead have r act as a server and fork off a thread for each client query is that possible at all yes google for rserve headless r server has java interface rapache r added to apache hth dirk hell there are no rules here we're trying to accomplish something thomas a edison r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

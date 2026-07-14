@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi patrick pmescapenumber york ac uk wrote dear r help list members i am new to r and having problems with plotting part of a time series i have read in my data using read table and my 'time' column is recognised as a numeric variable when i convert this to a time format i am no longer able to use its values on my x axis the problem is that i only want part of the time series to appear on the plot ignoring the first escapenumber measurements i would be very grateful if someone could suggest a way of solving this does my following example code help i just reduce the limits on the x axis myts ts runif escapenumber frequency escapenumber start c escapenumber escapenumber par mfrow c escapenumber escapenumber plot myts title main whole timeseries plot myts xlim c escapenumber escapenumber title main limited x axis hope this helps roland r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ons escapenumber escapenumber escapenumber klockan escapenumber escapenumber escapenumber skrev tridge samba org metze escapenumber but i think we can do better if we commit the public one's to svn and don't generate them by the normal 'make' escapenumber to keep information only in one place we should improve mkproto pl to also copy doxxygen comments into the proto header then we should add a the need of on exlicit 'make regenerate public headers' which will print out warnings about changed headers escapenumber ahh that sounds really good agreed the best fetures of both worlds with none of the obvious drawbacks regards henrik

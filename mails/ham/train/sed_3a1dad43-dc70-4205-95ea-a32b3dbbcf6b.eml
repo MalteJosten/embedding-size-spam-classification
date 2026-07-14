@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+tomeu vizoso wrote hi noah i think that you have to delete your home sugar dir at least it's working for me now my guess is that the presence service is getting an exception on startu p because of some stale data in sugar escapenumber for anyone else with this problem this fixed it thanks again noah

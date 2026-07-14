@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber john macdonald wrote removing the sigil on a function call it used to always be written sub args did i think lead to the difficulty in perlescapenumber where it became difficult to add new keyword operators to the language because they could conflict with subroutine names in existing code actually i think i never understood this issue we claim that having the sigils saves us from stepping on our future feet by making sure keywords of the language are always different from any variable we might create the fact that function don't need a sigil any more and it is even afaik discouraged to be used makes this argument mute thought this thread might not be the best place to ask this i'd be glad to read some explanation about this regards gabor

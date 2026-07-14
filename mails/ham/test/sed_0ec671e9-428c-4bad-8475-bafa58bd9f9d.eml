@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi list i am testing a regex with email ids i have a list of ids that i want to match against a one more list of ids i have this usr bin perl id userescapenumber example net while chomp print \\t print id found\\n if id print id not found\\n if id and a file tmp sampleids userescapenumber example net userescapenumber example net userescapenumber example net userescapenumber\\ example\\ net when i run it i get userescapenumber example net userescapenumber net not found userescapenumber example net userescapenumber net not found userescapenumber example net userescapenumber net not found userescapenumber\\ example\\ net userescapenumber net not found when i try to match simple text it works but matching email ids doesn't what am i doing wrong here please help me with this tia sk to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

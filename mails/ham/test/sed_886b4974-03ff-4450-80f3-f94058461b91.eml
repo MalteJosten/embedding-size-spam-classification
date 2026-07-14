@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber larry wall wrote on tue may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber chas owens wrote on escapenumber escapenumber escapenumber larry cvs perl org wrote snip if the count is less than escapenumber returns the null string the count may not be c because perl escapenumber does not support infinite strings at least not yet snip does may not be c mean that the compiler should throw a fatal error if it sees it or that the program will hang because it is the programmer's fault similar to while escapenumber the compiler is generally allowed to complain about anything it knows must fail at runtime and since scalars default to eager this will certainly run out of memory at runtime larry just an odd corner case but foo x should return an empty string and foo xx should return an empty list right 

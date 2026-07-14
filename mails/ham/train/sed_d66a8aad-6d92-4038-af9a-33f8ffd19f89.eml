@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi jeremy i just bumped into the get nt acl no snum function and it seems that this always calls the posix acl implementation since there's no guarantee that the file it is checking access to is on a posix filesystem or that the platform even supports posix acls shouldn't this call smb vfs get nt acl instead of get nt acl and shouldn't it use the dirname of the path it is checking for the fake connectpath rather than ' ' since they could be different filesystem types and even that is a bit wonky because it probably assumes that the global acls module is appropriate for this path which might not be true if you give me a hint i'll code up a patch james peach jpeach samba org

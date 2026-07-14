@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+simo does this cover the client segfaulting before an update yes it should do we need to walk through it in much more detail but i think that at least in principle we can handle crashes in arbitrary places once the code is less like vaporware we can walk through it carefully and pick holes in it cheers tridge

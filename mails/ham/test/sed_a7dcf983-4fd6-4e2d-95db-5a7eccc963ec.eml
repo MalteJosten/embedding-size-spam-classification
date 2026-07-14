@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+patch applied in rescapenumber hack described in configure pl and found in parrot configure step is fixed by making parrot configure object into a singleton this entailed changes in those two packages as well as config init defaults pm also parrot configure data slurp now checks parrot config generated rather than parrot config to determine if configuration has been completed escapenumber test files added to directory t configure t configure configure t eliminated because it assumed non singleton parrot configure object escapenumber pm files added for testing in new directory t configure testlib escapenumber new test file added to new directory t postconfigure which will house tests pertaining to configuration that can only be run once configure pl has been executed 'postconfigure' added to default tests in t harness manifest updated to reflect new files and one deletion application of this patch results in same parrot config generated pconfig as previous version of configure pl and associated files all tests in 'make test' pass 

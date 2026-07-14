@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi you ment system wen you said exec perldoc f system perldoc f exec for short exec replaces the perl process system invokes your myslqdump process and waits till it is finished hth martin on fri escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber jreljac gmail com wrote howdy please be gentle i'm a perl novice to say the least i have the following script called bk pl right now foreach argnum escapenumber argv my sec min hour mday mon year wday yday isdst localtime time exec mysqldump user password argv argnum backups argv argnum mon mday year hour min sec sql exec tar czpf argv argnum mon mday year hour min sec sql argv argnum mon mday year hour min sec when i run it scripts bk pl dbname it runs the first exec properly but it dose not do the second i get the error maybe you meant system when you said exec any ideas as to why this is happening thanks jason to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

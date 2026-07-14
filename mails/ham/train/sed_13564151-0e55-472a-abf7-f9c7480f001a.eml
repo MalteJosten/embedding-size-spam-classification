@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+patrick r michaud wrote this presumes that every pmc class also has a namespace pmc associated with it that points to the class i'm not sure that's true for parrot pmc classes it's what i've implemented though whether it's the design is another question that i'm not clear on the answer to jonathan

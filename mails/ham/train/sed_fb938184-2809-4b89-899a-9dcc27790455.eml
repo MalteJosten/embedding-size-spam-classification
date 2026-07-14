@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi recently a patch was supplied and applied for odbcescapenumber lib being linked into parrot this file is not needed for parrot but it seems it is still linked at least here on my machine winxp \\parrot\\library\\past pm pbc c \\perl\\bin\\perl exe e chdir shift argv system 'nmake' ' nologo' a rgv exit escapenumber compilers\\json link out \\pbc merge exe src\\pbc merge obj src\\parrot config obj lib parrot lib oldnames lib kernelescapenumber lib userescapenumber lib gdiescapenumber lib winspool escapelong lib advapiescapenumber lib shellescapenumber lib oleescapenumber lib oleautescapenumber lib netapiescapenumber lib uuid libwsescapenumber escapenumber escapenumber lib mpr lib winmm lib version lib odbcescapenumber lib odbccpescapenumber lib msvcrt lib nologo nodefaultlib debug machine xescapenumber debug check the second last line should it be there kjs

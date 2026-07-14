@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by yehoshua sapir please include the string perl escapenumber in the subject line of all future correspondence about this issue without this patch for runtime parrot library config pir to work parrot has to be run in its root directory in fact there was an xxx note in there saying so i changed parrot get runtime prefix not to return a const value because the value should be free'd later on also here's an example pir file to demonstrate 

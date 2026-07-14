@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+this is a terminology question not related to r the literature often says that ols is inefficient relative to gls if the residuals in the system are correlated and the rhs sides of each are not identical does this mean that ols overestimates residual and coefficient variances underestimates them or just gets them wrong and the direction is not known thanks this is not an offer or solicitation of an offer to buy se dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

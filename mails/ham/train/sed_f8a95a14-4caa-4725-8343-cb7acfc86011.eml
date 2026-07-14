@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+when i update packages r shows the dialog window listing cran mirrors and asks to choose the cran mirror to use in this session then r uses this address and never asks again until quit is there any way to make r ask for the cran mirror again except restarting it i am just trying to save typing because sometimes my internet connection with cran becomes too slow and mirrors disappear view this message in context http www nabble com where is cran mirror address stored tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+mimir first try to include file from current working directory this allows local includes which is handy sometimes yes it's very handy if you are a malicious hacker imagine the admin has a ftp upload area and cd's to that directory he wants to see if anyone is connected to that area with smbstatus the attacker uploads util js and hey presto the attacker has just got the admin to run his code inside smbstatus as root same applies to someones home directory there is a very good reason why is not in path on unix by default please revert this one it's a major security hole cheers tridge

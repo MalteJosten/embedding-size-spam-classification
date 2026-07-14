@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ but i also think that the original vasprintf code is fine i think peter is seeing a bug from somewhere else sorry you were right the bug was in my code now i've fixed see www samba org tridge psomogyi i've reverted debug c to original state i apologize detecting wrong error peter

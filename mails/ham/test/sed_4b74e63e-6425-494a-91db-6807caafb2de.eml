@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi what is the equivalent of basename ie if i dont want to use basename package to get the filename off a path what reg expr can i use in perl would this work my filename path \\ thanks 

@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: Please take a look at the attached resume.
+
+
+Attached please find.Content-Type: application/zip; name="cv.zip"Content-Transfer-Encoding: base64Content-Disposition: attachment; filename="cv.zip"

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+a pagaltzis wrote does it mean that basically the assertion is a character string property instead of the character string itself no it is a zero width assertion at escapenumber means the position “between” the escapenumberth and escapenumberth character of the string i see thank you also what is the correct way to replace the i th character in a str substr ah thank you again my newbie ness is extreme but doesn't substr modify the string in place is there a side effect free variant or should i just dup the str 

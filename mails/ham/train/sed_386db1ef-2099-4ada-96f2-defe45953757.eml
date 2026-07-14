@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have a bayesian hierarchical normal regression model in which the regression coefficients are nested which i've wrapped into one regression framework y x beta e i would like to run data through the model in a filter style kalman filterish updating regression coefficients at each step new data can be gathered after the first filter step i will need to be able to feed the a non diagonal posterior covariance in for the prior of the next step gls and glm seem to be set up to handle structured error covariances where mine is more empirical driven completely by the data explicitly solving w solve is really sensitive to small values in the covariance matrix and i've only been able to get reliable results at the first step by using weighted regression w lm am i missing an obvious function for linear regression w a correlated prior on the errors for the updating steps thanks in advance for any advice r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

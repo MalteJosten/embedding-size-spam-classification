@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+my first shot at the escapenumber escapenumber escapenumber samba ctdb packages are at http people samba org bzr jmcd samba escapenumber escapenumber ctdb jmcd i still have to deal with the collateral install files so this just has the standard init scripts i'll start on that now if you could at least verify that the executables are what you expect that would be great thanks go to packaging rhelescapenumber ctdb and run makerpms sh you'll either need to add a release tarball's docs directory in or specify the path to one via the docs dir variable before calling makerpms it will move the dummy docs dir out of the way symlink yours in build a tarball for the rpmbuild process then move it all back at the end jim mcdonough samba team jmcd at samba dot org

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i was able to successfully install grml to the hard disk using lilo as a bootloader after that i managed to boot into grml and get software speech i noticed that for some reason i couldn't just do a make menuconfig on the kernel sources already provided in usr src linux so i did aptitude update and aptitude install grml the system said that i had the latest version already which made sense since grml escapenumber escapenumber was only released a relatively few days ago when i did aptitude upgrade however i noticed some escapenumber or more packages that it said would be upgraded is this normally the pace of unstable when i upgraded them and rebooted i got no speechand seemingly no network connection either which leads me to believe that the kernel might have panicked or otherwise malfunctioned i didn't touch anything else in the system and yet for some reason i couldn't get speech after a routine upgrade i wasn't expecting a hundred and fifty packages any advice here thanks zack speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

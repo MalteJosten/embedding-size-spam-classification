@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+haloo uri guttman wrote if dirs mapped well onto file handles they would have been mapped that way long ago in the os in escapenumber years that hasn't happened afaik hans reiser is promoting just the unification of files and directories in his reiserescapenumber filesystem in particular does it support opening a file as a directory for accessing the file's metadata also think of files that have internal structure like tar files and libraries with the matching io plugin one can access these files with the same api that is used for unix style files directories in that sense it is a good idea to provide a fatter interface that has got explicit opendir and openfile methods in addition to plain open that dwims regards tsa 

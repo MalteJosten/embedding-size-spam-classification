@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+howdy i'm glad to be able to report that i was able to get a fully speakup enabled installation of gentoo linux onto a vmware image this helps solve some rather annoying problems with my particular computer specifically the cdrom drive being a little flaky i've found that espeak works very well in the virtual machine and that in general unless i'm doing something intensive like compilation the performance is great i'm actually rather proud of myself in that i was able to do this installation without sighted help something which i had previously needed i'll stop rambling now thanks for listening zack speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber nishi wrote so calling the perl script explicitly as in activestateperl \\bin\\perl exe solves my issue in the cygwin environment snip i think there is some confusion here you cannot be running activestateperl \\bin\\perl exe from the cygwin environment as activestateperl has no meaning to bash you would have to say activestateperl it would have meaning to the windows command line program cmd exe also cygwin does not use an environmental variable activestateperl that belongs to activestate perl which has nothing whatsoever to do with cygwin to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

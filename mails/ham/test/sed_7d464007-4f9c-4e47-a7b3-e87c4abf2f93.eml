@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+from nath alok stsd hi when i call use spreadsheet parseexcel in my program i get this error weak references are not implemented in the version of perl at c perl lib spreadsheet parseexcel pm line escapenumber begin failed compilation aborted at c perl lib spreadsheet parseexcel pm line escapenumber compilation failed in require at excel pl line escapenumber begin failed compilation aborted at excel pl line escapenumber the line escapenumber in parseexcel pm contains use scalar util qw weaken i have also ensured scalar\\util pm is in the path what version of perl do you have jenda jenda krynicky cz http jenda krynicky cz when it comes to wine women and song wizards are allowed to get drunk and croon as much as they like terry pratchett in sourcery to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+murray pung wrote i am using plot survfit surv time status and would like to add error bars rather than the confidence intervals am i able to do this at specified times e g when time escapenumber escapenumber leukemia surv survfit surv time status x data aml plot leukemia surv lty escapenumber escapenumber xlim c escapenumber escapenumber can i add error bars at times escapenumber escapenumber legend escapenumber escapenumber c maintenance no maintenance lty escapenumber escapenumber thanks murray error bars when done correctly should equal confidence intervals in the minds of many when the design package is available again for the latest version of r you can have more control using the survplot function with bars and bands options do survplot survfit frank frank e harrell jr professor and chair school of medicine department of biostatistics vanderbilt university r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

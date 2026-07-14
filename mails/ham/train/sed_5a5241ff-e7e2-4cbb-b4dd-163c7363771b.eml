@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on most ide motherboards you have two ide controllers each can support one master and one slave on a single cable you may need to set jumpers on the actual drives to get them set up correctly one jumpered as master one jumpered as slave on each controller the jumper setting info will be labeled on the drives you may also need to check the bios settings and make sure that all four drives are enabled and on older bios you may need to set them to the correct setting for the drive while on newer bios usually setting them all to auto will auto detect the drives and configure the bios appropriately spie speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

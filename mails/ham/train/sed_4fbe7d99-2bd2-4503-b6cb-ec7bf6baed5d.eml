@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi here's a patch to hardware manager that allows setting who has control of the video output the cpu's graphics hardware or the dcon's internal framebuffer the motivation for doing this is so that we can modify read activity to do power saving when it isn't rendering an update we can start by setting the source to dcon each time it finishes rendering and then setting back to cpu after the next render we'll turn the cpu off all the way after a longer period of idleness too thanks chris 

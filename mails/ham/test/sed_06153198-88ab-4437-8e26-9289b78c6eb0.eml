@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+maja schröter wrote hello everyone i want to write something in a plot with text or something similar e g text x y something but i want to encircle it by a box as in a legend i have absolutely no idea how this could work hi maja have a look at boxed labels and textbox in the plotrix package jim r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

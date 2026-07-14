@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+the problem is thus i an reading in data and using split to get it to an array each element column has a specific meaning eg firstname lastname etc rather than using escapenumber escapenumber i figured i could set up an enum firstname lastname etc i suppose the alternative is to define constant or variable each index name manually hm stupid me firstname lastname etc escapenumber x close enough to the enum d unless i messed up the range notation i guess that solves it on escapenumber escapenumber escapenumber rob dixon wrote yitzle wrote don't shoot me i can't find enum on the perldocs perl does have an enum right how do i go about making an enum i basically want a bunch of variables to equal subsequent values eg escapenumber escapenumber escapenumber perl doesn't provide enum natively but it's a solution to a problem so perhaps you ought to tell us what the problem is instead of trying to implement a c solution rob to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

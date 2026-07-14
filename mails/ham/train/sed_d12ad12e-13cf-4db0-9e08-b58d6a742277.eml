@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am currently finishing work on a program which can be used to identify a group of mathematical structures i would like to release it under the gpl however building the program involves applying a lossy compression algorithm to around escapenumbergb of data files turning them into about escapenumbermb i could possibly write a program which using this escapenumbermb could back the escapenumbergb data set i have on my hard disc but this would probably take around four months to run would it be reasonable to request someone had to spend £escapenumber on an external hard disc and postage if they wanted to request the source to my program and is there any way i could ever get such a program into debian perhaps a different license thank you ps please cc me i am not subscribed to the list

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon escapenumber apr escapenumber escapenumber escapenumber escapenumber escapenumber paul cochrane via rt wrote new ticket created by paul cochrane escapenumber please include the string perl escapenumber in the subject line of all future correspondence about this issue escapenumber escapenumber escapenumber in the file src ops core ops within the load bytecode op there is the todo item embedded in a docstring escapenumber load parrot bytecode from file escapenumber and todo search the library path to locate the file escapenumber this functionality needs implementation i looked up load bytecode and found src packfile c this implementation uses parrot locate runtime str which performs the lookup with library search paths the comment wherever it is is out of date i think cheers mike mattie codermattie gmail com

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sat escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber kai blin wrote hi metze looks like i broke make test on merlin escapenumber and xenescapenumber netbsd samba escapenumber i don't understand how my changes affect the wins replication test at all though looking through the wins sources nothing there seems to use winbind i'm kind of stumped there any ideas kai keep in mind not all machines in the build farm behaves perfectly sometimes they just fail for reasons not related to your change just examine the logs and build history in that host and if you are reasonably sure it is not related to a change you made just wait some time a day or so and check later to see if anything changed also some hosts are so slow that they may take several svn revisions between tests so make sure the fault is not due to others code simo simo sorce samba team gpl compliance officer email idra samba org http samba org

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber escapenumber escapenumber pm andrew yee wrote this is a dumb question but i'm having trouble finding the answer to this i'd like to do the following x asdf and then have the object x y become automatically converted represented as asdf y sort of akin to macro variables in sas where you would do let x asdf and do x y what is the syntax for having x represented as asdf in x y you can use assign gsub x x x y x y but this is not a normal thing to do in r programs r is not sas you should investigate using a list and setting a member of it e g asdf y value or f function value list y value asdf f value depending on what you are trying to do duncan murdoch r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

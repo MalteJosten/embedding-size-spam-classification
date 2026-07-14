@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber somu wrote lets say i have an image at e icons ttt so how do i show it on a button created using tk i tried to learn from the widget application but they have some specific folder inc or something you can create inline images with xpm files usr bin perl use strict use warnings use tk my mw tk mainwindow new my button mw button pack my x mw pixmap data qq xpm static char x xpm escapenumber escapenumber escapenumber escapenumber c none c escapenumber my o mw pixmap data qq xpm static char o xpm escapenumber escapenumber escapenumber escapenumber c none c escapenumber my toggle x o button configure image x command sub toggle toggle escapenumber escapenumber button configure image toggle escapenumber tk mainloop to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tuesday escapenumber june escapenumber escapenumber escapenumber escapenumber gerald jerry carter wrote we really need a release manager maintainer for this cutting rpms out of an svn tree is probably not the best way to track stability well this mostly depends on the apache side of things iirc escapenumber mod auth ntlm winbind just uses an ntlm auth wrapper to do things much lik e escapenumber i do for wine or the cyrus sasl ntlm plugin also in lorikeet the ntlm auth interface is pretty stable so apache probably is what change s escapenumber most andrew you had looked into this in the past is anyone interested in taking it over simo already volunteered after soc i'm happy to do this as i intend to escapenumber keep a better eye on ntlm auth i need to do that for wine anyway ideally escapenumber this would go into the apache code base cheers kai escapenumberd escapenumber kai blin worldforge developer http www worldforge org wine developer http wiki winehq org kaiblin samba team member http www samba org samba team escapenumberd will code for cotton 

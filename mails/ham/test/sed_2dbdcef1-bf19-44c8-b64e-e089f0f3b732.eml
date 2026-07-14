@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ begin pgp signed message hash shaescapenumber volker lendecke wrote on tue may escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber gerald jerry carter wrote i just found that we open winbindd idmap tdb independently in tdbsam new rid in pdb tdb c with the new idmap code which can have different providers for the allocation backend this is probably wrong shouldn't the rid counter passdb tdb sure in theory this is the right place but at the time i pulled the rid allocator from winbind i did not want to break the on disk data format ok gotcha i'll have to go back and look at the code again jerry begin pgp signature version gnupg vescapenumber escapenumber escapenumber mingwescapenumber comment using gnupg with mozilla http enigmail mozdev org escapelong ccescapenumbercvci escapelong iescapenumbertx end pgp signature 

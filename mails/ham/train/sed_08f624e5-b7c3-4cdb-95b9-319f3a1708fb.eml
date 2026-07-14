@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+yup just got this recently ref http perldoc perl org functions ref html returns a non empty string if expr is a reference the empty string otherwise if expr is not specified will be used the value returned depends on the type of thing the reference is a reference to builtin types include on escapenumber escapenumber escapenumber bryan r harris wrote is there a way to determine whether a variable is a pointer to a hash pointer to an array or just a number string tia bryan to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

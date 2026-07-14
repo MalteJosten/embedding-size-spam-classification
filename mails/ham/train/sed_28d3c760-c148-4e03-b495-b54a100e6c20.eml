@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi tang please send questions about bioconductor packages to the the biocondcutor mailing list please also read over the posting guide for that list to make sure you provide enough information for folks to help you http bioconductor org docs postingguide html tang lee writes i am having problem installing the affycoretools package when i do it through bioclite i get error messages saying the package xml cannot be installed and that i need a more recent version of libxmlescapenumber and did you resolve this by instaling a more recent libxmlescapenumber seth seth falcon computational biology fred hutchinson cancer research center http bioconductor org r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

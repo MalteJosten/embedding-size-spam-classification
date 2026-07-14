@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sun escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber chromatic wrote on sunday escapenumber june escapenumber escapenumber escapenumber escapenumber james e keenan wrote escapenumber chromatic wrote escapenumber if you're using a modern gnu ld remove the shared library and add a few more flags to link dynamic in makefile here's mine link dynamic escapenumberd wl e oescapenumber zdynsort hashvals hash style escapenumberdgnu zcombreloc escapenumber do you have to edit the makefile for this or can you set it with command line arguments to configure pl escapenumber in theory i think you can add the arguments to the ld flags environment variable when you run make but i was going for reliability and just edited the generated makeful temporarily escapenumber c this greatly depends on specific versions of gcc and binutils there are working and or buggy versions i think this sort of optimization is escapenumber more appropriate for a distro to perform my escapenumber cents cheers mike mattie

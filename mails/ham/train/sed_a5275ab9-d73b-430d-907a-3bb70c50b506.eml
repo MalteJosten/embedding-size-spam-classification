@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber craig schneider wrote hi guys how could i exec a 'dir' command on a dos system and put the output in an array sort by date and the files that are older than escapenumber days be moved into a folder called 'history' look at module file find this should be able to help you for a simplification of the other process you can use opendir function to read the files in a directory one by one and then issue the stat as in the other answer ken foskey foss developer to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

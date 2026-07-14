@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+patrick r michaud wrote looking at t operators ternary t escapenumber at the bottom of the file there is a test that reads escapenumber this parses incorrectly because it's parsed as bool true bool false my foo escapenumberd eval q escapenumber bool true bool false is foo bool true a statement with both and in it did c ompile todo escapenumber escapenumber i'm not entirely certain what this test is intending to test do we need it does it perhaps belong somewhere else we had a bit more discussion about that on perlescapenumber see basically i think that we need the test somewhere and it is not a test that one would usually write unless he she found a regression in one implementation therefore it would be good to have them somewhere separately in an implementation specific manner that would reduce the wtf effect while reading the official tests of course all other implementations have to pass them as well i'd suggest t regression implementation in the pugs repository as the new location for such tests i'd any comments on that moritz escapenumber moritz lenz http moritz escapelong org http perl escapenumber de 

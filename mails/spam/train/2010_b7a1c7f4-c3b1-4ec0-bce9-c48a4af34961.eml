@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: hello
+
+
+Please find attached the new Word documentContent-Type: application/zip;	name="doc.zip"Content-Transfer-Encoding: base64Content-Disposition: attachment;	filename="doc.zip"

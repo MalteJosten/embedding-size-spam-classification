@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+weiwei shi wrote hi there suppose i have a couple of data frames and each one has five columns one for x axis two for y axis and two for std of y's there is another dimensions besides x and y which is continuous my question is how to plot such series of data frames in one plot thus escapenumber dimensional plot and multiple escapenumber d plots i am not familar with r's plotting utilities hi weiwei maybe colorescapenumberd matplot for the escapenumberd plots setting par mfrow appropriately i have just uploaded a new version of plotrix in which colorescapenumberd matplot will handle nas appropriately doing such things as upper or lower triangles of matrices look for version escapenumber escapenumber escapenumber when it pops up on cran jim r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

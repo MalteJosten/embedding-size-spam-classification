@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear thanks for your prompt assistant the problem i posted is just a bit of my problem the whole problem is that escapenumber i simulated a multivariate data set x n by p escapenumber then draw sample without replacement from x k less than n escapenumber compute the eigen values of the variance covariance matrix of the sample drawn escapenumber store the eigen values in matrix eigenvals escapenumber store the samples that is the row identifier drawn in rowvals escapenumber bind the two matrices using rbind the problem is escapenumber now i want the print out of the maximum values of the eigenvalues product and samples that give such maximum product thanks oyeyemi gafar m fussy opinionated impossible to please perfect join yahoo 's user panel and lay it on us alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

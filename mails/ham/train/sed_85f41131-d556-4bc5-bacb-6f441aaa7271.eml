@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dan williams wrote on fri escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber owen williams wrote here is a patch for http dev laptop org ticket escapenumber i am just patching intro py to reject usernames that are all whitespace and to trim excess whitespace on either end also when a user supplies a blank nickname and presses the forward button i briefly flash the my name label this can be changed if there's a better way to indicate why the interface is refusing to advance looks good marco can you apply i think owen has write access owen please go ahead and check it in thanks marco sugar mailing list sugar lists laptop org http lists laptop org listinfo sugar

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber johann hanne wrote it's ok for me if you insist on the current behaviour but then the smb conf man page is still wrong as it says default winbind separator '\\' the default is \\ and this directive would set it to ' and even worse it suggests that it's ok to enclose the character in quotes which is wrong too if you keep the current behaviour the man page must explain that the default is something like winbind separator \\garbage btw if you set it to \\ ie you add a space past the \\ it might work but i agree we should support '' in the syntax simo simo sorce samba team gpl compliance officer email idra samba org http samba org

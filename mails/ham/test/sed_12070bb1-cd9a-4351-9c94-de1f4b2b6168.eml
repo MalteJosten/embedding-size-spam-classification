@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello all i am a new r user and am having some difficulty using my imported data i have finally figured out how to import my data by using the read delim filename header true which took some time because i had to change the directory a hint for others who might be struggling however i am now stuck on being able to use my data i read that i will have to use some command like attach but when i try to do anything with my data even say data frame i don't know how to call my data if i say data frame filename it says object not found so basically i don't know how to call my data suggestions thanks susie alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

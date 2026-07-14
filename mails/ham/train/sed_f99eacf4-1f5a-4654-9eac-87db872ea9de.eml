@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+yitzle wrote i got a cgi script that is being used by multiple users it reads writes data to a database text file when it reads it reads the entire file and when it writes it tuncrates and rewrites the entire file can will this screw up the file if two people try to write to the file at the same time how do i prevent problems sql mysql is not an option perldoc q \\block john perl isn't a toolbox but a small machine shop where you can special order certain sorts of tools at low cost and in short order larry wall to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

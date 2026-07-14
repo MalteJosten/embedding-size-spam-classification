@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am interested in locating a script to implement a sampling scheme that would basically make it more likely that a particular observation is chosen based on a weight associated with the observation i am trying to select a sample of escapenumber census blocks from each zip code area based on the proportion of women in a zcta living in a particular block i want to make it more likely that a block will be chosen if the proportion of women in a patient's age group in a particular block is high any ideas are appreciated r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

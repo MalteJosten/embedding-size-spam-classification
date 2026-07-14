@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi everyone polyclass is a polytomous logistic regression model using linear splines and their tensor products it provides estimates for conditional class probabilities which can then be used to predict class labels i know there is polyclass package in s plus so i'm wondering if there is a corresponding package in r i have been searching for it for quite a while but still haven't found it you help is appreciated very much best regards feng alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on thu may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber derrell samba org wrote jeremy allison writes on wed may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber derrell samba org wrote the only place that readahead is used i think is in vfs readahead c it might make sense for the maintainer of this module to look into using posix fadvise instead of readahead did you look at the code here i'm guessing not clearly i hadn't noticed that further down it tries posix fadvise thanks for pointing it out based on the fact that there's possibly no reliable declaration for readahead and that there is a posix compliant alternative would it make sense to swap the order try to use posix fadvise first and if it doesn't exist then look for readahead also since linux provides posix fadvise maybe there's no reason for readahead at all no it doesn't make sense as readahead and posix fadvise actually do different things i want the readahead semantics in this case and only fall back to posix fadvise as a poor mans alternative jeremy

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i am a beginer in perl what i am trying to do is this i have a escapenumber directories each having a file kat s in them i have names of all these directories in a text file list of dir txt i have to open the each of kat s in all the escapenumber directories and add a line say abcd at line number escapenumber in each of them what i have thought of doing is that using list of dir open each directory and open kat s and print the required statment i have written a code but i am stuck in opening the directory and than kat s file please help or suggest any better way to do it thanks use strict use warnings my file 'print txt' open my vedout ' ' file or die could not open ' file' open vedin 'list of dir txt' or die cannot open 'file txt' my rgstr foreach my file list rgstr print file list printing list of dir open dirin ' file list kat s' or die cannot open 'file txt' this is not working close vedin close vedout to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

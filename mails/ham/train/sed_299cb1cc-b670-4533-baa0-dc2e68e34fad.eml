@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+jim try here the example code is in matlab but it is trivial to translate to r note if you use principal components as the source vectors thanks to jason tangen for the suggestion the correlations between the resulting vectors will be exactly the specified r values on escapenumber jun escapenumber at escapenumber escapenumber am r help request stat math ethz ch wrote i need to create artificial datasets with specific correlation coefficients i e a dataset that returns r escapenumber escapenumber etc as examples for a lab i am teaching this summer is there a way to do that in r please avoid sending me word or powerpoint attachments see dr john r vokey r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

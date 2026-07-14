@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+author jerry date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber sun escapenumber may escapenumber new revision escapenumber websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber log convert both lookup name and lookup sid to follow the same heuristic first try our dc and then try a dc in the root of our forest use a temporary state since winbindd lookupxxx async is called from various winbindd api entry points note this will break the compile that will be fixed in the next commit modified branches samba escapenumber escapenumber source nsswitch winbindd async c branches samba escapenumber escapenumber source nsswitch winbindd util c branches samba escapenumber escapenumber escapenumber source nsswitch winbindd async c branches samba escapenumber escapenumber escapenumber source nsswitch winbindd util c changeset sorry the patch is too large escapenumber lines to include please use websvn to see it websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber

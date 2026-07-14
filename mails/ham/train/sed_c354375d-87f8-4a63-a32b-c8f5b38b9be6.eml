@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on may escapenumber escapenumber at escapenumber escapenumber pm volker lendecke wrote on wed may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber james peach wrote i have a memory of replying to this but maybe i never hit send the dependencies change means we track dependencies correctly so if you change a header used by an object we know that we have to rebuild this object since 'make proto' updates a bunch of headers i would expect that doing this would cause a lot of objects to be recompiled try touching include includes h practically everything is rebuilt make proto is a bad thing we should kill it if you want to turn off dependencies there is a configure switch if there is widespread agreement that the dependencies suck then i'm open to reverting the changes but i note that it's the only way to make sure you always get a correct build can we discuss this on samba technical samba org please i strongly disagree with this kind of automatic dependency checking really why james peach jpeach samba org

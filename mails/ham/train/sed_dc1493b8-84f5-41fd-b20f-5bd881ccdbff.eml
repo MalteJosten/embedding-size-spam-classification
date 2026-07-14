@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i've searched for the answer to this in the help list archive but wasn't able to get the answer to work i'm interested in converting a row of a data frame into a vector however when i use as vector x escapenumber i get another data frame instead of a vector on the other hand when i use as vector x escapenumber i get a vector thanks andrew alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

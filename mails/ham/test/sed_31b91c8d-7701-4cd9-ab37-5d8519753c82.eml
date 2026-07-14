@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on may escapenumber escapenumber at escapenumber escapenumber marco pesenti gritti wrote dan williams wrote on sun escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber j m maurer wrote it seems the datastore prevents any activity from starting up with the latest sugar as i'm not familiar with any of that i'll leave fixing it to the pros did you do a ' sugar jhbuild build meta sugar platform' this could be a case of the datastore not having the right pieces built try running sugar jhbuild shell and then 'build bin datastore service' and see if it traces back or something dan it could also just be a lock in your profile try to delete sugar datastore that's what i do every time before starting sugar to make it behave bert sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

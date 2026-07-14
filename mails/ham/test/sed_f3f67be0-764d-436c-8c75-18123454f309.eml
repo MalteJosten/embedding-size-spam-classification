@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+there has never been source code available for ibm viavoice it is not open source never has been never will be what was provided was a header file to be included in your own source which allowed you to invoke engine functions see the documentation for ibm tts it's all spelled out hynek hanke said it looks to me that the source code is definitely not available except for small helper applications like tts connector which are useless without the main ttsynth code anyway am i right unless things are different than when i use it and i don't think so there is a binary executable with an api that you can call from programs that doesn't make it useless it just means the engine is not open source you shouldn't need to mess with the engine anyways from what i have seen i'm pretty sure ibm didn't own the source for tts so they can't give it away it looks to me like it's a license from eloquence binary license spie speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

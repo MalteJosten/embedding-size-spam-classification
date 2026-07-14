@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+jeremy paranoid thinking that's all haven't got a corrupt file that shows it but i will try and create one ok thanks you could also consider using transactions on this tdb transactions only affect write speed and i suspect write speed isn't so critical on this tdb as we should only be writing to the tdb after we've done an operation on a remote dc so i'd guess the speed of the remote operation will swamp the transaction fsync msync time ideally we would use transactions or ldb which uses transactions underneath on all long lived databases in samba then we can have a smb conf parameter which enables the tdb nosync flag in tdb open calls for people who want speed instead of safety that flag leaves the same transaction api but just disables the fsync msync calls so it means we are safe against kill escapenumber but not safe against system crashes it also makes it fast again cheers tridge

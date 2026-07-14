@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i put in my code use strict use warnings so i declared many variables by example counters and arrays using my my script start the postgres postgresql pl start stop reload status i'm using this below structure when i run the script como the message use of uninitialized value in string eq at postgresql pl line escapenumber if i put in code my argv 'a' come the message sh c line escapenumber unexpected eof while looking for matching '' sh c line escapenumber syntax error unexpected end of fil i tried create this array but all attempts fail how i can to resolve this problem if argv escapenumber eq 'stop' print stopping postgresql \\n unless fork for my i escapenumber i banks i print hello world fecha fork best regards faria fale com seus amigos de graça com o novo yahoo messenger http br messenger yahoo com to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

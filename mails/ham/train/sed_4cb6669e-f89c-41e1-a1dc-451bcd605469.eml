@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+here is a patch that will make tamtam work with our latest developer builds there are still some issues i see with rendering tamtam widgets but now they at least show up for speed i have taken the liberty of fixing this in the current release and naming it tamtam escapenumber xo please bump the version to escapenumber in the next official release ccing olivier because he was the last to commit to the git repo john jescapenumber palmieri

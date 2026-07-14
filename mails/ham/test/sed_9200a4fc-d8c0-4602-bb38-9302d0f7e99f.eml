@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i wanted to ask help about importing sas datasets escapenumber i tried with some functions as read ssd foreign package but it doesn't import the file if the length of the variables' names are longer than escapenumber bite it has to conform to the escapenumber version escapenumber i then tried with the sas get function hmisc package but with the command c sas get lib c \\\\ghan mem mkdsescapenumber var format library d \\\\r\\\\r escapenumber escapenumber escapenumber sasprog c \\\\programmi\\\\sas\\\\sas escapenumber escapenumber\\\\sas exe r can't launch the sas exe because there is a space in the directory sas escapenumber escapenumber is it possible that r can't import sas datasets with variables' names' length longer than escapenumber bites could you help in any of the two cases thank you anna emilia martino r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

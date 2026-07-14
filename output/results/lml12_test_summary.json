@@ -1,0 +1,444 @@
+{
+  "cosine_0.0": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "cosine_0.1": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "cosine_0.2": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "cosine_0.3": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "cosine_0.4": {
+    "classifications": {
+      "tp": 4994,
+      "tn": 202,
+      "fp": 4798,
+      "fn": 6
+    },
+    "tpr": 0.9988,
+    "tnr": 0.0404,
+    "precision": 0.51,
+    "recall": 0.0404,
+    "f1_score": 0.6752,
+    "g-mean": 0.2008768777136881,
+    "acc": 0.5196,
+    "ba_acc": 0.5196,
+    "auc_prc": 0.7547
+  },
+  "cosine_0.5": {
+    "classifications": {
+      "tp": 4894,
+      "tn": 3154,
+      "fp": 1846,
+      "fn": 106
+    },
+    "tpr": 0.9788,
+    "tnr": 0.6308,
+    "precision": 0.7261,
+    "recall": 0.6308,
+    "f1_score": 0.8337,
+    "g-mean": 0.7857652575674239,
+    "acc": 0.8048,
+    "ba_acc": 0.8048,
+    "auc_prc": 0.8578
+  },
+  "cosine_0.6": {
+    "classifications": {
+      "tp": 4236,
+      "tn": 4884,
+      "fp": 116,
+      "fn": 764
+    },
+    "tpr": 0.8472,
+    "tnr": 0.9768,
+    "precision": 0.9733,
+    "recall": 0.9768,
+    "f1_score": 0.9059,
+    "g-mean": 0.9096949818483117,
+    "acc": 0.912,
+    "ba_acc": 0.912,
+    "auc_prc": 0.9485
+  },
+  "cosine_0.7": {
+    "classifications": {
+      "tp": 3282,
+      "tn": 4995,
+      "fp": 5,
+      "fn": 1718
+    },
+    "tpr": 0.6564,
+    "tnr": 0.999,
+    "precision": 0.9985,
+    "recall": 0.999,
+    "f1_score": 0.7921,
+    "g-mean": 0.8097799701153394,
+    "acc": 0.8277,
+    "ba_acc": 0.8277,
+    "auc_prc": 0.9133
+  },
+  "cosine_0.8": {
+    "classifications": {
+      "tp": 2517,
+      "tn": 4999,
+      "fp": 1,
+      "fn": 2483
+    },
+    "tpr": 0.5034,
+    "tnr": 0.9998,
+    "precision": 0.9996,
+    "recall": 0.9998,
+    "f1_score": 0.6696,
+    "g-mean": 0.709435916767681,
+    "acc": 0.7516,
+    "ba_acc": 0.7516,
+    "auc_prc": 0.8757
+  },
+  "cosine_0.9": {
+    "classifications": {
+      "tp": 1964,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 3036
+    },
+    "tpr": 0.3928,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.564,
+    "g-mean": 0.6267375846396959,
+    "acc": 0.6964,
+    "ba_acc": 0.6964,
+    "auc_prc": 0.8482
+  },
+  "cosine_1.0": {
+    "classifications": {
+      "tp": 504,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 4496
+    },
+    "tpr": 0.1008,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.1831,
+    "g-mean": 0.3174901573277509,
+    "acc": 0.5504,
+    "ba_acc": 0.5504,
+    "auc_prc": 0.7752
+  },
+  "euclidean_0.0": {
+    "classifications": {
+      "tp": 504,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 4496
+    },
+    "tpr": 0.1008,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.1831,
+    "g-mean": 0.3174901573277509,
+    "acc": 0.5504,
+    "ba_acc": 0.5504,
+    "auc_prc": 0.7752
+  },
+  "euclidean_0.1": {
+    "classifications": {
+      "tp": 830,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 4170
+    },
+    "tpr": 0.166,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.2847,
+    "g-mean": 0.4074309757492673,
+    "acc": 0.583,
+    "ba_acc": 0.583,
+    "auc_prc": 0.7915
+  },
+  "euclidean_0.2": {
+    "classifications": {
+      "tp": 1157,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 3843
+    },
+    "tpr": 0.2314,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.3758,
+    "g-mean": 0.48104053883222775,
+    "acc": 0.6157,
+    "ba_acc": 0.6157,
+    "auc_prc": 0.8078
+  },
+  "euclidean_0.3": {
+    "classifications": {
+      "tp": 1533,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 3467
+    },
+    "tpr": 0.3066,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.4693,
+    "g-mean": 0.5537147279962851,
+    "acc": 0.6533,
+    "ba_acc": 0.6533,
+    "auc_prc": 0.8266
+  },
+  "euclidean_0.4": {
+    "classifications": {
+      "tp": 1839,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 3161
+    },
+    "tpr": 0.3678,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.5378,
+    "g-mean": 0.6064651680022523,
+    "acc": 0.6839,
+    "ba_acc": 0.6839,
+    "auc_prc": 0.8419
+  },
+  "euclidean_0.5": {
+    "classifications": {
+      "tp": 2106,
+      "tn": 5000,
+      "fp": 0,
+      "fn": 2894
+    },
+    "tpr": 0.4212,
+    "tnr": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 0.5927,
+    "g-mean": 0.6489992295835181,
+    "acc": 0.7106,
+    "ba_acc": 0.7106,
+    "auc_prc": 0.8553
+  },
+  "euclidean_0.6": {
+    "classifications": {
+      "tp": 2406,
+      "tn": 4999,
+      "fp": 1,
+      "fn": 2594
+    },
+    "tpr": 0.4812,
+    "tnr": 0.9998,
+    "precision": 0.9996,
+    "recall": 0.9998,
+    "f1_score": 0.6497,
+    "g-mean": 0.6936164357914251,
+    "acc": 0.7405,
+    "ba_acc": 0.7405,
+    "auc_prc": 0.8701
+  },
+  "euclidean_0.7": {
+    "classifications": {
+      "tp": 2846,
+      "tn": 4998,
+      "fp": 2,
+      "fn": 2154
+    },
+    "tpr": 0.5692,
+    "tnr": 0.9996,
+    "precision": 0.9993,
+    "recall": 0.9996,
+    "f1_score": 0.7253,
+    "g-mean": 0.7543025387734023,
+    "acc": 0.7844,
+    "ba_acc": 0.7844,
+    "auc_prc": 0.8919
+  },
+  "euclidean_0.8": {
+    "classifications": {
+      "tp": 3455,
+      "tn": 4989,
+      "fp": 11,
+      "fn": 1545
+    },
+    "tpr": 0.691,
+    "tnr": 0.9978,
+    "precision": 0.9968,
+    "recall": 0.9978,
+    "f1_score": 0.8162,
+    "g-mean": 0.8303492036486818,
+    "acc": 0.8444,
+    "ba_acc": 0.8444,
+    "auc_prc": 0.9212
+  },
+  "euclidean_0.9": {
+    "classifications": {
+      "tp": 4277,
+      "tn": 4866,
+      "fp": 134,
+      "fn": 723
+    },
+    "tpr": 0.8554,
+    "tnr": 0.9732,
+    "precision": 0.9696,
+    "recall": 0.9732,
+    "f1_score": 0.9089,
+    "g-mean": 0.9124008329676163,
+    "acc": 0.9143,
+    "ba_acc": 0.9143,
+    "auc_prc": 0.9487
+  },
+  "euclidean_1.0": {
+    "classifications": {
+      "tp": 4894,
+      "tn": 3154,
+      "fp": 1846,
+      "fn": 106
+    },
+    "tpr": 0.9788,
+    "tnr": 0.6308,
+    "precision": 0.7261,
+    "recall": 0.6308,
+    "f1_score": 0.8337,
+    "g-mean": 0.7857652575674239,
+    "acc": 0.8048,
+    "ba_acc": 0.8048,
+    "auc_prc": 0.8578
+  },
+  "euclidean_1.25": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "euclidean_1.5": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "euclidean_1.75": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  },
+  "euclidean_2.0": {
+    "classifications": {
+      "tp": 5000,
+      "tn": 0,
+      "fp": 5000,
+      "fn": 0
+    },
+    "tpr": 1.0,
+    "tnr": 0.0,
+    "precision": 0.5,
+    "recall": 0.0,
+    "f1_score": 0.6667,
+    "g-mean": 0.0,
+    "acc": 0.5,
+    "ba_acc": 0.5,
+    "auc_prc": 0.75
+  }
+}

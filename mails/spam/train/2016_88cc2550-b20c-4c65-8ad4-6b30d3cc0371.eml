@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: Blank 2
+
+
+Content-Type: application/zip;	name="Blank 2.zip";	x-apple-part-url=22A0C1D2-3B3A-65FE-570F-4988A6061ABEContent-Disposition: attachment;	filename="Blank 2.zip"Content-Transfer-Encoding: base64

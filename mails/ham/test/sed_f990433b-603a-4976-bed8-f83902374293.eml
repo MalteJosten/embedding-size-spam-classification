@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber geek not gmail com wrote snip let's say my script is script pl and i pass argument such as it gets me the details of its record any help is appreciated i know how to do that if it is a single line record also i don't know how to deal with history line field for the history that has multiple lines snip is the input seperator it is normally set to \\n which is why the operator reads line by line bit it looks like given your data you should set it to \\n\\n that will get you a record at a time the other issue is slightly more tricky if you didn't have that multiline field you could have easily use two spilts one to break the record in to fields and the other to fields into key and value pairs i would suggest splitting each record on \\n looping over the results checking to see if the first character is a space and appending that line to the last field if it is or creating a new key value pair if it isn't to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

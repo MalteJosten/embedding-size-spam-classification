@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+the message was undeliverable due to the following reason your message was not delivered because the destination computer was not reachable within the allowed queue period the amount of time a message is queued before it is returned depends on local configura tion parameters most likely there is a network problem that prevented delivery but it is also possible that the computer is turned off or does not have a mail system running right now your message could not be delivered within escapenumber days host escapenumber escapenumber escapenumber escapenumber is not responding the following recipients could not receive this message please reply to postmaster t online de if you feel this message to be in error 

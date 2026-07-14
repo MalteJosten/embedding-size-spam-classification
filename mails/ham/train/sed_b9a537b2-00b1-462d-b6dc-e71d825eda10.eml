@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi tridge attached find a bzr bundle that adds timestamps and the pid to the ctdb debug output quite handy you can do a cat on all logfiles and sort n the slowdown over time and the timeouts seem to be related to a talloc hierarchy problem i get the impression that adding the timed events for the timeout just eats cpu when you look at top while ctdb fetch is running it's the child processes ie the ctdb daemons that eat the most memory and cpu investigating more volker p s on http samba sernet de vl bzr you also find the current escapenumber escapenumber code which has been adapted to the new fetch lock semantics not tested yet though i've stared at ctdb fetch debug output 

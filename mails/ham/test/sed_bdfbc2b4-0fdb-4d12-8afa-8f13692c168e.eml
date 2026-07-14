@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+metze can you look over the hosts marked with status 'escapenumber' on the build farm here http build samba org host escapelong tree escapelong compiler escapenumberdcc function escapenumberd recent builds i've modified the build farm code to return escapenumber for hosts that don't print a number of tests failed such as when the testsuite fails to start as seems to occour on a lot of hosts now thanks andrew bartlett escapenumber andrew bartlett http samba org abartlet authentication developer samba team http samba org samba developer red hat inc http redhat com

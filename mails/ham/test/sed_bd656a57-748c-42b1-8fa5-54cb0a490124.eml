@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i got a problem with polr function a bit i have this error attempt to find suitable starting values failed i wonder what would be an appropriate way to solve this problem i can try to specify some random starting value but i am afraid that it will cause the mle to stuck at some local maxima is there anyway to cope with this in a more elegant way any help would be really appreciated thank you adschai r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

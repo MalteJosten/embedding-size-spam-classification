@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ begin pgp signed message hash shaescapenumber herb we have the following code in this function ifdef'ed out i don't know if it is this or something else causing my problem if you login as a user that is a member of several groups and then have a file that is accessable through only one of those groups access is granted as expected if you now remove the user from that group and logout and log back in access is still granted because of the entry in netsamlogon cache tdb it seems that access will get denied about escapenumber minutes later so something else is refreshing the group membership but i'm not sure what any ideas where we need to fix this the netsamlogon cache entry is updated from the pac or net user info escapenumber structure in the samlogon reply so it should be updated every time the user logs on or connects cheers jerry begin pgp signature version gnupg vescapenumber escapenumber escapenumber gnu linux comment using gnupg with mozilla http enigmail mozdev org escapelong escapelong escapelong dsbr end pgp signature 

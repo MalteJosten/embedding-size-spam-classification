@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue escapenumber jul escapenumber escapenumber escapenumber escapenumber escapenumber andy lester via rt wrote sooo i'm not sure if the rep argument is null for the same reason as the above script a comment from coke has made me paranoid that a dod run may be to blame but should this emit an error message or fix it up by using '' instead or punt to the escapenumber argument substr instead rather than segfaulting the problem seems to be that string replace's rep should indeed be nn not nullok do you see when it would make sense to pass in null rep to string replace i don't think so there's a separate string substr function for that and the other variants of the substr op use that one instead of this i think the problem is two fold problem escapenumber why does string replace crash when passed a null rep argument problem escapenumber why is this test case passing a null pointer all of a sudden exposing problem escapenumber presumably this used to work my simplified test case demonstrates problem escapenumber but i've thus far failed to figure problem escapenumber out mark

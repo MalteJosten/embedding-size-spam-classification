@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber andrej kastrin wrote dear all i wrote a simple sql querry to count co occurrences between words but it performs very very slow on large datasets so it's time to do it with perl i need just a short tip to start out which structure to use to count all possible occurrences between letters e g a b and c under the particular document number my dataset looks like following snip here is my naive solution usr bin perl use strict use warnings my co my doc my oldid while chomp my id val split unless id eq oldid or not defined oldid my vals sort keys doc while vals my val shift vals for my other vals co val other doc val doc other doc doc val oldid id my vals sort keys doc while vals my val shift vals for my other vals co val other doc val doc other for my co sort keys co print co co co \\n data escapenumber a escapenumber b escapenumber c escapenumber b escapenumber a escapenumber a escapenumber b escapenumber c to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

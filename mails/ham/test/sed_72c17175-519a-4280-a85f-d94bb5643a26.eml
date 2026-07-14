@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi terrence you need speech dispatcher speechd up and a synth of your choice to do this ubuntu comes with festival which is supported by speech dispatcher you can add supported synts such as festival lite or espeak install speech dispatcher and speechd up and then check the following files to set sd up etc speech dispatcher speechd conf and etc speech dispatcher modules yoursynth conf that means search in that directory for the file that configures the synth of your choice it runs without any problems on a less powerful machine i use a escapenumber ghz amd duron with escapenumber mbs of ram problems with slow processors and not enugh memory start when you use gnome with orca but that's a different story hermann speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

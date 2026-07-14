@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i want to find the roots of an equation in two variables i am aware of the uniroot function which can do this for a function with a single variable as i understand it but cannot find a function that does this for an equation with more than one variable i am looking for something implementing similar to a newton raphson algorithm thanks bill shipley north american editor for annals of botany subject editor for ecology département de biologie université de sherbrooke sherbrooke québec jescapenumberk escapelong canada r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

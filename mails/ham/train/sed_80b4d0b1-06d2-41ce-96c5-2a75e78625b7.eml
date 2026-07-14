@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi if i am going to use software speech in gnome using orca or lsr do i need gdm if i want to reinstall the rc escapenumber link what command would i run on fri escapenumber jun escapenumber jan buchal wrote ng nick gawronski writes ng hi i have my system going into run level escapenumber but still x starts ng i would like to make x not start on system boot as i like to ng have the system come up in text only mode then have the option ng to start x later if i choose what is the easiest way on etch to ng stop the x server from running on boot you system probably start gdm so you can remove startup link from rc d directories with this command update rc d f gdm remove you can still start gdm by hand of course with etc init d gdm start or if you don't need gdm then you can start x direct with startup script startx best speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

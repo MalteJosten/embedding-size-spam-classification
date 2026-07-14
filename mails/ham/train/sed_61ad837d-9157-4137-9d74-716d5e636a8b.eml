@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i am trying to extract few strings from a text file the pattern of the text stored in the file is as follows define mnss facility ind id tf mnss message category escapelong log mnss message t i need to extract mnss facility ind id tf mnss message category escapelong and mnss message t i tried next unless define\\s \\w \\s \\ \\s \\ \\ \\s log\\s \\w \\ \\ my name escapenumber my base offset escapenumber \\w g my struct escapenumber i am unable to find out the error can anyone help m in this thanks and regards dharshana

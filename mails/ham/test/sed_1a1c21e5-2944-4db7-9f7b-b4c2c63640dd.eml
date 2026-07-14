@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am trying to write a rmysql sql script inside r such that part of the sql would be r list or vector for example i want to select from atable where id would equal to a members of r list or vector of escapenumber escapenumber escapenumber here the id list was generated inside r and then try to feed to mysql to call to get additional data sets can someone on the list help thanks waverley palo alto alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

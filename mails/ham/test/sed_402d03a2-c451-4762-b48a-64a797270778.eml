@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+am montag escapenumber april escapenumber escapenumber escapenumber schrieb chromatic on thursday escapenumber april escapenumber escapenumber escapenumber mehmet yavuz selim soyturk wrote the next program causes a memory leak for me sub main main loop pescapenumber new string goto loop end that's an endless loop how does one measure if it's leaking memory anway i can't explain that but here's some suspicious code in parrot allocate string in src resources c if i identify and read the related freeing code correctly parrot dod sweep in src gc dod c else if pobj sysmem test b pobj bufstart b these escapenumber snippets aren't related at all the latter is dealing with freeing sys malloced memory as the comment is saying the former is plain string memory allocation code i'd presume that the string memory compaction code i e 'compact pool ' is never run in the loop above leo

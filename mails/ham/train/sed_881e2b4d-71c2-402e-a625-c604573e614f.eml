@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi jeremy quick question why do you call rename open files when the file name has not changed at all the only effect i see in rename open files for this case is a string set for the new name which is a bit pointless if the name has not changed there's something i don't get volker

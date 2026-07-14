@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+when you install this , you need to change the xmim server from " xmimhost " to
+" limbo " ( port is still 0 )

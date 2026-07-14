@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi the file basename from escapenumber escapenumber escapenumber doesnot work in perl escapenumber escapenumber escapenumber or perl escapenumber escapenumber escapenumber is there any particular reason i have a script that uses the basename module was running file with escapenumber escapenumber escapenumber but it doesnt work fine when i run the script in perl escapenumber escapenumber escapenumber or perl escapenumber escapenumber escapenumber i tried copying the basename pm from escapenumber escapenumber escapenumber perl\\lib dir to escapenumber escapenumber escapenumber and escapenumber escapenumber escapenumber but it didnt work i am just trying to strip of the filename fn from a path such as c \\temp\\myfile txt fn basename should return myfile txt please let me know thanks nishi 

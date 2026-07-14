@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+prof brian ripley wrote you could do this via a search file connection wrapper but there is a problem with ensuring connections get closed which on exit does here i'm not sure exactly what you mean by a 'search file connection wrapper' but i have realised that its probably a better idea to write a function that checks a search path for a file and then returns that file search file function name path options scanpath for p in path file file path p name if file exists file return file return name then you can use that in any filename using function options scanpath c dataescapenumber dataescapenumber etc search file passwd escapenumber etc passwd passwd read table search file passwd sep record scan search file passwd what '' escapenumber barry r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

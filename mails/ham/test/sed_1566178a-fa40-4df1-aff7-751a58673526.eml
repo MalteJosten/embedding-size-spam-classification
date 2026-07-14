@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+here's the bug report where i've submitted a patch to have gstreamer read the wcop license uri tag http bugzilla gnome org show bug cgi id escapenumber it also allows for reading the woaf license verification tag it's simply a matter of figuring out what gstreamer tags to map them to that's where discussion fizzled out cheers jason cc devel mailing list cc devel lists ibiblio org http lists ibiblio org mailman listinfo cc devel

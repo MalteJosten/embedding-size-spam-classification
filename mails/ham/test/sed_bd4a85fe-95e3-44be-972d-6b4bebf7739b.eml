@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i tried to install the package tseries but could not do so anysuggestions are welcome i am using ubuntu linux and here is what i did sudo r then once in r i did install packages tseries dep true which gave a long list of errors going through them i saw that thebasic problem was that the package grid was not found by the packages like lattice hmisc etc that were part of the dependencies for tseries so i tried installing the package grid but could not hereis what i did and the result sudo r once in r i did install packages grid dep true and this is what i got as error message warning in install packages grid dep true argument 'lib' is missing using usr local lib r site library please select a cran mirror for use in this session loading tcl tk interface donedependency '‘grid’' is not available how should i proceed deepankar r help stat math ethz ch mailing listhttps stat ethz ch mailman listinfo r helpplease do read the posting guide http www r project org posting guide htmland provide commented minimal self contained reproducible code 

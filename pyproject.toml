@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "embedding-spam-classification"
+version = "1.0.0"
+description = "Code for the paper 'Size Does Matter: The Impact of Embedding Models and Sizes on Spam Email Classification'"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Malte Josten", email = "malte.josten@uni-due.de" }]
+keywords = ["email-spam-detection", "sentence-transformer", "embeddings", "ai/ml"]
+
+dependencies = [
+    "beautifulsoup4",
+    "einops",
+    "FlagEmbedding",
+    "lxml",
+    "matplotlib",
+    "numpy",
+    "sacremoses",
+    "seaborn",
+    "sentence_transformers",
+    "torch==2.5.1",
+]
+
+[project.urls]
+Repository = "https://github.com/maltejosten/embedding-spam-classification"
+
+# src/ layout: the packages (util, embeds, classification, statistics, eval, pre_processing, tests) live under src/.
+# Installing the project (`pip install -e .`) puts them on the import path;
+# the scripts in scripts/ set PYTHONPATH=src so they also work without installing.
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

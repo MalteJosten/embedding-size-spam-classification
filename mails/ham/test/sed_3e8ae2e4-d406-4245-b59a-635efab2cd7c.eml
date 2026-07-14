@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber at escapenumber escapenumber pm steve french wrote there is an oft repeated comment that cifs is chattier than nfs e g http searchstorage techtarget com expert knowledgebaseanswer escapenumber escapenumber sidescapenumber gciescapenumber escapenumber html whatever chatty means i can think of a few different interpretations any idea why such a perception i assume it has to do with one or more of the following escapenumber nfsvescapenumber does not send open close which is a good news bad news story for nfs users of course there is a good reason that nfsvescapenumber finally added an open call while cifs does escapenumber windows explorer does lots of ineffecient repeated requests which the ms cifs client dutifully send over the wire escapenumber cifs unix extensions require three to four operations for create mkdir while nfs presumably can do it in one fewer escapenumber browse traffic james peach jpeach samba org

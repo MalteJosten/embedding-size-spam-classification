@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber prof brian ripley wrote on wed escapenumber may escapenumber hadley wickham wrote hi everyone does anyone has experience with or documentation for writing custom methods with rpart the documentation hints alternatively 'method' can be a list of functions 'init' 'split' and 'eval' but doesn't provide any details as to what those methods should do or what arguments they should take etc i've tried looking at the package source and the source for the s code it came from but i can't follow what's going on in c vs r and as the default methods are coded in a different way there are no examples to follow but there are in the tests directory thanks i had missed those perhaps a pointer from the documentation would be appropriate hadley r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

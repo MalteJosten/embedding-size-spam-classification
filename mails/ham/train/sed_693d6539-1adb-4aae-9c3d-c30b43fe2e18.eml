@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+a new version of odfweave has been released to cran this is a significant change to the package internals it now uses the xml library instead of a bunch of regular expressions new features include captions for tables and figures functions to insert page breaks and to change the page layout style objects for frames and pages bug fixes include parsing of arguments for graphics devices misc issues with bulleted lists there is also a escapenumber page manual in the examples sub directory that describes the various style element and their values with almost escapenumber code chunks for illustration thanks to steve weston nathan coulter sarah goslee and ralf herold send me any questions or comments max legal notice\\ unless expressly stated otherwise this messag dropped r packages mailing list r packages stat math ethz ch https stat ethz ch mailman listinfo r packages r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

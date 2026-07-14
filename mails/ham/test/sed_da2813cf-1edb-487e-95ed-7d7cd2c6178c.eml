@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+author tridge date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber fri escapenumber may escapenumber new revision escapenumber websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber log fixed change notify for delete on close modified branches samba escapenumber escapenumber source smbd close c changeset modified branches samba escapenumber escapenumber source smbd close c branches samba escapenumber escapenumber source smbd close c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber utc rev escapenumber branches samba escapenumber escapenumber source smbd close c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber utc rev escapenumber escapenumber escapenumber escapenumber escapenumber status map nt error from unix errno notify fname conn notify action removed file notify change file name fsp fsp name as we now have posix opens which can unlink with other open files we may have taken this code path with more than one share mode

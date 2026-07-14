@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: Here's that file that you wanted.
+
+
+Please find my CV and cover letter attached.Content-Type: application/zip; name="resume_new.zip"Content-Transfer-Encoding: base64Content-Disposition: attachment; filename="resume_new.zip"

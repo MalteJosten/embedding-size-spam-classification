@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i've been going through learning perl objs ref mods and i'm having a some trouble with method invocation the example codes below package animal sub speak my class shift print a class goes class sound \\n package horse isa qw animal sub sound neigh horse speak i understand that the class horse would start looking for the method speak in the horse package and then move upto animal once the method speak is found in animal perl invokes the method animal speak horse and moves back to horse for the sound method what i'm having trouble understanding is how class is passed the argument horse when i don't explicitly pass horse as a parameter to speak thanks dean to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

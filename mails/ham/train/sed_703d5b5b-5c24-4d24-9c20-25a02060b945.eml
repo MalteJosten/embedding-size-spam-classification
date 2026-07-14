@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+in the course of writing tests for parrot revision see the 'reconfigure' branch i noticed that much of the code depends on the definedness and value of svn entries however since svn entries is explicitly undefined at the top of lib parrot revision pm and since it's never assigned to within that package it's not clear what all that code is for here's the result of ack ing for svn entries in trunk parrot escapenumber ack nohtml nophp svn entries config gen revision pm escapenumber my entries parrot revision svn entries lib parrot revision pm escapenumber our svn entries undef escapenumber elsif defined svn entries and r svn entries escapenumber open fh ' ' svn entries escapenumber or die unable to open file svn entries aborting error returned was if svn entries starts out undef ed and is never assigned to it can never pass the test for definedness in line escapenumber above which means that the subsequent elsif stanza can never be reached and should therefore be refactored out of existence is my interpretation correct thank you very much kidescapenumber

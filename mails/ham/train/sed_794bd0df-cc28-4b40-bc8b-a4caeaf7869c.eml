@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have two scenarios here and in the first one i am not seeing the logic i would normally expect i'll compact the code as to save everyone from scrolling i have strict and warnings enabled as i always do can someone tell me why in the first case escapenumber isn't initialized and in the second case it is first run catch escapenumber and escapenumber check escapenumber for correctness it is print escapenumber my email 'steveb domain com' email if escapenumber domain\\ com print var escapenumber is bad\\n print escapenumber\\n prints 'uninitialized' for line 'print escapenumber\\n second run same as above but the if will fail my email 'steveb wrong com' email if escapenumber domain\\ com print var escapenumber is bad\\n print escapenumber\\n prints var escapenumber is bad steveb why does the escapenumber initialize and print only if the 'if' fails tia steve to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

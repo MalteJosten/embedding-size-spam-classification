@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all this is not directly related to r but i post the questions here since there are a lot of experts on statistics i want to calculate power of logistic regression using likelihood ratio test in unmatched case control design the paper i have read is power calculations for likelihood ratio tests in generalized linear models by steven g self in escapenumber they showed a formula for calculating power for prospective cohort design can i plug in the various parameters from case control study that is can i pretend that the case control data i have is a prospective cohort study i guess i can do this since in principal logistic regression is valid for both case control and cohort design in estimating odds ratio thanks a lot r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

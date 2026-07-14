@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+chromatic wrote on sunday escapenumber april escapenumber escapenumber escapenumber escapenumber joshua isom wrote i've done realclean a few times actually if i run with rescapenumber it runs just fine but rescapenumber which dealt with zero length mallocs for strings caused it to start crashing here's a backtrace this is one of those tests where with g it succeeds so you'll have to make sure that gc is enabled i'm not having any trouble on my darwin ppc machine but my only two running platforms are darwin ppc and freebsd amdescapenumber here's a patch that fixes a related bug in tcl on certain platforms how does it fare for you i committed this patch to trunk in rescapenumber matt diephouse http matt diephouse com

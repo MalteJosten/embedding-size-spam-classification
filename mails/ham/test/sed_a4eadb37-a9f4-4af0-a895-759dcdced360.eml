@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ begin pgp signed message hash shaescapenumber herb lewis wrote in the file include includes h there is a reference to struct smb ldap privates supposedly as a forward reference from printing h however this struct does not exist anywhere in the code does anyone remember why this was added should it be a different struct maybe ldapsam privates or is it no longer needed no memory does svn annotate not show anything even if you dig back into the last tag of trunk cheers jerry samba http www samba org centeris http www centeris com what man is a man who does not make the world better balian begin pgp signature version gnupg vescapenumber escapenumber escapenumber gnu linux comment using gnupg with mozilla http enigmail mozdev org escapelong fv escapelong rxfl end pgp signature 

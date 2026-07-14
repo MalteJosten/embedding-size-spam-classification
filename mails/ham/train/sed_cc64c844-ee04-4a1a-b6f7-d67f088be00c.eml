@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dunno if this helps but brltty is part of the new etch install if you have a braille display you can go to the second console with alt fescapenumber press enter to activate the console and type brltty bauto d dev ttysescapenumber for comescapenumber or brltty bauto d dev ttyusbescapenumber for the first usb to serial converter the kernel drivers find yesterday i tried this with comescapenumber and comescapenumber and then two different usb to serial converters and it works great if you don't have a braille display you can try grml which is able to use debootstrap and launch an automated install of etch debee speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

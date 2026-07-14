@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+chromatic schrieb on wednesday escapenumber june escapenumber escapenumber escapenumber escapenumber andy lester wrote the perl critic testing in t codingstd perlcritic t needs to be optional the existence of perl critic on a machine doesn't mean that it's appropriate to run perl critic on the parrot code i'd like to see an option to run it only on modified files i'm not aware of a mechanism where source code mysteriously changes without the presence of cosmic rays and i'm not aware of any testing mechanisms reliable in the face of cosmic rays actually it seemed to have happened at my company http use perl org bernhard journal escapenumber suddenly a space had changed into a ' ' in sys hostname however it didn't need perl critic to uncover that regards bernhard

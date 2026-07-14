@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sun escapenumber apr escapenumber allison randal via rt wrote according to our records your request regarding todo escapelong uses escapenumber bytes per bit of information has been resolved if you have any further questions or concerns please respond to this message for other topics please create a new ticket are you sure it's been fixed my test involved running a simple program something like this sub main local pmc pmcescapenumber pmcescapenumber new escapelong pmcescapenumber escapenumber escapenumber end and incrementing the 'escapenumber' i found that for every element i added parrot allocated escapenumber extra bytes i monitored parrot's calls to malloc with ddetail memory debug hence if i want to store escapenumber escapenumber bits parrot will call malloc to allocate escapenumber escapenumber bytes that's why i said it uses escapenumber bytes per bit of information i apologize in advance if i have misunderstood the correct way to use escapelong or what the number 'escapenumber' means in the above example andy spieherty spiehera lafayette edu

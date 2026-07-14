@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i cringe at functions where the behavior is dependent on parms passed in in the case of parrot get runtime prefix if you call it as parrot get runtime prefix str then str is populated or if you call parrot get runtime prefix null then you get a malloced string it should be split into parrot get runtime prefix string and parrot get runtime prefix cstring anything i'm missing dissent xoxo andy andy lester andy petdance com www petdance com aim petdance

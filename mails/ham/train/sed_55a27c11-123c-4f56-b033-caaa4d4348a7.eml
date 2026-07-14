@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+antje wrote hello i also have problems to get to run the following lines if i run the block instead of every single line it simply does not wait for the input can anybody help me pos name readline please type r substr pos name escapenumber escapenumber c substr pos name escapenumber nchar pos name hi antje what you seem to be doing is pasting the lines into the r window the second line looks like the input line that the first line is expecting and if you remove the empty line you will see that pos name has been assigned the text of the second line if you put these lines into a text file and then use source to read it it works as i think you expect jim r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

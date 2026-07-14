@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber andrew spieherty wrote on wed escapenumber may escapenumber klaas jan stol wrote hi i've been studying the code in the fotw debug c and below are my comments if they're of any interest feel free to neglect i'm kinda picky escapenumber while command isalnum int command command ' ' command ' ' i'm not escapenumber sure but i've always been taught that this should not be written like this the issue here is that you assume that the compiler does expression short cutting during evaluating the expression suppose a c compiler does not implement this short circuiting like this is guaranteed in c dating all the way back to k r escapenumber if the compiler doesn't implement it it's badly broken it's bitwise and where order isn't guaranteed i'm pretty sure that's the point of confusion jerry

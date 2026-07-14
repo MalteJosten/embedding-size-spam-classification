@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi guys two really basic questions we couldn't resolve in class this week escapenumber using qemu as emulator on a pc how do you move a file from windows to the emulated file structure escapenumber there is a problem with simply loading an image and displaying it on the screen using this code below the image png file sits right next to the application file the application starts up but shows the file not found icon in the middle of the screen how does sugar actually handle imgages thanks guys jan class touchtyperactivity activity activity def hello self widget data none logging info 'image load activity' def init self handle activity activity init self handle root os path dirname os path abspath file self image gtk image pixbuf gtk gdk pixbuf new from file root image png self image set from pixbuf pixbuf self add self image self image show self set title 'image load' sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

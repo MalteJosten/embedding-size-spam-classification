@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+norman i ran a couple of test calcs to follow up our discussion last week re the problem the escapenumber day lag between the financial true up and option liquidation causes liquidation value falling out of book on the flow date the day after expiry in summary a your suggestion of ture up to current business day does hold the current day leg in liquidation report however b it causes problems for index forward deals i did a test calc on st pjm book postid escapenumber and if you compare its swap liquidation report to the official calc postid escapenumber you will see the difference caused by truing up to current business day after talking to stacey we think changing the code in portcalc to force it hold the current day leg in liquidation report is probably the best way to correct this problem please let us know what do you think thanks hai

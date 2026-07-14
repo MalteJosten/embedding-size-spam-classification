@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+working with heikki and the aix builds we've discovered a runtime linking issue there is a reference to talloc zero in relative to source tree bin libsmbclient so bin libmsrpc so bin libaddns so bin rid so bin ad so libsmbclient so and libaddns so are fine but libmsrpc so rid so and ad so don't resolve the external reference until runtime the g linker option and then fail miserably so there's a patch in bug escapenumber can this be in rcescapenumber cheers bill

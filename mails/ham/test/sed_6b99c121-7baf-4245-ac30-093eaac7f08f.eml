@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ken foskey wrote just like to show how not to use postfix i have had a frustrating day tackling this type of unreadable code exec rqst 'stgaescapenumberk vps pl' filenamein if aescapenumberkqual escapenumber eq vps exec rqst 'stgaescapenumberkif sh' filenamein if aescapenumberkqual escapenumber ne vps if aescapenumberkqual escapenumber eq vps exec rqst 'stgaescapenumberk vps pl' filenamein else exec rqst 'stgaescapenumberkif sh' filenamein how about this exec rqst aescapenumberkqual escapenumber eq 'vps' 'stgaescapenumberk vps pl' 'stgaescapenumberkif sh' filenamein john perl isn't a toolbox but a small machine shop where you can special order certain sorts of tools at low cost and in short order larry wall to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

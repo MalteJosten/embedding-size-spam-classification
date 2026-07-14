@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+simon paillard simon paillard resel enst bretagne fr wrote on escapenumber june escapenumber escapenumber escapenumber escapenumber the non us directories were synced from ftp ftp uk debian org debian using the official anonftpsync script ok so that is a issue specific to ftp uk d o whose admin is in cc phil could you remove these extra non us and non us directories that are present under http ftp uk debian org debian simon paillard simon paillard resel enst bretagne fr wrote on escapenumber june escapenumber escapenumber escapenumber http www debian org mirrors ftpmirror must be read and anonftpsync should be used it seems you caught another one not using anonftpsync perhaps ftp uk could also fix the trace file name we had the trace file name problem too in fact it's rather frequent i've included a config variable in our anonftpsync for this perhaps it could also be included in the official version to unsubscribe email to debian mirrors request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

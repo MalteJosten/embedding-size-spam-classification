@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber paul lalli wrote snip have you tried examining your hash using data dumper to see what's really in it use data dumper print dumper \\ hash snip you cannot always trust the output of data dumper when it is printed for instance if i showed you the following output you would say that the key was an empty string varescapenumber '' escapenumber the key is actually the nul character ascii escapenumber the string data dumper produced has the nul character in it put the display cannot show it to force data dumper to do the right thing for the display you must set data dumper useqq to escapenumber it will then use doublequoted strings and escape characters like \\t \\n \\escapenumber etc perl mdata dumper e ' data dumper useqq escapenumber h \\escapenumber escapenumber print dumper \\ h ' varescapenumber \\escapenumber escapenumber to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

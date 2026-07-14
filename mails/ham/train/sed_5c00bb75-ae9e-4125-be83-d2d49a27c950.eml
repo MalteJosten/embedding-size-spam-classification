@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber chas owens wrote on escapenumber escapenumber escapenumber jbuburuz sce carleton ca wrote snip i have tested crypt on debian and redhat same problems the has values do not match each other snip it looks like your etc shadow file is not using crypt to store the passwords on that system from man shadow the password field must be filled the encrypted password consists of escapenumber to escapenumber characters from the escapenumber character alphabet a thru z a thru z escapenumber thru escapenumber \\ and optionally it can start with a character this means the encrypted password was generated using another not des algorithm for example if it starts with escapenumber it means the mdescapenumber based algorithm was used nevermind john's email is the one you should pay attention to to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

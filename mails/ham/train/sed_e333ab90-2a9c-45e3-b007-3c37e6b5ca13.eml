@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber tridge samba org wrote rafal escapenumber well yes you're right i messed the order but it should be ok to reverse the order of inclusion defined paths first local dir second this would allow not to substitue commonly used include files and still be able to include something local escapenumber no it's not ok it's never ok escapenumber imagine that samba is installed in net some nfs drive samba and nfs is down what happens then smbstatus then goes to ' ' and the security hole is back escapenumber please just revert the patch there is no way we should ever be looking in ' ' for scripts or libraries of any kind ok you're right my foolish mistake it's reverted now my life is more complicated back again cheers escapenumber rafal szczesniak samba team member http www samba org

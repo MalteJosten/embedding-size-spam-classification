@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ggplotescapenumber ggplotescapenumber is a plotting system for r based on the grammar of graphics which tries to take the good parts of base and lattice graphics and none of the bad parts it takes care of many of the fiddly details that make plotting a hassle like drawing legends as well as providing a powerful model of graphics that makes it easy to produce complex multi layered graphics find out more at http had co nz ggplotescapenumber changes in version escapenumber escapenumber escapenumber new chapter in book and changes to package to make it possible to customise every aspect of ggplot display using grid a new economic data set to help demonstrate line path and area plots many bug fixes reported by beta testers hadley r packages mailing list r packages stat math ethz ch https stat ethz ch mailman listinfo r packages r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am trying to connect to a dbescapenumber server using the dbi library getdata function driver dbdriver dbescapenumber conn dbconnect driver server uname pword data dbsendquery conn select etc when i run the function i get the error data getdata error in do call as character drvname list could not find function dbescapenumber can anyone help me here thank you zava this is not an offer or solicitation of an offer to buy se dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

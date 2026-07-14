@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+kevin r coombes mdacc tmc edu writes is there a way to turn off the automatic inclusion of at the beginning of a path specified in an \\sweaveinput instruction giving a full file path name works for me windows r escapenumber escapenumber escapenumber \\sweaveinput c tmp mytitle rnw note the if the path does not exist e g \\sweaveinput c tmpnotexist mytitle rnw the error message refert to c tmpnotexist mytitle rnw so it could be that the path you chose had been incorrectly entered dieter r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

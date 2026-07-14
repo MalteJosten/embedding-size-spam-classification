@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber at escapenumber escapenumber am dafydd harries wrote ar escapenumber escapenumber escapenumber am escapenumber escapenumber ysgrifennodd james tauber i finally got gtk and pygtk running on os x but i'm getting the following errors attempting a sugar jhbuild update any suggestions and let me know if this query belongs on devel laptop org my first guess would be that you don't have wget or darcs installed blush yes that was it so i've now successfully done a sugar jhbuild update but i'm now having problems with sugar jhbuild build base some dependencies listed i already have some dependencies listed i don't know where to get on the former it originally said it needed automake escapenumber escapenumber and escapenumber escapenumber i got automake from macports and the escapenumber escapenumber is no long listed as a missing dependency but automake escapenumber escapenumber still is i have libtools but it is showing as a missing dependency as with expat james sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

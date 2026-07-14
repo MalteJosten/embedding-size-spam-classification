@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ begin pgp signed message hash shaescapenumber chromatic via rt wrote i can't quite get this to apply cleanly and i have some concern that the memory allocated for argv doesn't get freed appropriately if you can make the patch apply cleanly i'm happy to work on the memory parts hi chromatic i'm not sure if it is really needed to extend this function when i was examining io first i was not aware of the opportunities of the nci meanwhile i have written parrot functions using nci clib functions to handle reading from programs on unix platforms have a look at readfromprogram methods in attachment perhaps i should add these in some way to the parrot runtime library if you think the first extension i wrote for pio unix pipe is still useful i will make the patch apply cleanly regards kiwi begin pgp signature version gnupg vescapenumber escapenumber escapenumber gnu linux comment using gnupg with mozilla http enigmail mozdev org escapelong escapelong escapelong bescapenumbersm end pgp signature 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i am doing a simulation study to evaluate the performance of subset selections for linear regression i need to a get the coefficients of the variables for each of the models selected along the way b at least get the logical matrix telling me which variables were selected at each step notice that if i have a above i can get this anyway the functions summary and plot can tell me which variables are selected b above but the on screen information is useless as i need to post process the results in my simulation i have unsuccessfully tried doing names regsubset return object and inspecting each of the fields in the object had anything that resembled the information i wanted does anyone knows how to do that thanks a lot guilherme guilherme veiga da rocha gvrocha gmail com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber jeremy allison wrote on wed apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber simo wrote i have not fixed all the problems i found yet but this patch helped a bit i am investigating the winbindd offline code some more because i can reproduce a situation where if the dc is offline on authentication i get a username consisting only of the domain portion and a gid of escapenumber i am also investigating the situation when our clock is not in sync with that of the dc don't forget to keep samba escapenumber escapenumber in sync it's important to avoid drift just committed i had to adapt the patch and it took some minutes to make sure it was ok simo simo sorce samba team gpl compliance officer email idra samba org http samba org

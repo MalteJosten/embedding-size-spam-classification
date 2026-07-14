@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ volker volker lendecke writes volker on sun may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber gerald jerry volker carter wrote jerry shouldn't we do this only when a force flag is specified otherwise we risk moving out a legitimate account just because our new server has the same netbios name of another one by mistake i don't think so you have to have admin credentials to do this anyways so we should trust you but i'm not particularly tied to the current patch just seems a little redundant to me if others think a force flag is necessary i'll go along with it volker what does windows xp do in this situation when you specify an ou in a sysprep inf file which differs from the ou of an already existing computer account with the same netbios name it simply ignores the ou you supplied and binds to the computer account without moving it around i don't know what the command line tools in xp do though cheers kenny desktop services team eucs university of edinburgh scotland 

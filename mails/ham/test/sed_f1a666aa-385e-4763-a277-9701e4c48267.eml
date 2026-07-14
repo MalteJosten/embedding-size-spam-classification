@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+the results of my first post in this thread were probably caused by the fact that some files were not updated correctly i am new to revision control both allison's and alek's patches have in fact the same effect but the problem that i stated in my second post and the proposed solution are valid a possible problem could current args get gc'd in the meantime never mind when i was writing the above i was thinking as if current args was some sort of pmc mehmet

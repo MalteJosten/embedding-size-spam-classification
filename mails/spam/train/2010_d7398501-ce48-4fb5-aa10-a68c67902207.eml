@@ -1,0 +1,6 @@
+To: to@example.com
+From: from@example.com
+Subject: report
+
+
+see my report in attachContent-Type: application/zip;	name="report.zip"Content-Transfer-Encoding: base64Content-Disposition: attachment;	filename="report.zip"

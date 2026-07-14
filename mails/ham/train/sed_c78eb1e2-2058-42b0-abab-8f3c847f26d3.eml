@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello it might be a very simple question but i cannot find the solution i tried a b any a b but none works my problem is i have two vectors a c true false false b c true false true and i would like to obtain a vector that indicates if it is true in any of the two vectors hence the desired output would be true false true thank you in advance federico alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

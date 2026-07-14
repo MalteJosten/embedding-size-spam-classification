@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i am plotting a correlation matrix using the heatmap function i create my color palette as follows say for red green palette colorramppalette c green black red space rgb escapenumber but i want to fix colors for a specific range of values i e green escapenumber black escapenumber red escapenumber the purpose of doing this is i can then quickly compare two different correlation matrices visually i e one matrix has values in the range escapenumber to escapenumber whereas the other has from escapenumber escapenumber to escapenumber escapenumber then the two heatmaps differ in color levels i searched in the help archives to find any hints but didn't is there an easy way of doing this any help is greatly appreciated thanks ashoka alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

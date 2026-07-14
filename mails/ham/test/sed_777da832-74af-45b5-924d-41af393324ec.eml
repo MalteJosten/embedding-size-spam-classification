@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i have a php ouch snip using curl to send data in xml format to a payment gateway and would like to convert this into perl coding but can't seem to find any information or module s that implement curl in the same manner below is the php snip posturl https host path ch curl init curl setopt ch curlopt url posturl curl setopt ch curlopt returntransfer escapenumber curl setopt ch curlopt httpheader array content type text xml curl setopt ch curlopt header escapenumber curl setopt ch curlopt postfields content curl setopt ch curlopt post escapenumber curl setopt ch curlopt ssl verifypeer escapenumber response curl exec ch was hoping someone may have used something similar in perl or steer me in the right direction utilizing curl w perl in the same manner or module that can be used tia mickalo to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

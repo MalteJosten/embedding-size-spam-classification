@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello list i had a question kind of linux related and hoped i could get help here someone spoke of beeing able to do a freebsd install through a serial console but i have not been able to get it working do to it hanging at trying to mount root from ufs dev mdescapenumber i was wondering if i could instead edit a configuration file on the iso using an iso editor to manualy turn on ssh and configure the ip address i have found a few things talking about placeing a config file on a floppy but couldn't find that much about it i want to run a freebsd install from vmware and ssh into it with securecrt and was wondering what the best way to go about it was i have tried the serial console from a vm and a real box i have here and got it hanging at the same point on each one odd thing is when i hooked a crt up to the real box and on the display of the vm if i just let it go to it's normal install it works fine sorry if i am so new to this thanks for any help i may can get speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

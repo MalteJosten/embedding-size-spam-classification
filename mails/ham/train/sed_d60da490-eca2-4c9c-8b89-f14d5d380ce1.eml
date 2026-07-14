@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+thanks to everyone who sent feedback and bug reports major improvements in this release fixed bleadperl support for on the fly carping and croaking thanks aevar added filtering kludge for windows style newlines thanks thom changed missing itemn diagnostic from an error to a warning since it's still possible to infer the list nestedness required which the parser now does added filter simple dependency to makefile pl and build pl thanks dave added support for new p formatting code for generating and inserting tables of contents vastly improved robustness of xhtml translation added option to allow xhtml translator to build complete documents thanks nick damian

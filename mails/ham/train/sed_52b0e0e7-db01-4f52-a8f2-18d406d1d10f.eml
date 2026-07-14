@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+in article escapelong escapenumber casella verplant org moritz lenz wrote hi brian d foy wrote under the section the for statement in sescapenumber it says that the diamond operator while becomes in perl escapenumber for args some time ago i read that too and wondered why that's not args that seems more reasonable because the command line arguments are stored in args well args is a magical filehandle not a list of files if you could use an array there i think you'd have to allow any array and that would be weird 

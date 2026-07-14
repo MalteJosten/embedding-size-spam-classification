@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber tridge samba org wrote thanks i've fixed it up and now traverse works fine this also gets smbstatus working please review my commits especially the changes to ctdbd socket readable why did you remove the return false after the first sys read now we do two reads when select indicated readability sure it is very unlikely we block for a long time there but the idea was that this routine would not block volker

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i am trying to impute missing data and output the results of the imputation my data set is called mydata i have a bunch of variables all of which start with qescapenumber and some of them have missing values here is what i've been doing imputationmodel mice mydata c grep qescapenumber names mydata multipledataset complete imputationmodel action long write table as data frame lapply multipledataset function x as numeric is element x escapenumber sep \\t file multiset txt row names f the last line write table makes it so that all the values get changed into escapenumbers and escapenumbers how could i output the original imputed values in my case they should be escapenumbers or escapenumbers or escapenumbers or escapenumbers or escapenumbers rather than escapenumbers and escapenumbers thank you very much dimitri alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

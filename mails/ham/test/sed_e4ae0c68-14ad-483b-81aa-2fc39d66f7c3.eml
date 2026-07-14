@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am using polr i can get a result from polr fit by calling result plr polr formula data mydata method probit however from the 'result plr' how can i access standard error of the estimated coefficients as well as the t statistics for each one of them what i would like to do ultimately is to see which coefficients are not significant and try to refit the model again by excluding those variables out i would appreciate if anyone could give some hint on this thank you adschai alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

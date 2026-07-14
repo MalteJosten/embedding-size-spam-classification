@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i coded a function called u glm u glm function x ahi age bmiz gender library nortest lil rslt lillie test x if lil rslt p value escapenumber escapenumber cat logtrans escapenumber lillie lil rslt p value \\n xmodel glm x ahi age bmiz as factor gender summary xmodel confint xmodel else cat logtrans escapenumber lillie lil rslt p value \\n xmodel glm x ahi age bmiz as factor gender summary xmodel confint xmodel basically i just want to test the response variable for normality before modeling when i try to use this function it can do the lillie's test but failed to do the glm what's wrong with my code regards ch the scientists of today think deeply instead of clearly one must be sane to think clearly but one can think deeply and be quite insane nikola tesla http www macgrass com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

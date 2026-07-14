@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber simo wrote ok this is really broken selinux allows us to set up everything necessary for inotify but then when something happens gives us an access denied very weird trying to find a fix escapenumber yes i think this is what happens i will have a fixed policy tomorrow hopefully we need to handle this with the default selinux policy on all the fc boxes around i don't want to add 'please disable selinux' as a comment a thousand times to bugzilla as it has happened with the nis crash volker

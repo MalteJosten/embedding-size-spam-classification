@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+emacs installation does not require windows administrator privileges emacs can run from a cd or usb or a user area it is possible that your it department enforces a policy by which the emacs exe won't run if it's name is not on the policy list in that case from the r console click on edit gui prefrerences and set the buffer bytes and lines to very big numbers then you can use the mouse in the r console to right click select all and then copy and paste to some editor you can also use the menu and click file save to file r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

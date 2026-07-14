@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by jerry gay please include the string perl escapenumber in the subject line of all future correspondence about this issue in escapenumber a patch was applied with a test like pmc pmcnull the preferred way of testing if a pmc is null is with a macro pmc is null pmc the code applied in that patch and all other references using the former null test format must be changed to the latter jerry

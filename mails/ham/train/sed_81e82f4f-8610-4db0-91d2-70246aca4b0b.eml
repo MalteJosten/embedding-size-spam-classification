@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+at the time i got this email it was still failing when i applied the patch but with rescapenumber it's currently working again without problems a full make test passes with only previously failing errors on may escapenumber escapenumber at escapenumber escapenumber pm chromatic wrote on sunday escapenumber april escapenumber escapenumber escapenumber escapenumber joshua isom wrote i've done realclean a few times actually if i run with rescapenumber it runs just fine but rescapenumber which dealt with zero length mallocs for strings caused it to start crashing here's a backtrace this is one of those tests where with g it succeeds so you'll have to make sure that gc is enabled i'm not having any trouble on my darwin ppc machine but my only two running platforms are darwin ppc and freebsd amdescapenumber here's a patch that fixes a related bug in tcl on certain platforms how does it fare for you c 

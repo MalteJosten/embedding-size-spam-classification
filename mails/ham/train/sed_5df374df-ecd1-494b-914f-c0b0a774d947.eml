@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+tewk wrote patch was to large to attach so http tewk com pddescapenumber testing diff tests currently fail because they use the new opcode to instantiate objects fixing the 'new' opcode is the first change we need to make to get both object models working simultaneously pick one the 'new' opcode can no longer lookup string class names by type number eventually true the pdd escapenumber object implementation needs to register a type number for its classes as a temporary measure to smooth over integration i recommend the second option for now pescapenumber get class classname pescapenumber pescapenumber 'new' this will also work and will provide more syntactic sugar than the 'new' opcode e g named parameters for the initializer allison

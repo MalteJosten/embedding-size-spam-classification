@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue may escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber smylers wrote that'll make it easy for people porting php scripts to perl escapenumber in particular for those wanting to port the security hole where a cgi parameter is used to form part of a filename opened by a script but a malicious user can supply a url instead and cause the program to do things very different from what it intended php's security hole is that it treats tainting as nih putting http on the front of a filename is only one of several ways to attack open and open is far from the only spot vulnerable to injection attacks larry

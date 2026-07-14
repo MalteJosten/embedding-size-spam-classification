@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all i installed gd graph module i followed following method cpan install gd graph then i got the following messages cpan storable loaded ok going to read root cpan metadata database was generated on gd graph is up to date but when i tried using this module it returned some error messages can't locate gd pm in inc inc contains c perl site lib begin failed compilation aborted at file name and path compilation failed in require at e line escapenumber begin failed compilation aborted at e line escapenumber is there something wrong in this module how can i solve this problem best wishes geetha

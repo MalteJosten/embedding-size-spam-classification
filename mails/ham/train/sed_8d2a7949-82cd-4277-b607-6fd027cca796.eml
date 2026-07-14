@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello folks so i'd like to use the lattice xyplot function but here's the thing i'd like a grid on it and a bit of annotation line and text so i tried just using the panel grid panel text and panel line but they didn't work after the plot had been called seemingly using the device coordinate system so i made a new proxy panel function calling panel xyplot and passing the x y groups subscripts args put them in it and they started working well only problem is that xyplot no longer plots the key i still pass auto key to into the high level function but no key gets plotted what's the best way to get what i want cheers gav r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

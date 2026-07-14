@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi here's a patch to allow going to full kernel suspend sescapenumber via the hardware manager it applies on top of the previous dcon patch note that this allows a non root process to take us into suspend i don't see a way around this while we're having individual activities tell us when suspend is appropriate rather than working it out for ourselves again the first caller of this will be read activity but anything that only updates itself in response to user input would be appropriate later thanks chris 

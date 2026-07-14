@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ons escapenumber escapenumber escapenumber klockan escapenumber escapenumber escapenumber skrev derrell samba org in researching this i discovered what appears to be a posix replacement it looks like readahead is equivalent to posix fadvise posix fadv willn eed not entirely equivalent readahead blocks while posix fadv willneed doesn't regards henrik

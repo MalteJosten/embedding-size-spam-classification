@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+windows cifs server escapenumber is returning a non specific error code in response to a write andx request the error code value returned is escapenumber the error happens consistently at the exact same point during a write operation to a file after nearly escapenumbermb has been written i e several write andx requests have been successfully processed by the server the description for the error code is rather vague on the msdn website any ideas why this could be happening thx murali rgds murali bashyam c escapenumber escapenumber confidential this telecommunication and any data attached to or included in it is considered confidential and is intended only for use by the named recipient the contents may be legally protected as any one or more of copyrighted material trade secret protected material attorney client privileged material attorney workproduct or as material covered by any other legally available means if you received this material in error please notify the sender and destroy the original and all copies whether electronic or otherwise thank you confidential 

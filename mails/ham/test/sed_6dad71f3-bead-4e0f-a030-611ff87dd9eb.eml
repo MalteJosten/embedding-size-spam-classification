@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+josh wilmes wrote at escapenumber escapenumber on escapenumber escapenumber escapenumber pdt chromatic wrote better compiler tools than lex and yacc is it necessary or even fair to tie compiler components to parrot i really don't know how to answer this question the compiler tools target parrot so that it will be easier for people including us to write languages that run on parrot i understand i'm just saying that if perl escapenumber were being written to target an existing vm any brilliant compiler tools could be written to target it as well it's not parrot that makes these possible it's not parrot that makes them possible but it certainly makes them easier ask patrick about his experiences writing the initial version of pge in c sometime i certainly wouldn't want to write tge in straight c sometimes a layer of abstraction can make such a large difference in how easy it is to tackle a problem that it's just not worth the hassle of doing it without the layer of abstraction allison

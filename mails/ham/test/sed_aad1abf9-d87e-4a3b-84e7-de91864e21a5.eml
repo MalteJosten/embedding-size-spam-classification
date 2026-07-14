@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber simo wrote i just found that we open winbindd idmap tdb independently in tdbsam new rid in pdb tdb c with the new idmap code which can have different providers for the allocation backend this is probably wrong escapenumber i would like to change it to ask winbindd for a rid is there a reason why this was not done before and instead we were opening the file directly and fiddling with another subsystem data why would winbind have to allocate a rid this is a generic task of the sam and if i'm right the sam is inside smbd winbind is there to allocate uid gids i had gone through some pain in the past to separate this cleanly volker

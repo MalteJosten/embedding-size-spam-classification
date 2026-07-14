@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on linux escapenumber escapenumber escapenumber and samba escapenumber escapenumber escapenumberc my testing suggests that smbd does not follow symbolic links which cross fs boundaries and which point to remote nfs shares theoretically imho this could be made to work irrespective of what the target path is whether it is with in the filer server or on a remote nfs server because it is the job of kernel vfs layer to send the request to the appropriate modules be it another fs or nfs client please let me know if my testing results are correct if yes then why we are not supporting symlinks which cross fs boundary thanks and regards senthil we won't tell get more on shows you hate to love and love to hate yahoo tv's guilty pleasures list http tv yahoo com collections escapenumber

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+anup nandialath wrote dear friends i was trying to read the source code for rlogis but ran into a roadblock it shows escapenumber function n location escapenumber scale escapenumber internal rlogis n location scale is is possible to access the source code for the same yes but as it is internal you have to look in the c code sources for r itself you can access that either by getting the source files for r and unpacking them somewhere on your computer or by browsing e g https svn r project org r tags r escapenumber escapenumber escapenumber or https svn r project org r branches r escapenumber escapenumber branch specifically src nmath rlogis c r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

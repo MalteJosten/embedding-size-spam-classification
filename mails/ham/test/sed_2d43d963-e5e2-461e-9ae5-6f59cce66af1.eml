@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+escapenumber escapenumber escapenumber yaron kahanovitch com hi all is there a perl built in function that search a value in sorted array although i found such an algorithm in the cpan search binary i wonder if there is an efficient solution within the core perl for large array which was sorted already using search binary is the best efficient solution i think otherwise there are other ways like grep map etc chinese practical mod perl book online http home arcor de jeffpang mod perl to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

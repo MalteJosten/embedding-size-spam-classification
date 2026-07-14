@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ok on to the next one charset iso escapenumber escapenumber quoted printable mime quotedprintable seems to only do conversions to ascii which screws up the conversion i could do conversion to utf via use encode decode 'mime header' string where string is represented as a header iso escapenumber escapenumber q d fc fe fcnd fcr fcc fc this is a bit of a hack from a message body that is encoded as quoted printable but i can't seem to find any command function that would let me do a conversion of quotedprintable text eventually to utfescapenumber the binary stuff i can do it's the qp stuff that seems to be messier to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i have a question about the lars package i am using this package to get the coefficients at a specific lasso parameter s data diabetes attach diabetes object lars x y type lasso cvres cv lars x y k escapenumber fraction seq from escapenumber to escapenumber length escapenumber fits predict lars object type coefficients s escapenumber escapenumber mode fraction can i assign automatically the best s value to predict lars which is given by the cv process cv lars or do i need to manually find the s value that gives the minimum cv value from cv lars and assign it as the s value in predict lars i would appreciate any advice on this thanks seungho huh r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

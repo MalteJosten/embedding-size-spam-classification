@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+author larry date thu apr escapenumber escapenumber escapenumber escapenumber escapenumber new revision escapenumber modified doc trunk design syn sescapenumber pod log clarification of empty range semantics requested by coke modified doc trunk design syn sescapenumber pod doc trunk design syn sescapenumber pod original doc trunk design syn sescapenumber pod thu apr escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber maintainer larry wall date escapenumber mar escapenumber last modified escapenumber apr escapenumber last modified escapenumber apr escapenumber number escapenumber version escapenumber version escapenumber headescapenumber overview escapenumber escapenumber escapenumber escapenumber array escapenumber array array escapenumber xx an empty range cannot be iterated it returns a c instead an empty range still has a defined min and max but the min is greater than the max item the unary c operator generates a range from c escapenumber up to

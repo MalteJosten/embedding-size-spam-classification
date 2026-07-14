@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hiya just thought i'd throw this out there for those of you who are comfortable in command lines most speakup users i'd say i'v'e found an alternative to vmware this is the open source and free software qemu it is quite fast and is able to emulate several types of cpu as well as different types of sound card network card etc running under windows i can create bat files and run different systems from each i'm currently trying to get lfs working i know it's a lot of waiting and compiling but i've got time if anybody's interested the qemu home page is http fabrice bellard free fr qemu yours zack speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

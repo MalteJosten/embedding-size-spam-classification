@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+don hopkins wrote i'm trying to set the tooltip of a tool item which i though would be easy but the toolitem set tooltip takes a first parameter that's a mysterious gtktooltips object but i can't figure out how to get a reference to the required tooltips object to pass as a first argument to a toolitem's set tooltip tooltips tool tip string the obvious looking method gtktoolbar get tooltips actually returns a boolean that tells if the toolbar is using tooltips but does not return the toolbar's gtktooltips tooltips member which is declared public but apparently not exposed as a property to python i don't quite remember how the tooltips api works but doesn't just creating an instance of gtk tooltips work the tooltips api is being rewritten on gtk trunk btw marco sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

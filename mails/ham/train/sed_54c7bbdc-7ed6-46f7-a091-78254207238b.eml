@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i've got a matrix mail end with the colnames x y z in this matrix are different measurements x and y are risign coordinates my question always if the x and y coordinates are the same i want to get the mean of their z values maybe you could try with the aggregate function for example aggregate input escapenumber by list input escapenumber input escapenumber fun mean hope that helps julien barnier groupe de recherche sur la socialisation ens lsh lyon france r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

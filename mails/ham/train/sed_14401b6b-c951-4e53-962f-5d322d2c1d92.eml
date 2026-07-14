@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i fully agree with larry's interpretation of rfc escapenumber and his comment on this proposal is xml and contains xml are two different things and the xml suffix is only for the is xml case regards martin at escapenumber escapenumber escapenumber escapenumber escapenumber larry masinter wrote i believe the xml suffix should be reserved for media types whose content can be parsed without any preprocessing by a generic xml parser a reply from david singer indicated that the proposed mpeg escapenumberfile format is binary and contains within it either xml text or bim encoded xml like a zip archive with an xml document as the main document in that case the use of xml would imo be inappropriate i thought this was clear form rfc escapenumber but perhaps not larry martin j du rst assoc professor aoyama gakuin university http www sw it aoyama ac jp mailto duerst it aoyama ac jp

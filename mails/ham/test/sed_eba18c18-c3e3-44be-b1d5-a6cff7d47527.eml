@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i wrote a function to reshape a sparse matrix of type dgtmatrix it is as follows reshape matrix function a r c reshape a matrix from the matrix package of type dgtmatrix r old a dim escapenumber c old a dim escapenumber if as numeric r old c old as numeric r c stop invalid dimension there must be r old c old elements in the new matrix k r old a j a i i k r j k i r redo spmatrix so i don't have to add one to i and j dim c as integer r as integer c new dgtmatrix x a x dim dim i as integer i j as integer j any suggestions on improvements of checks that i am missing scott r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

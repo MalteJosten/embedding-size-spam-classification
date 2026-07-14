@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+bruno coudoin free fr wrote we have created a gcomprixo branch in our svn to continue the modification towards a sugar friendly gcompris yesterday we integrated the sven's libccc canvas library based on cairo we plan to use it to move to the cairo path have you considered other canvas solutions too the situation with the gtk canvas is really a mess so it's hard to say which of the alternatives is best it's just a weird situation to have sugar using hippocanvas gcompris libccc and someone likely goocanvas in the future thanks for the good news btw marco sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

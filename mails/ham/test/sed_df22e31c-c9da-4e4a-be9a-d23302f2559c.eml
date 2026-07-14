@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+here's an updated patch when a sidecar file is modified it now checks for any master files plural and updates those accordingly this should handle any situation such that sidecar master file s are always in sync jason on mon escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber jason kivlighn wrote here's a patch to have tracker read xmp sidecar files it adds a configure check for exempi enabling reading xmp if found looks good other than minor styling issues and memory leak as i pointed out before can you correct these please one problem i see is how to handle updating the associated file when it's sidecar file is updated you will need to handle the case when the xmp file changes suggest changing the filename extension to the master filename if its xmp when a file is queued for processing let me know if you need help with this thanks jamie 

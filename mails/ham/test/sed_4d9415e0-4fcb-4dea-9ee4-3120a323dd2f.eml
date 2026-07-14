@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+erik blankinship wrote hello how should activity developers internationalize their activities strings amongst other things is there a way to ask which locale your activity is in i believe everything is using standard gettext localization i'm not clear how things like localized dates should work in theory strftime ' c' would work but it's hardly a well tuned date format there's some discussion here http wiki laptop org go python style guide escapelong and localization but that section should really be expanded the pylons document actually goes into fairly good detail http pylonshq com docs escapelong html if you aren't using python then i don't really know ian bicking ianb colorstudy com http blog ianbicking org write code do good http topp openplans org careers sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

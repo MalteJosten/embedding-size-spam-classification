@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i'd like to get a measure of goodness of fit for a heirarchical clustering result from hclust something that would indicate the extent to which the dendrogram accurately represents the original dissimilarity matrix is there an easy way to do this or does anyone have code for computing distances between nodes given an hclust structure so far my searches have come up dry david hinds r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

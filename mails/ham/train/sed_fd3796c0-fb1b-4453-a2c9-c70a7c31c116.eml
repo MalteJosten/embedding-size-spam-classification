@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+james last night i ran 'make test' and everything was cool tonight i ran 'make test' and saw that a newly added test file t doc pod todo t generated a massive number of lines of failure message see attached patch pod todo t failure txt i experienced these failures in both trunk and the reconfigure branch this test shouldn't run with 'make test' i didn't add it to the harness hrm just did some investigation and realised that all tests under t doc are added sorry for the extra unwanted output this was a wee test file that i was wanting to do some work on and most certainly didn't want everyone to run straight away i'll skip it for the time being so that it doesn't disturb people paul

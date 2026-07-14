@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi r experts thanks very much to jim holtman and gabor on my previous question i am having another problem with data manipulation in zoo the following is data z for first business day of every month in zoo format i am trying to get mean of open for each year i subset z z escapenumber then sapply split z format index z y mean i get error message escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber na na na na na na na na warning messages escapenumber argument is not numeric or logical returning na in mean default x escapenumber escapenumber argument is not numeric or logical returning na in mean default x escapenumber etc any help on what i'm missing would be appreciated i am particularly confused by the fact that the command used works fine on the original data file i e before subsetting by first day of month sorry if i have overlooked something very simple 

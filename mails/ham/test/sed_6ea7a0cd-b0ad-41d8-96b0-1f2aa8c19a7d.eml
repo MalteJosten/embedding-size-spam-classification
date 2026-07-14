@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sat apr escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber stefan metze metzmacher wrote can you also update the documentation lib talloc talloc escapenumber xml and lib talloc talloc guide txt sure i'll try and get to that this weekend also some torture tests for lib talloc testsuite c would be nice all i need to add is tests that talloc strict ctx escapenumber returns null yes that's the only change maybe we should also define that the strict versions should be used in sambaescapenumber and the normal versions in sambaescapenumber and backported code so that people doesn't need to guess what they should do as i think that's exactly what you want to prevent with this well to be honest i'd like to make people think very carefully about using the xalloc escapenumber realloc escapenumber idiom as i think it's dangerous in both branches jeremy 

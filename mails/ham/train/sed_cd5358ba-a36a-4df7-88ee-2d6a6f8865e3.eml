@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ begin pgp signed message hash shaescapenumber hey folks i am currently using ttsynth with the speakup connector utility and so far i am quite impressed the synth is incredibly responsive even on a dual celeron escapenumbermhz box one thing i have noticed however is that speech does not shut up very quickly when one presses a key or the control key speech also overlaps when quickly skimming over text either by line word or character i'd say this has something to do with alsa being used but is probably not too hard to work around in the code the utility also randomly crashes sometimes and i hope to see if i can debug that janina what is the speakup connector source code license i can make ubuntu debian packages if people are interested luke yelavich gpg key escapelong http www themuso com themuso gpg key txt email msn themuso themuso com jabber themuso jabber org au begin pgp signature version gnupg vescapenumber escapenumber escapenumber gnu linux escapelong escapelong hlcescapenumber end pgp signature speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

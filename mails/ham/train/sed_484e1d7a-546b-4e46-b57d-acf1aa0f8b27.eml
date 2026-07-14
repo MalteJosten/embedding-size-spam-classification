@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue escapenumber apr escapenumber ronggui wrote it seems that mass suggest to judge on the basis of sum residuals mode type pearson df residual mode my question is there any rule of thumb of the cutpoiont value the paper on the use of corrections for overdispersion suggests overdispersion exists if the deviance is at least twice the number of degrees of freedom there are also formal tests for over dispersion i've implemented one for a package which is not yet on cran code docs attached another one is implemented in odtest in package pscl the latter also contains further count data regression models which can deal with both over dispersion and excess zeros in count data a vignette explaining the tools is about to be released hth z are there any further hints thanks ronggui huang department of sociology fudan university shanghai china r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

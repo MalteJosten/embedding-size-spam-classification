@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+good morning i have some sas code to translate in r code and when i export data from excel to r i have to read formula writed as follow cescapenumber cescapenumber sescapenumber escapenumber cescapenumber escapenumber escapenumber or if cescapenumber then cescapenumber cescapenumber cescapenumber escapenumber else cescapenumber cescapenumber cescapenumber escapenumber i find some difficulties to write a good program to read and calculate these formulas there are several kinds of formulas there are with conditional and without conditional can you help me please thanks alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

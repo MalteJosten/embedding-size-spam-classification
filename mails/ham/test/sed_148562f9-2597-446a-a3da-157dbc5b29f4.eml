@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+am montag escapenumber april escapenumber escapenumber escapenumber schrieb jonathan worthington proposal pmcs can have attributes just as classes in hlls have attributes this is somewhat related to variable sized pmcs note you can leave pmc headers fixed size and just have a pmc ext like structure that is the variable sized bit the implementation of attributes and attribute inheritance would be pretty standard the variable sized proposal just allocates differently non resizable pmcs same thing as we are already allocating differently sized gc able items pobjs namely pmc buffer string and buffer like the only differences are some flag bits and the presence of a vtable introspection while every instance of an object instantiated from a parrot class has the class available for introspection purposes pmcs do not this needs to change and here's something i think will work this is what the cstruct proposal is for the cstruct is describing the internals of a pmc which happen to consist of c structure items leo

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ on tue jun escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber mark glines wrote i just came up with an artificial benchmark and found that gcc escapenumber escapenumber escapenumber runs slightly faster with pragma once protecting a header that includes lots of other headers a chain of escapenumber other headers in my test by slightly i mean compare a escapenumber escapenumber second average to a escapenumber escapenumber second average for escapenumber runs each for a more realistic benchmark parrot rescapenumber compiles in escapelong escapenumbers parrot rescapenumber compiles in escapelong escapenumbers so for gcc escapenumber escapenumber escapenumber at least i think the difference might be lost in the noise balancing the gain vs loss these small speed gains don't seem worth losing the ability to compile on a tool chain that has worked fine until this change we can revisit that when if the speed gain becomes more significant or mingw gcc escapenumber escapenumber escapenumber switches over to 'current' allison

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i used to connect internet via a proxy before update packages i wrote in r sys putenv http proxy http proxyescapenumber redegov sp gov br escapenumber nevertheless the way the connection is done has changed for example in the browser the proxy is not indicated and i have to give an username and a password to have access to internet i read the faq and the help for download file but i was not able to do updates i tried sys putenv http proxy user ask sys putenv http proxy user http well i use r under both windows xp and linux ubuntu thanks for any help antonio olinto bcmg internet webmail www bcmg com br r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

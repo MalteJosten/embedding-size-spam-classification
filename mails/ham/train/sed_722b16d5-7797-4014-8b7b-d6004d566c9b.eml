@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by james keenan please include the string perl escapenumber in the subject line of all future correspondence about this issue parrot configure runstep is the only subroutine in parrot configure that is still not covered via the tests in t configure or t postconfigure no test has yet been written in part because this is a subroutine which is not really well positioned in its current package everything else in parrot configure has to do with initial configuration runstep has to do with re running a step after configure pl has already completed it's a tool that some parrot developers use patrick michaud has spoken up for it but is not used by make additional problem parrot configure also has subroutines named runstep and runstep ideally any refactoring would include less confusing names because runstep runs after configure pl any tests for it should go into the t postconfigure directory so the task is to write unit tests for parrot configure runstep and if appropriate to refactor it with that refactoring possibly including renaming and or relocating the subroutine kidescapenumber

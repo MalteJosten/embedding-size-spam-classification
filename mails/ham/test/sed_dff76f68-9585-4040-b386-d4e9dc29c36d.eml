@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am working on a project about hospital efficiency due to the high multicolinearlity of the data i want to fit the model using ridge regression however i believe that the data from large hospital indicated by the number of patients they treat a year is more accurate than from small hosptials and i want to put more weight on them how do i do this with lm ridge i know i just need to put weights in lm function but for lm ridge i don't see that option in lm ridge could somebody give me suggestions on that thanks ben alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

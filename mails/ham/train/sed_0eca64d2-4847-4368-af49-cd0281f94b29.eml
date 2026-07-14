@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon escapenumber may escapenumber escapenumber escapenumber escapenumber escapenumber allison randal wrote mike mattie wrote escapenumber loader a bit mask selecting loaders to be included in the search this arguement is passed by reference when a matching file is found the value of loader is reset to the flag for the loader under which it was found escapenumber loader is not modified unless a matching file is found escapenumber this does make more sense than the pointer to an enum though it's escapenumber still true that the caller doesn't really need to know all the escapenumber alternatives for looking up a library it could all be encapsulated escapenumber within library c which loaders are relevant is specific to an op code for example dynext c or load bytecode for loading a module with a c part as well as nci bindings it will need to call it twice with different masks allison

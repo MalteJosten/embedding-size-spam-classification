@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by steve peters please include the string perl escapenumber in the subject line of all future correspondence about this issue this patch continues with the void pointer cleanups needed for compiling parrot with a c compiler this patch finishes up most of the code outside of src pmc but includes a bit in there as well next step is to take on src pmc then work on some platform specific cleanups as well steve peters steve fisharerojo org

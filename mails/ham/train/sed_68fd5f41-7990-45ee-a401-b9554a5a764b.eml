@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+benilton carvalho wrote iconv on your linux box should do the work i have a windows source file r with the default charset of windows i can't use it in linux as source file r because linux's default is unicode how can i read it soon after i posted i found out how to do it source file r encoding latinescapenumber anyway thanks to the hint about iconv i tried to find something like that using apropos latin but iconv was not there alberto monteiro r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

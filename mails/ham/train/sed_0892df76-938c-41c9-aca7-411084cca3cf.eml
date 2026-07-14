@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have a matrix and am trying to write a code to escapenumber identify all neg values along each line escapenumber for each neg value i need to identify min j escapenumber escapenumber end with this code eq i j ifelse mat r i j escapenumber escapenumber mat s i j mat all i j escapenumber this is the code i have so far i have tried several different methods but i keep getting the same error message that the condition has length escapenumber and only the first element will be used any suggestions int escapenumber for i in escapenumber nrow mat all start year min which is na mat all i f mat all i escapenumber fin year max which is na mat all i f for j in start year fin year if mat all i j int j escapenumber escapenumber mat s i j ifelse mat all i j int j escapenumber pmin mat all i j escapenumber mat r i j which max mat all i j escapenumber j int escapenumber r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

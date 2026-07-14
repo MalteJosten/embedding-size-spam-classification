@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have not looked at the shell log the typical error i'd like to see is a misspelling of a variable or an class member function would i see this if i start the application from the command line is done like this sugar activity calculadora activity this doesn't work for me tibo on escapenumber escapenumber escapenumber marco pesenti gritti wrote on fri escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber thibaut lamadon wrote how do we set the debug level for the logging of the activities when i run my activity there are plenty of python errors not my personal logging that i don't receive in the log for example if there is an undeclared variable the activity just stops but doesn't say why is there way of getting those errors in the log file i'll need more information about the exact error which does not appear also does it appear in the shell log note that non python error output will not appear in the logs you have to launch the activity from the command line to get them using sugar activity marco 

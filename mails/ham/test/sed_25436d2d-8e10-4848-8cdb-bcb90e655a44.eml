@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i had a similar solution by using frequency but having more codes i also like the recursive idea i initially tried to use rapply however which can only take one arg function thanks everyone w on escapenumber escapenumber escapenumber hadley wickham wrote on escapenumber escapenumber escapenumber tony plate wrote i don't think there's that sort of apply reduce function in r but for this problem the last line below happens to be a one liner only if you have character data though x lapply escapenumber escapenumber function i sample escapenumber escapenumber names which table unlist x escapenumber escapenumber escapenumber not that it's hard to turn that back into a number hadley weiwei shi ph d research scientist genego inc did you always know no i did not but i believed matrix iii r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

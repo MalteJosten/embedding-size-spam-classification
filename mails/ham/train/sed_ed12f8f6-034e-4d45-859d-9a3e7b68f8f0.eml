@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi what is the recommended way to vertically concatenate escapenumber data frames with the same column names but different number of rows my problem is something along these lines dfescapenumber data frame varescapenumber varescapenumber varescapenumber varescapenumber varescapenumber varescapenumber nrow dfescapenumber escapenumber dfescapenumber data frame varescapenumber varescapenumber varescapenumber varescapenumber varescapenumber varescapenumber nrow dfescapenumber escapenumber i tried df c dfescapenumber dfescapenumber no success stack does not seem to be appropriate either for my problem thanks zava this is not an offer or solicitation of an offer to buy se dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

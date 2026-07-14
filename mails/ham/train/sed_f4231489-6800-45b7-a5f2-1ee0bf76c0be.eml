@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear list i have run into a problem that seems very simple but i can't find any solution to it have searched the internet help files and an introduction to r etc without any luck the problem is the following i would like to create a data frame with two components columns the first component being a matrix and the second component a vector whatever i have tried so far i end up with a data frame containing all the columns from the matrix plus the vector which is not what i am after i have seen this kind of data frame among r example datasets oliveoil and yarn i would greatly appreciate some help with this problem kind regards lina hultin rosenberg karolinska biomics center karolinska institute sweden r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

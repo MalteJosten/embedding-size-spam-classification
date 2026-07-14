@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on thu jun escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber chromatic wrote on thursday escapenumber june escapenumber escapenumber escapenumber escapenumber mark glines wrote on thu escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber chromatic wrote return string from cstring interp str escapenumber return string from cstring interp bool escapenumber return super that escapenumber looks like it should be escapenumber yep fixed in rescapenumber we have a lot of string from cstring calls with constant second parameters and third parameters of escapenumber that could use updating there's no sense in calling strlen all the time i think that you need something like this concatenating with ensures that only literal strings are accepted as argument define str with len s s sizeof s escapenumber str with len shortcuts define newsvpvs str perl newsvpvn athx str with len str credit to chip for the concatenating with trick nicholas clark

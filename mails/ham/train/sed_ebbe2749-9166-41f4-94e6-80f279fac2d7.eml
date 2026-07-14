@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+julius b lucks wrote hi all there has been some recent discussion about iescapenumbern and activities using the python gettext module i set up iescapenumbern in kuku and put up some notes at http wiki laptop org go python iescapenumbern it looks like there is a bit of code that needs to be in each activity such as some logic for determining which language to localize to and pulling the correct mo file for it etc is it appropriate to put this code in some sugar module sugar iescapenumbern for example so that all activity developers have to do is wrap strings in create the pot po mo files and do something like suggested by mncharity from sugar import iescapenumbern iescapenumbern install is there already something like this the default activity wrapper should already setup stuff correctly also bundlebuilder has support for generating pot creating the mo etc see how that's done in the web activity and if there is something missing please let us know marco sugar mailing list sugar lists laptop org http lists laptop org listinfo sugar

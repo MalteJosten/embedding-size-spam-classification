@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i have a dataframe which has escapenumber columns of numeric data a b c each of which has been obtained independent of the other we are trying to find out which of a or b cause c i e we are hypothesising that c is the effect and either a or b not both is the cause i e a causes c and this cause effect relationship explains b the data for a contains more noise than that for b we are working with around escapenumber points i would greatly appreciate any inputs on the best statistcal approach to tackle this problem i am thinking that we can find correlation coefficients between a and c and between b and c but i am not sure this answers the question also we do not know whether the correlation between them is linear or non linear thanks lalitha r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

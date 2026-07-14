@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+scott flemming wrote hi i wonder whether r can finish the following project i want to make a chart to represent escapenumber genes each gene has orientation and length therefore a gene can be represented by arrows can r be used to draw escapenumber arrows in one line hi scott maybe the feather plot function in the plotrix package is what you want jim r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

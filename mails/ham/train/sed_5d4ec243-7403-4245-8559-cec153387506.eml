@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon may escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber vlendec samba org wrote author vlendec date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber mon escapenumber may escapenumber new revision escapenumber websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber log rewrite messages c to use auto generated marshalling in the tdb i'm doing this because for the clustering the marshalling is needed in more than one place so i wanted a decent routine to marshall a message rec struct which was not there before i really like this looks very elegant i will bug you at some point to learn how to write and set up a new samba specific marshalling struct thanks jeremy 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i'm writing a wrapper for stop that produces a popup window using tcltk something like error function msg paste sep if length msg msg if require tcltk quiet true tt tktoplevel tkwm title tt error tkmsg tktext tt bg white tkinsert tkmsg end sprintf error in s s msg tkconfigure tkmsg state disabled font tahoma escapenumber width escapenumber height escapenumber tkpack tkmsg side bottom fill y stop msg but i would like to know from which function error is called for example if i have foo function stop bar function error foo error in foo bar error in error and in the tk window i get error in i need the output of bar in the tk window only to be error in bar then it's clear where error is called i'm not worried about the output bar produces on the console hope this makes sense thanks sundar r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

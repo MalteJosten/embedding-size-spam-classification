@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tue escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber volker lendecke wrote on tue apr escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber simo wrote it is an selinux problem so don't worry i will make dan fix the policy for fcescapenumber but you may still want to think if we need to add a better exit condition code in case of errors smbd was looping forever and filling the logs on selinux denying smbd access to inotifyfs what error message do we get from which syscall not sure avc messages are terse and don't give much information unfortunately i will try to gdb it and see if i can get something simo simo sorce samba team gpl compliance officer email idra samba org http samba org

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sat escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber j m maurer wrote the shell isn't the problem here the problem is that the ps cannot determine your ip address i think simon broke the fallback address detection ie when not using nm when he cleaned up the d bus stuff i'll see if i can check in a fix should be fixed now please ' sugar jhbuild buildone sugar' still no luck some logs attached hmm puzzling this does work on my laptop where networkmanager is also not running rm rf sugar worked sorry for the noise and thanks a lot dan this probably means that registration didn't complete for some reason we'll have to look into it setting 'registered' to true in sugar default config may have fixed it dan sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

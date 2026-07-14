@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sunday escapenumber april escapenumber escapenumber escapenumber matt diephouse wrote the attached patch completely reworks parrot process args the changes are extensive and i think they make the code much clearer rather than just check it in i thought i'd try to get feedback here to make sure that it is clearer to everyone else and not just to myself it's a lot clearer this patch also fixes a few bugs escapenumber flat slurpy named parameter passing errors yay a couple todo'd error condition tests i'm sure there is more that can be done to clean things up but this is at least a start i've already spent escapenumber hours on this patch so i'm ready to check things in and leave further improvements for another time i only noticed one thing besides large swaths of removed code which is always nice this code occurs multiple times if the flat arg is empty just go to the next arg if st src slurp n st src mode call state flatten st src i it's three lines is it worth extracting somehow c

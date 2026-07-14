@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi tridge my bzr send plugin doesn't work nowadays so i report it here as well i've made infiniband part working again unfortunately it needs your attention as well since it was necessary to change your code changes ctdb ib minor bugfixes error case make ctdb capable of alternative connection like ib again solved the fork problem do debug memory overwrite fix occured using ibwrapper test with wrong ip address given see my prev mail to volker we can revert this in case volker rejects it but anyway this little change just helps it won't hurt please merge my branch thank you in advance peter

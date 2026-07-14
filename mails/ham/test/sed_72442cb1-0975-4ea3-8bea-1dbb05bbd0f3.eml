@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+as some of you may know a few of us have been working on 'ctdb' a project to create a scalable clustered samba implementation we have now reached the point where wider testing of our current implementation would be useful so we have created a setup guide in the samba wiki here http wiki samba org index php ctdb setup if you don't have a real cluster to play with then the instructions also show how to create a set of virtual nodes over loopback you might also be interested in a talk i gave on this last week at sambaxp in germany http samba org tridge sambaxp escapenumber ctdb pdf we are particularly pleased with the performance results on page escapenumber which show just how far we have come with clustering since the initial very early attempts at just putting the tdb databases on shared storage at the moment ctdb does not do automatic recovery when a node goes down so it is principally useful for high performance servers rather than high availability servers we are working on automatic node crash recovery now cheers tridge

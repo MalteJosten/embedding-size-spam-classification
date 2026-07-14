@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber mark j reed wrote my expectation before reading the delta was that negative counts would do a reversal escapenumber x escapenumber escapenumber 'a' 'b' 'c' xx escapenumber 'c' 'b' 'a' 'c' 'b' 'a' 'c' 'b' 'a' i don't know why i think that makes sense but it was honestly my first thought does it make sense to anyone else is there a compelling reason i'm missing for having negative values behave as if they were zero rather than adding some other potentially useful functionality snip in perl escapenumber i commonly say things like sub zeropad my len s my slen length s carp the string s is longer than the specified length len if slen len return escapenumber x len length str str which is roughly equivalent to doing a sprintf with the format escapenumber len d 

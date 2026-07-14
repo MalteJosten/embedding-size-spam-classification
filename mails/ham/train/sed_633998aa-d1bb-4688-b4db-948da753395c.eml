@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi memosono is using the osc protocol http opensoundcontrol org spec escapenumber escapenumber to communicate with the game server and to talk to the csound server i think it is an easy to use protocol and maybe some other games or activities want to use it as well an osc message consists of an osc address pattern a path followed by an osc type tag string followed by zero or more osc arguments ' memosono test' 'ifs' escapenumber escapenumber escapenumber 'test' osc is callback based on the receiver side the osc path and the type tag is used to dispatch the right callback a python implementation of the osc protocol and a basic api for receiving and sending osc messages can be found in the memosono tree in the osc folder there exist python bindings for the osc library liblo as well http das nasophon de pyliblo best simon sugar mailing list sugar lists laptop org http lists laptop org listinfo sugar

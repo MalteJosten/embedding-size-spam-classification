@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dieter vanderelst wrote hi i would like to know whether anybody knows a simple way to combine textual and graphical output in r a typical analysis produces textual output e g model fits and plots in r i would like to know whether r has the possibility of combining these into a single 'report' or output an example of a program that does this is spss after running the analysis you have a combination of textual output tables and plots that are easy to print and distribute i know of the possibility to embed r code into latex using sweave but i wouldn't call this quick since a lot of coding will go into writing the sweave file any other suggestions and to further complicate the issue you could look at the htmlize and rescapenumberhtml in the prettyr package which allows you to run an r script and produce html output jim r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

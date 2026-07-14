@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello does anyone know if there is a command in r similar to xtpoisson in stata i want to fit a conditional fixed effects poisson model and maximize a conditional likelihood so i need something similar to clogit which is used for logistic regression models many thanks mounia hocine alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

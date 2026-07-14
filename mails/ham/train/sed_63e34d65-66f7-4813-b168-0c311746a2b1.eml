@@ -1,0 +1,13 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+nick and winston ,
+i understand that ir & fx var numbers are calculated every day in risktrac .
+this results are overwritten
+everyday in the database table by the official numbers calculated with the
+old version of the code .
+for the consistent testing we need historical results for each ir and fx
+sub - portfolio .
+can we store the numbers every day ?
+tanya

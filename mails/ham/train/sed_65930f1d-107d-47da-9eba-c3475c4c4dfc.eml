@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+andrej kastrin wrote dear all question about the sum function the file structure is as follows a escapenumber a escapenumber a escapenumber b escapenumber b escapenumber c escapenumber c escapenumber c escapenumber the result i want to obtain is to sum values in the second column columnb for each particular letter in the first column columna e g a escapenumber b escapenumber c escapenumber i don't want to use hash structure because the input file is very large is there any simple way to do that step by step to sum up values in columnb until the letter in columna changes and print the result thanks in advance for any suggestion andrej usr bin perl use strict use warnings open fhescapenumber test txt or die can't open file while chomp columna columnb split \\ my label total while chomp my columna columnb split \\ if label and columna ne label print label total\\n total escapenumber label columna total columnb print label total\\n if eof hth rob to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri escapenumber jun escapenumber escapenumber escapenumber escapenumber escapenumber yang mikey wrote hi everybody i found a interesting thing when i see the header of ntcreateancx escapelong via ethereal i found the value of word count is escapenumber but the position of byte count is not at offset of word count value of word count escapenumber why it happened and how ethereal knows the correct position of byte count the wordcount should be more like escapenumber i would have to see a capture to understand what the problem is it could be that ethereal just got confused try the latest wireshark mike

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi kate try looking at the package 'drc' on cran and in particular look at the example in the help page for the dataset 'daphnids' daphnids you can obtain arbitrary ed values with approximate standard errors using the function 'ed' christian r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

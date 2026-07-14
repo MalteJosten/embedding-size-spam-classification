@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+thanks marco kim on escapenumber escapenumber escapenumber marco pesenti gritti wrote hello some notes about the notes search and resume works in sugar jhbuild escapenumber does not have the latest code so let's reevaluate with the next image journal can't be closed anymore i checked in a fix for that i sent a separate mail about paint we need to figure out what to do about it activities starting on mouse over it looks like you can now click on the trackpad which i believe is the reason of the behavior might want to tweak the trackpad sensitivity we can easily tweak mouse speed i can work on it with eben i assume he is the right person to look into this the key related issues blocks on escapenumber power button not shutting down the system is indeed the wanted behavior the icon in read is actually a save icon i added a tooltip but the confusion might mean the icon is not quite intuitive your problems opening activities might be related to a journal bug which is now fixed let's test again on the next image marco 

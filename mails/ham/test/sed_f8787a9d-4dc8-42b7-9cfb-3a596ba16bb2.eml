@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+thanks applied in rescapenumber with some modifications particularly changed the name of the flag from parrot arg object to parrot arg invocant moved the code for handling object overrides of 'invoke' from delegate pmc to parrotobject pmc and kept the regression test for rt escapenumber still relevant it just has to check for escapenumber params in the error message instead of escapenumber params also added a test for inherited 'invoke' overrides allison

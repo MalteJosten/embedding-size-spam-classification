@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi the following patch implements activity invitations in sugar you have to share the activity before be able to send invitations this restriction is because currently we create the muc associated with an activity when we share it that should be fixed in the futur there are escapenumber ways to invite someone to an activity using the mesh view you have to share your current activity then go to the mesh view roll the cursor over a buddy and choose invite after sharing click on the invite button in the toolbar and select a contact this widget is still very basic and probably needs some ui love i reused existing code to display invitations so currently each invite is added in the activity toolbar you can only accept an invite by clicking on it the gui should be able to reject invites and see informations about them sender of the invite g 

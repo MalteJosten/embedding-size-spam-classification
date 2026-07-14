@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+robert goley wrote how do i make an initrd do this the only initrd i've made so far was as a result of compiling a new kernel and i don't see how that will help installing a default debian kernel creates the needed image for each kernel you can follow the debian way of compiling kernels if your setup requires a custom kernel peter a bonucci the initrd was built picking up info from etc fstab you may have to make temporary changes to fstab run yaird to produce a new initrd for the partition where you are going to run it and remember to backout changes to fstab i have been able to boot a debian on an usb hd it was not easy to set it up to unsubscribe email to debian laptop request lists debian org with a subject of unsubscribe trouble contact listmaster lists debian org

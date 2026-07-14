@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri jun escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber tridge samba org wrote i have two small sets of patches to go in one is the tiny patch to enable disabling of ads the other is a patch to re enable ldb for i'll take that one i have the code connecting to ctdb still in my queue no major ones for the normal non clustered code paths the code base is now in a state where that can be plugged in quite cleanly this is very close but linuxtag is more busy for me than expected volker

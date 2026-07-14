@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber benilton carvalho wrote hi everyone it's been a while i've been trying to save a plot created via lattice xyplot if i have a file tst r with the following code y rnorm escapenumber x rnorm escapenumber z sample letters escapenumber escapenumber escapenumber rep t library lattice bitmap tst png xyplot y x z dev off and i source it i get the tst png file which is a blank page if i copy and paste instead i get the correct plot any suggestion use source echo true deepayan r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

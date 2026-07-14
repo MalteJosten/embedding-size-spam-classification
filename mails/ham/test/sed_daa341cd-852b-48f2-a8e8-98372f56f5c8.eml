@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i did enable the wide links options but i still do not find smbd following the links which cross fs boundaries or remote nfs shares from what i understand it is supposed to work and i do not find it working time to debug the stuff thanks original message from lars o grobe to samba technical samba org sent friday may escapenumber escapenumber escapenumber escapenumber escapenumber am subject re quick question on symbolic link support my testing suggests that smbd does not follow symbolic links which cross fs boundaries and which point to remote nfs shares look at smb conf's wide links option cu lars do you yahoo tired of spam yahoo mail has the best spam protection around http mail yahoo com

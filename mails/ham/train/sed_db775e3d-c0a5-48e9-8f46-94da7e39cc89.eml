@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+reply to self set border na stupid paul artes wrote dear all hist plots a horizontal line at y escapenumber when the respective bin is empty i can deal with this by modifying the hist object before plotting it x density x density escapenumber na but i'm sure i've seen a more elegant way perhaps this was in truehist mass i have looked but can't find it does anyone know best wishes paul view this message in context http www nabble com omit y escapenumberdzero line in histogram tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

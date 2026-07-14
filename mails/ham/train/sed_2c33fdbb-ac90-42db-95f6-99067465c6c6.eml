@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon escapenumber apr escapenumber at escapenumber escapenumberpm escapenumber prof brian ripley wrote on mon escapenumber apr escapenumber duncan murdoch wrote the name change happens in the conversion to a dataframe so why not change the name afterwards that is df data frame mat names df escapenumber escapenumbert boxplot df main blah blah blah or use boxplot as data frame mat which seems more natural than data frame mat check names false which also does the job or even data frame mat boxplot data frame mat is how it's described in the help but it produces the problem that began my discussion i e prepends an x to the name for a dataframe column name however boxplot as data frame mat as suggested by brian works fine so i needed only three keystrokes to get round the problem thank you all patrick connolly great minds discuss ideas y middle minds discuss events small minds discuss people anon r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

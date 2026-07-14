@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+it depends on the nature of your data set there is a package simply called 'outliers' which has the grubbs dixon cochran tests there is also the bonferroni outlier test in 'car' package i'm sure there are more in the hundreds of packages on cran hth horace shao escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber am hello everyone i want to ask a simple question if i have a set of data and i want to identify how many outliers there are in the data which packages and functions can i use thanks shao chunxuan alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

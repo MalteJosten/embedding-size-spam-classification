@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+in the file include includes h there is a reference to struct smb ldap privates supposedly as a forward reference from printing h however this struct does not exist anywhere in the code does anyone remember why this was added should it be a different struct maybe ldapsam privates or is it no longer needed 

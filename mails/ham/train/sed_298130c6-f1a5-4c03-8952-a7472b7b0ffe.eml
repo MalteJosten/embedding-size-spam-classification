@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+dear all after going through the lattice doc and r help list and google i got the feeling that there is no function in lattice or other package to compute a pie chart object of class trellis although pie charts are obviously not considered optimal even in the pie doc pie chart trellis objects would be easy positioned e g over a map drawn with the grids package can anybody confirm this absence or indicate a package function able to draw a pie chart object of class trellis thanks in advance patrick r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

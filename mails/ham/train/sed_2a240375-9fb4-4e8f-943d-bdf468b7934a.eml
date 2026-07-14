@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+one more question inspired by this one just to increase my r skill level earl f glynn wrote i need to process some datasets where the configuration information was stored in ini like files i e text files with sections like this sectionescapenumber varescapenumber valueescapenumber varescapenumber valueescapenumber sectionescapenumber a valueescapenumber b valueescapenumber varescapenumber valueescapenumber a valueescapenumber is almost pure r code is it possible to use this feature to solve the problem that is something like eval as expression a valueescapenumber and assign store the result in lst sectionescapenumber environment lst is a newly created list containing the contents of the file being processed view this message in context http www nabble com read windows like ini files into r data structure tfescapenumber html aescapenumber sent from the r help mailing list archive at nabble com r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

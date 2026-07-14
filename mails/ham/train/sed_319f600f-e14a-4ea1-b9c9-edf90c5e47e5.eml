@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+attached are two patches the first makes sambaescapenumber test it's pkinit code by use of the kinit binary this was imported earlier today but needs this work to use socket wrapper the second patch is the modifications to socket wrapper to support ipvescapenumber which we need for heimdal's kinit to play nice andrew bartlett escapenumber andrew bartlett http samba org abartlet authentication developer samba team http samba org samba developer red hat inc http redhat com

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+just to say that the pkgsrc team accepted by patch and parrot escapenumber escapenumber escapenumber is now in pkgsrc the netbsd project make bulkbuilds on different architectures and os of the whole pkgsrc tree publishing the compilation results this will be useful for testing the portability on non wide use archs pancake

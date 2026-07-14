@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on sat jun escapenumber escapenumber at escapenumber escapenumber escapenumberam escapenumber vlendec samba org wrote author vlendec date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber sat escapenumber jun escapenumber new revision escapenumber websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber log remove the silly assumption that string replace requires a pstring jeremy i am always very confused about the different length arguments in convert string and friends can you take a look at the change in string replace and verify it's ok thanks while at it remove the pstring limit for strhasupper and strhaslower looks very good to me should help make several code paths less brittle against change thanks jeremy 

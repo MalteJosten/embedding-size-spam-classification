@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on jun escapenumber escapenumber at escapenumber escapenumber pm tridge samba org wrote james i'd argue that it's an actual saving of resources for some use cases smbd is escapenumbermb on my system nmbd is escapenumbermb and winbindd is escapenumbermb so running these cost escapenumbermb of some combination of swap space and physical memory i think you'll find it you look at proc pid map that nearly all of this is read only mmap of libraries and the main binary those bits cost you nothing that's true it's probably a lot less that i'm representing above but it's still greater than zero i also think you'll find that once you start doing things like rpc over tcp that trying to manage your ports via an external daemon becomes a nightmare that's why sambaescapenumber doesn't support inetd i'm not familiar with the issue with rpc on tcp could you elaborate james peach jpeach samba org

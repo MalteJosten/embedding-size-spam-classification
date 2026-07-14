@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+cooper my efforts to install the precompiled version of freeciv on sunone are stalled but the windows only version seems to work well too the sun probably is more capable of standalone unattended operation but i don't want to build the whole package from source yet all versions of network civilization are at www freeciv org download the precompiled binaries unpack to the directory of your choice and launch the executables if you want to play by yourself you have to launch the server and then the client to play with others you can run the server on any machine with all others requiring only the client there are also the metaservers although server loads vary widely by time of day and week i've been running the server on my notebook at escapenumber escapenumber escapenumber escapenumber but i'm not sure how to set the server to automatically admit new players while a game's in progress i know that it can be done because the metaservers are usually configured that way let me know when you've got things installed 

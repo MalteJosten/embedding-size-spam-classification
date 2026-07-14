@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on may escapenumber escapenumber escapenumber am almatir gmail com alma wrote hi all i need to pass the result of prepare statement as an argument to the subroutine sub abc my self shift my id title my sthescapenumber databasehandle prepare select file path from xyz where id ' id' and title like ' title' my res sthescapenumber execute my row sthescapenumber fetchrow array print row deleteposter file row deletes from the file system sub delete file my self shift my file path extract the file name my parts split '\\ ' file path my file parts parts unlink file if e file system rm file path unlink file path your split statement seems to be wrong split uses a regex to match so it should be split \\\\ file path i'd also suggest making sure you're in the correct directory to use unlink to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

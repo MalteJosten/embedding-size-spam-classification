@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi all i would like to know if there is any possibilty to handle a situation where in while executing a perl script if i press a control c or terminate the execution explicitly then my code should be in a position to handle it and display a predefined message or specifically execute predefined code for cleanup and then actually exit the code execution thanks in advance for the help regards anand heres a new way to find what you're looking for yahoo answers

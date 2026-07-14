@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+folks got a question regarding perl code in cgi script i am running below line of code in cgi script which doesn't work as expected my ticket qx echo pescapenumberpass pescapenumber login p pescapenumberuser basically command has to return a ticket or error message i keep getting ticket as empty however if i write same code in stand alone perl script it works fine as expected not sure what is going on i looked at other options like open cmd cmd and openescapenumber but not sure how to get output from the command any idea what is going wrong here nothing in webserver logs too thanks craig 

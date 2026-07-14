@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber thompson valeria v wrote hello i have trouble adding an abline to a dotplot from lattice package for example i would like to draw a line at x escapenumber library lattice x escapenumber escapenumber names x c a b c d e dotplot sample x panel abline v escapenumber produces a line on the left hand side of the origin what would be a correct way to do this this would be one dotplot sample x panel function panel abline v escapenumber panel dotplot your approach wouldn't generalize to the case where you have more than one panel deepayan r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+spie sutherland wrote there seems to be several good arguments for re architecting the drivers in this way on both the synth and user ends of the whole sounds like speakup is not really a module but a reworking of the kernel if speakup were implemented more as a module can't modules be loaded from the lilo grub boot prompt if so then it could be included as a kernel module loaded at startup by those who need it i really need to see the code i'm thinking if it were a module that simply works with the kernal there'd be less resistance to adding it to the source does the kernal support dual monitors it could possibly be implemented in a similar manner if linus already has implemented something similar just follow his example use his own code against him in a manner of speaking we could also get him really really drunk and tell him that he was the one who wrote it i could also threaten to marry his sister it would be worth it michael speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

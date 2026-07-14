@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ any idea how to track this down nope i generally defer to alexander or jelmer on docbook issues maybe they have an idea i'll look at this today i have one feisty system which could show the problem easily of course the same happens on debian i had plans to report this to you guys also indeed most lintian warnings on debian packages come from formatting issues in manpages lintian is a package qa check tool in debian ubuntu 

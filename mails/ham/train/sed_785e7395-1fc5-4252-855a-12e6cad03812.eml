@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+slackware has the rpm tool available in distro so no need for any script if you're doing lfs then you're on your own it is not reasonable to expect people to make software lfs compatible but then if you're into lfs then surely you can make whatever minor tweaks necessary to adapt and that will be half the fun slack and lfs are two of my fave distros less is more gena wrote the lfs team have a script to unpack debs and rpms so that they can be installed on a lfs blfs system can't remember what it is called i guess slackware users would need it too in that case speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

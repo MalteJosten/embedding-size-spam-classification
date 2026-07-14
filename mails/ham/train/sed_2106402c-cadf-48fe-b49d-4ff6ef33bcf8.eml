@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi this is my etc network interfaces file auto ethescapenumber iface ethescapenumber inet manual wpa sriver wext wpa roam etc wpa supplicant wpa supplicant conf iface office inet dhcp iface anywhere inet dhcp i do not use the wpa supplicant conf file to configure networking anymore and have everything in the etc network interfaces file i have a static ip configuration but it should also work with dhcp what i don´t use is roaming i have a configuration fiele set up for every location i usualy visit and written a script to replace the network settings accordingly iface ethescapenumber intet static wpa driver wext wpa ssid myssid wpa psk wpa key created with wpa passprase address escapenumber x x x netmask escapenumber x x x network escapenumber x x x broadcast escapenumber x x x gateway escapenumber x x x dns nameservers escapelong dns search localdomain try out if this works for you i find it better to have all configuration in just one file so i can more easily replace it and restart networking when i am at another location and need to reconfigure networking good luck 

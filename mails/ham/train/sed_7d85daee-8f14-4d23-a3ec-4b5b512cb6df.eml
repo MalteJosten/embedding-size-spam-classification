@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+how can i change the position of the ylab after enlarging the margins with par mar here is the relevant code snippet par mar c escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber plot c escapenumber escapenumber c escapenumber escapenumber ylim c escapenumber escapenumber lab c escapenumber escapenumber escapenumber pch escapenumber col 'blue' bg 'blue' axes false xlab years ylab onset withdrawl date font lab escapenumber box axis escapenumber las escapenumber axis escapenumber las escapenumber labels c 'jan' 'feb' 'mar' 'apr' 'may' 'jun' 'jul' 'aug' 'sep' 'oct' 'nov' 'dec' 'jan' at seq from escapenumber to escapenumber by escapenumber axis escapenumber labels false axis escapenumber labels false at seq from escapenumber to escapenumber by escapenumber thanks r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

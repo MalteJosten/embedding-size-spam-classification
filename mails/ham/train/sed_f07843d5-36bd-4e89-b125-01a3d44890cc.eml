@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi hoffman when you are trying to do a numeric comparsion on strings the interpreter will try to convert them to numbers and then do a comparsion if it cannot convert to numbers they are made escapenumber's and then it will compare for more info please refer to this url http www perlmeme org howtos syntax comparing values html cheers srini hoffmann wrote could some one explain how in the example below name and goodguy are equal numerically name 'markkkk' goodguy 'tony' if name goodguy print hello sir \\n else print begone evil peon \\n thanks hoffmann to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

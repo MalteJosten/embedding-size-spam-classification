@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on mon jul escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber tridge samba org wrote if what you really want this for is debug then maybe a varient of debug that allocates a tmp ctx would make sense eg escapenumber define debug tmp ctx level xx do \\ talloc ctx tmp ctx escapenumberd talloc new null \\ debug level xx \\ talloc free tmp ctx \\ while escapenumber escapenumber then use tmp ctx in the debug args escapenumber would that help with the current static string uses sure it would i already have that as an attempt coded up but i don't know if loading debug with yet another macro expansion is really what i want i tried to find a compromise between memory usage and backwards compatibility volker

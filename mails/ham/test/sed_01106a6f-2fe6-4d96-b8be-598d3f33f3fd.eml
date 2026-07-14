@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i am hoping to obtain information regarding the reporting of multinomial logistic regression results either recommendations of published studies employing r or suggestions about what output should be reported i am used to spss which routinely produces a broader range of output than r e g wald statistic p values exp b and associated confidence intervals below is the code i have been using for a series of analyses mod multacute multinom offence in acute danger violent convictions data kc na action na omit summary mod multacute cor f wald t anova mod multacute predictors expand grid in acute danger c y n violent convictions c y n p fita predict mod multacute predictors type 'probs' any assistance is appreciated regards bob green r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

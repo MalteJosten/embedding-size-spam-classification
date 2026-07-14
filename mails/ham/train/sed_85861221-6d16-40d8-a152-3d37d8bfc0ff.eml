@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+can you share the table create scripts you need to send us the output of show create table owner conference also send across some sample data anoop on escapenumber escapenumber escapenumber katie l barbee wrote i believe this is a very simple question or at least i'm hoping i am trying to select items from a table where the miles field is not null or blank and the below statement does not work does anyone have any suggestions thanks resultkeys date people miles savings sql select c objectid c dateadded as \\ date\\ c totalpeople as \\ people\\ sql c miles as miles c totalsaved as \\ savings\\ sql from owner conference c sql where c miles sql order by c datestart 

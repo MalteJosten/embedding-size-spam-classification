@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber jpeach samba org wrote author jpeach date escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber fri escapenumber apr escapenumber new revision escapenumber websvn http websvn samba org cgi bin viewcvs cgi view rev root samba rev escapenumber log support running under launchd we abstract the method of obtaining sockets to listen on a little because in the launchd case these are provided for us we also add an idle timeout so that a daemon can exit after a period of inactivity ok this is on the borderline of being too intrusive for me launchd is an apple specific technology not released as free software i'd like you to revert this and let's work out a way of having a separate apple selected server c that contains this platform specific code jeremy 

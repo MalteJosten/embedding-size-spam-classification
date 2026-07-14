@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i think there is still a small bug which i reported some time ago to r sig finance https stat ethz ch pipermail r sig finance escapelong escapenumber html and which takes effect if the time series is not stored in the variable 'x' the line write x file oxseries csv ncolumns escapenumber append true in garchoxfit fseries version escapenumber escapenumber should read write x series file oxseries csv ncolumns escapenumber append true instead incorporating the changes for ox g rchescapenumber escapenumber could be a good occasion to fix this as well regards martin ian gregory wrote bugs and fixes reported to diethelm wuertz in the interim to make the ox functions part of the fseries package work please follow the following steps snip r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

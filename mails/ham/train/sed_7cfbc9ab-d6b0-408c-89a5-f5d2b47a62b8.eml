@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on tuesday escapenumber may escapenumber escapenumber escapenumber escapenumber alek storm wrote it works exactly the same way as 'add method' this is the way the new object system works as defined in pddescapenumber since this makes vtable pointless i think we should get rid of it with vtable you define a sub of the appropriate name and use the vtable attribute without vtable you define a sub of any name add anon so as not to pollute your namespace somehow magically get that sub in a pmc get the appropriate class in a pmc and then call add method on that class object with the sub object being sure to do all of this at load or instantiation time so that people can use the right vtable entry any time during the program assuming that vtable adds the invocant and does not pollute the namespace the first option is to me clearly valuable c

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+from andy spieherty date fri escapenumber apr escapenumber escapenumber escapenumber escapenumber escapenumber edt on fri escapenumber apr escapenumber allison randal via rt wrote agreed i hate yielding compatibility but it makes sense in this case since we're likely to eventually require that any perl escapenumber code in the repository be able to run on the parrot implementation of perl escapenumber fair enough i suggest the following patch the escapenumber escapenumber escapenumber version is arbitrary it's the oldest escapenumber escapenumber x i happen to have installed for easy testing it should perhaps be replaced with whatever version regular parrot contributors are going to be using fwiw i build parrot regularly using escapenumber escapenumber escapenumber out of curiosity i tried it with escapenumber escapenumber escapenumber which is the oldest version i have readily available and it only needed a trivial tweak attached which would allow us to say needs perl escapenumber escapenumber x here do we care enough that i should commit this bob rogers http rgrjr dyndns org 

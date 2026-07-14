@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i seem to have issues with setting the driver my code library rjdbc getstatic function set driver driverclass jdbc com ibm dbescapenumber jcc escapelong someclasspath jar ' conn dbconnect driverclass servername etc etc i get this error data getdata exception in thread main java sql sqlexception no suitable driver at java sql drivermanager getconnection drivermanager java escapenumber at java sql drivermanager getconnection drivermanager java escapenumber error in local drv unable to connect jdbc to servername can anyone help me thank you zava this is not an offer or solicitation of an offer to buy se dropped r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

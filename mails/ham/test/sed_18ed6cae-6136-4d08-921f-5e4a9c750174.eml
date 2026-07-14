@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed apr escapenumber escapenumber at escapenumber escapenumber escapenumberpm escapenumber joshua isom wrote i think that would be more work than truly necessary we have an obvious dependency on having a make that can read a generic makefile no it is possible to bootstrap without any make like utility the lowest common denominator way of doing it is to take the sources to the ansi c microparrot linearise the dependencies on a machine with a running parrot and write out a c program that uses system to execute commands in order in the source directory to build that microparrot a slightly more sophisticated version would check whether the target exists first and skip until a target does not however having a make like utility is easier lua seems to go for that approach nicholas clark

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+whorf wrote parrot moves beyond the fragile stack based control flow common to virtual machines today to a continuation based control flow i can recommend a few good books and articles if you're curious could you recommend the books and articles for the curious i've had quite a few requests for this here's a good start continuations and advanced flow control by jonathan bartlett compiling with continuations by andrew w appel cambridge university press a dynamic continuation passing style for dynamic delimited continuations by dariusz biernacki olivier danvy kevin millikin representing control a study of the cps transformation mathematical structures by olivier danvy and andrzej filinski computer science escapenumber escapenumber escapenumber escapenumber a correspondence between continuation passing style and static single assignment form by richard a kelsey acm sigplan notices escapenumber escapenumber escapenumber escapenumber the scheme programming language escapenumberrd ed by kent dybvig chapter escapenumber particularly section escapenumber escapenumber the mit press also allison

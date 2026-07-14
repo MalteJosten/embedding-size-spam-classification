@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ moved to technical on mon escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber jeremy allison wrote i really dislike mapping streams into ea's i think in the long run this will be a disaster i concur escapenumberk eas will be filled up with junk and will steal precious space from other more important apps selinux i'd rather use a streams directory and store streams as directories within it it sucks for plain posix but will give correct seekable large size semantics for windows clients i was thinking if it couldn't be better to use just one directory in the root of the filesystem and within it create a directory for each file where we want to write an alternate stream the idea would be to use the files inode as the dir name escapelong and inside it the stream name as file name for the stream this way renaming or moving the file wouldn't loose the streams does it make sense simo simo sorce samba team gpl compliance officer email idra samba org http samba org

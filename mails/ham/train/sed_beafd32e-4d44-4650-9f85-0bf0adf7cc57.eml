@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+chas owens wrote well there is a prototype problem but it isn't that will force new to only accept one value but rather that prototypes and oo perl don't mix perl simply ignores prototypes on methods also prototypes are broken don't use them snip http library nescapenumberi net programming perl articles fm prototypes broken and don't use them is a bit extreme but i will agree with the general sentiment that they should not be used as a matter of course they should be reserved for a handful of special cases where they help more than they harm jonathan dataweaver lang to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

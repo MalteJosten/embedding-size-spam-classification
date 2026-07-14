@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on wed escapenumber jun escapenumber uwe ligges wrote rina miehs wrote hello i have a data frame in r that some sas users need to use in their programs and they want it in a dat file is that possible what is a dat file and which functions to use for that i guess write table will do the trick given dat is what i guess it is another approach that preserves factor levels if you have them is to use write foreign in the 'foreign' package this writes a text file for the data and also writes sas code to read the file thomas r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

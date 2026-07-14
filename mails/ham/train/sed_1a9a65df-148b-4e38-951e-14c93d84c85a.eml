@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i've been working to resolve issues between pnl and curve shift history here is the status § the value at risk engine pulls curve shift from the source databases specifically for power using the dpr application ad hoc table curve shift for jan escapenumberth comes in at escapenumberk not the escapenumbermm because data isn't stored longer than one week efforts are centered on restoring required info § it is scrubbing code and source tables to ensure proper curve shift is being used o coordination between both gas erms and power enpower teams are critical escapenumbermm curve shift day appears to be composed of both gas and power although we are focused on jan escapenumber escapenumberth issue is relevant throughout calendar year term § as of this moment the current curve shift data validates the var engine yet appears to a have couple of incorrect days these incorrect days do not severely impacting var backtesting however they represent a vastly different pnl the end game goal is to have curve shift correctly represented in the value at risk backtest data 

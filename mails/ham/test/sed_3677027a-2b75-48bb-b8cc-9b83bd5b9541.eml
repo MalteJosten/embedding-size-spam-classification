@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi jerry did you change your docbook build system for the escapenumber escapenumber escapenumbera release on darwin most of the special characters are displayed as xml entities eg any line beginning with a semicolon “ ” or a hash “ ” character is ignored as are lines containing only whitespace james peach jpeach samba org

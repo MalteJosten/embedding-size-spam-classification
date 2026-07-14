@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+bhiggs wrote i'm having trouble getting summudles out of the escapenumberk snp chips in r i'm using the oligo package and when i attempt to create the necessary snpqset object to get genotype calls and intensities using snprma i encounter memory issues anyone have an alternative package or workaround for these large snp chips oligo is a bioconductor package so you should probably direct questions on the bioconductor help listserve rather than r help best jim james w macdonald m s biostatistician affymetrix and cdna microarray core university of michigan cancer center escapenumber e medical center drive escapenumber ccgc ann arbor mi escapenumber escapenumber escapenumber escapenumber electronic mail is not secure may not be read every day and should not be used for urgent or sensitive issues r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

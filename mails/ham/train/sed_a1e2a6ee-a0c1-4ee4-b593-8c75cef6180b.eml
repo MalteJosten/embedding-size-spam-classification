@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i didn't load any of these modules explicitly i notice that when i modprobe snd however all the problems seem to go away dev mixer and dev snd are created etc i don't know why it didn't do this for me as for mplayer thanks for the tip it's very useful yours zack original message from adam myrow to speakup is a screen review system for linux sent tuesday june escapenumber escapenumber escapenumber escapenumber pm subject re debian alsa on tue escapenumber jun escapenumber zachary kline wrote is there something fairly simple i'm missing probably are you loading snd pcm oss snd mixer oss and possibly snd seq oss i can't believe that debian doesn't load alsa modules automatically even slackware does that btw to get mplayer to use alsa by default add this to your mplayer config ao alsa first make sure that mplayer supports alsa by running the command mplayer ao help which will show what audio devices are compiled in speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

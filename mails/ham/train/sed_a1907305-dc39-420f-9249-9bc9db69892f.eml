@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber prof brian ripley wrote f function x dat evalq x dat f o d error in eval expr envir enclos object o not found g function x dat eval x dat g o d error in eval x dat object o not found what am i doing wrong this seems to be what the helpfiles say you do to evaluate arguments in the context of a passed in data frame when you call f o d the argument 'o' is evaluated in the current environment 'context' in r means something different because of lazy evaluation it is not evaluated until evalq is called but it evaluated as if it was evaluated greedily g quote o d will work thanks after a bit more experimentation i figured out that this does what i want h function x d eval substitute x d parent frame but i don't understand why the substitute helps or indeed why it has any effect at all zw r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ben edwards wrote ime a bit confused about globals i know they should be used with care but some of perl's special variables like \\ etc are global and yes they should be used with care perldoc perlvar currently i am using var witch seems to work var is a package variable and has package scope is short for main perl le' package one var test print one var package two print two var package main print main var ' one two main test 'our var' also seems to work that depends on what you mean by work cant find any documentation with a discussion of this that answerers my question totally what is the conversion with globals this may help http perl plover com faqs namespaces html john to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

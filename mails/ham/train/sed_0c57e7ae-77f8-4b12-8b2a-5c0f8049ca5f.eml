@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi r helpers i would like to produce a histogram with uneven bins e g escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber escapenumber but i would like the resulting bars to be the same width i e a bar's width would not be proportional to its corresponding bin size also the x and y axes of my histograms frequently almost always actually extend beyond the axis labels i e there are unlabeled bars i would like to label each bar exactly with the range of values that corresponds to it i e print a escapenumber underneath the escapenumber bin print escapenumber escapenumber underneath the escapenumber escapenumber bin etc i'd appreciate any help you might be able to provide thanks mark alternative html version deleted r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

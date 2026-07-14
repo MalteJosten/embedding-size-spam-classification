@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello terrence i suspect that using festival with speakup and orca could cause the problem how did you manage to get festival work with speech dispatcher and speakup i tried this and didn't succeed orca and speakup both need the festival server running and that is maybe what causes the trouble do you use ubuntu escapenumber escapenumber if so you can use orca with espeak switch to it in the orca speech settings by choosing espeak as speech synthesizer hermann speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup

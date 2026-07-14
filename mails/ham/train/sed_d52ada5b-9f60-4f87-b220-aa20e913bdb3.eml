@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on fri escapenumber escapenumber escapenumber at escapenumber escapenumber escapenumber nishi wrote yes its the cygwin perl to be blamed would setting the activestate environment variable help before running the scripts that contain the basename usage cygwin is a unix environment emulated in windows paths on unix are done by slash eg data scripts xyz pl this represents typically c \\cygwin\\data\\scripts\\xyz pl to convert between windows paths and cygwin paths use cygpath command line tool may be a function in perl as well for paths to files you can use the cygwin unc paths c some where on c drive xyz pl or server share directory activestate is a perl implementation that is straight windows if you like this might be a better fit to your task ken foskey foss developer to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

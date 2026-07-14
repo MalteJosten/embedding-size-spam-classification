@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+ new ticket created by ron blaschke please include the string perl escapenumber in the subject line of all future correspondence about this issue it seems like function pointers were required to be aligned and the extra bits were used to store flags that's what the assertion is for since this isn't always true for all platforms there seems to be a hack around this which can be disabled with c see f escapenumber i guess it would be good to tie the assertion and the workaround to the same macro changed files src mmd c

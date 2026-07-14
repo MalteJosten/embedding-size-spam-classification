@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber escapenumber escapenumber am mathew snyder wrote in the debugger i've set the 'w' command to watch the variable containing the day being looked for day i would have thought day stays the same throught an iteration of the while loop but the debugger keeps stopping to tell me it switched from 'escapenumber escapenumber escapenumber' for instance to '' i then continue and it tells me it switched back from '' to 'escapenumber escapenumber escapenumber' is it supposed to do that shouldn't the day variable remain constant the variable day on line escapenumber is restricted to the scope of the for loop i suspect that day becomes empty or undefined when execution goes into a subroutine who's scope is outside of the for loop to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber ben edwards wrote snip files ftp ls flist or die failed to ls flist foreach file files if file no such file or directory snip i am not entirely sure but this looks like a os specific error when there is no files that match the pattern the error message becomes the first item in the array anyone have a better solution to this snip on all of the platforms i tested ms freebsd and linux a quick test showed that the ls died rather than return no such file or directory as the list of files are you seeing this in the wild if so what platform and server to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

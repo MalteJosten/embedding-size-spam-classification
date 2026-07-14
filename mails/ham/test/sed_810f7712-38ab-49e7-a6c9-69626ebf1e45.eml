@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i have poked around a bit in the code and can't find a good way to die i am currently using perlreplicate n a if n escapenumber escapenumber then error infinite replications would exhaust memory else if n escapenumber then genericreplicate escapenumber a else genericreplicate truncate n a but that gives the following message pugs a x inf internal error while running expression infinite replications would exhaust memory but this isn't an internal error it is a user error so i want a message like pugs a x inf infinite replications would exhaust memory at line escapenumber column escapenumber escapenumber

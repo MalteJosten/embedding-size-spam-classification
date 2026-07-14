@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i have a list containing the names of all items in a directory i want to sort it by non directories first and then directories with a secondary sort in alphabetical order i currently have my items sort my a path args directory from '\\\\' a my b path args directory from '\\\\' b d a path escapenumber escapenumber readdir directory which gets me the non directories first and directories after but not in alphabetical order i don't want to rely on the alphabetical ordering from the readdir as i believe that perl's sort does not guarantee to maintain ordering in future releases can't get my head round this please help cheers nigel to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

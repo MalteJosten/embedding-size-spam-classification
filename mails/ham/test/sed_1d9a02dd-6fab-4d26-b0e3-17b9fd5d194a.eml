@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am trying to analyse cancer data set affymetrix by using bioconductor packages i have total escapenumber data set total size of the data set is escapenumbermb now i am trying to analyse these data sets in my pc with ram escapenumber but if i want to get maplot of my data set i am getting the messege maplot ptc rawdata error cannot allocate vector of size escapenumber escapenumber mb in addition warning messages escapenumber reached total allocation of escapenumbermb see help memory size escapenumber reached total allocation of escapenumbermb see help memory size escapenumber reached total allocation of escapenumbermb see help memory size escapenumber reached total allocation of escapenumbermb see help memory size now how can i get rid of this problem pls help with thanks ferdouse r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

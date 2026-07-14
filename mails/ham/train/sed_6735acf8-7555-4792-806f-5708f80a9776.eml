@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hello i'm fitting general linear models using the function lme from the package nlme my variables include a number of covariates and a single random factor because the experiment was laid out in blocks i'd like to have a statistic to measure the proportion of explained variance from my models with ordinary multiple regression i'd use r squared but i can't find any similar items in the output from lme does anyone know something i can use in these or any other package thanks richard richard gunton phd student ecology and evolution group school of biology university of leeds lsescapenumber escapenumberjt uk room escapenumber escapenumber miall building tel escapenumber escapenumber http www personal leeds ac uk bgyrg opinions expressed in this message are not attributable to the university of leeds r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

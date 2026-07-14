@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+of late we gained the ability to run multiple test environments in sambaescapenumber for many purposes such as windows testing it perhaps makes sense to say 'this is entirely distinct from the rest' but otherwise i wonder if we should instead just create a single fuller test environment escapenumber this way if we want to reproduce any test we just start 'make testevn' and don't have to figure out which testevn we want similarly we always have a dc or two and a member server running and you just target the tests at the appropriate hosts thoughts andrew bartlett escapenumber andrew bartlett http samba org abartlet authentication developer samba team http samba org samba developer red hat inc http redhat com

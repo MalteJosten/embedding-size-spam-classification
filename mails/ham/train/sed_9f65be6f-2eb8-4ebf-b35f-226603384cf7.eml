@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i have a simple beginner's question on removing a list of objects say i have objects cescapenumber dailyescapenumber cescapenumber dailyescapenumber cescapenumber dailyescapenumber in my workspace i'd like to remove these without using rm five times so i write a list paste cescapenumber daily sep escapenumber escapenumber rm a obviously this wouldn't work as it would only remove the object a but is there any way i could do this like on the lines of a unix grave accent something like prompt rm find type f name foo tia and best tir r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

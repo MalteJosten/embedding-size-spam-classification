@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+randy i've been working with matt regarding his var his component var points to this book having most risk he is asking which curve in his ena ft wt rox b book drives most of his risk what needs to be done to fully understand this is to load into excel his position by curve and by risk type one spreadsheet for each unique curve start with ones with most position then simulate var on each excel file position and the one with the highest var would be the one driving most of his risk the spreadsheet is picky so everything has to be in caps with no spaces or formulas in cells for ongoing solutions rather than loading position into excel perhaps you want burton mcintyre to create sub portfolios for matt segregated by the books that have his different major curves let either myself or james or bharat or burton help you with this process thanks frank

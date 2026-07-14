@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber vladimir lemberg wrote my script is executing external program which returns code i e escapenumber escapenumber escapenumber escapenumber etc if escapenumber this is not working nothing is printing to the log file when i'm simulating escapenumber code if i print it shown escapenumber the value in is derived from the exit code but it includes more information when a program fails the full story is in the perlvar manpage but you can recover the exit code something like this my exit code escapenumber exit code escapenumber if exit code escapenumber fix sign the value escapenumber shows an exit code of escapenumber by this method one other detail can be very important if your command invokes a shell to run another program the exit code will be that of the shell instead of the other program to get the external program's exit code perl has to run the exernal program directly hope this helps tom phoenix stonehenge perl training to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

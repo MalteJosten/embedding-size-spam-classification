@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i need to run samba on an embedded device i succeded to compile samba version escapenumber escapenumber escapenumber for a mips embedded system do i need to compile tools for generating codepage make smbcodepage make unicodemap for mips and run it on my mips embedded system or juste copmile theses tools on the pc view this message in context http www nabble com codepage for embedded system tfescapenumber html aescapenumber sent from the samba samba technical mailing list archive at nabble com 

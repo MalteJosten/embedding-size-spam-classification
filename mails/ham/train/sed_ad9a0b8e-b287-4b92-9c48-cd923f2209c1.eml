@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+if i start from within r a new r batch job by using something like system r cmd batch no save quiet rin txt rout txt intern false ignore stderr true wait false input null the job runs fine and smooth however when for any reason i put twice ctrl c in the calling r it kills me the called batch job too this is not what i wanted ctrl c is usually rather used to stop a loop etc why it stops the called batch jobs too what can be the solution for me avoiding the called batch jobs to be killable from the calling r process best regards meinhard ps system macos escapenumber escapenumber escapenumber intel r escapenumber escapenumber escapenumber r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

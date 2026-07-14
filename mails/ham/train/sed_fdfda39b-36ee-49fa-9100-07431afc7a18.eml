@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi i am using the following reqular expression to extract the last part ie lang of the following string topdir common default l cs my lang topdir \\ but it doesnt seem to work what am i missing here thanks 

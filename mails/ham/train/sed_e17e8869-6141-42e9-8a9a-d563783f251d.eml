@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+given this code which requires that you've built languages tcl sub main main load bytecode 'languages tcl runtime tcllib pir' pescapenumber compreg 'pir' pescapenumber pescapenumber 'eo pir' hll 'tcl' '' sub ' anon' anon ' namespace' 'eval' 'tcltest' set a escapenumber proc b print ok\\n end eo pir pescapenumber works sescapenumber freeze pescapenumber pescapenumber thaw sescapenumber pescapenumber vomits end i expect it to print 'ok' escapenumberx however it prints ok once and then gives a bus error the tcl that is namespace eval'd here is important if you remove the proc it works if you remove the set it works however if you just switch the order of the set and the proc it still fails i'll see if i can get this down to just pir without any tcl but figured i'd post this in the meantime in case this was small enough that someone might be able to figure out it started out as nearly escapenumberkloc of generated pir regards will coke coleda will coleda com

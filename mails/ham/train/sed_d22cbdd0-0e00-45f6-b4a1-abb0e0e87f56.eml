@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+i draw dotplot using the following code sd dotplot dotplot data escapenumber nmr om sd as factor data escapenumber nmr position as factor data escapenumber nmr pr data data escapenumber nmr layout c escapenumber escapenumber xlab position xlim range data escapenumber nmr position ylab sd main changes of omega angle in different positions scales list x list rot escapenumber however i get same xlim for each panel actually xlim is different for each panel it is based on data escapenumber nmr position how can i modify this code so i can deal with the different xlim for each panel thanks aimin r help stat math ethz ch mailing list https stat ethz ch mailman listinfo r help please do read the posting guide http www r project org posting guide html and provide commented minimal self contained reproducible code 

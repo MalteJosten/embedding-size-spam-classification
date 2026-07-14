@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+yitzle wrote cat m top html m mid html m arc html m bot html blah how can this be done without a system call here's my first guess use warnings use strict doc my doc for qw m top html m mid html m arc html m bot html open file root where is root defined and what does it contain you should always verify that the file opened correctly open my file ' ' root or die cannot open ' root ' my tmp file doc doc tmp push doc file close file open file blah you should always verify that the file opened correctly open my file ' ' 'blah' or die cannot open 'blah' print file foreach doc or just print file doc close file is there something i'm missing you could use the magical operator use warnings use strict argv qw m top html m mid html m arc html m bot html open my file ' ' 'blah' or die cannot open 'blah' print file while end john perl isn't a toolbox but a small machine shop where you can special order certain sorts of tools at low cost and in short order larry wall to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

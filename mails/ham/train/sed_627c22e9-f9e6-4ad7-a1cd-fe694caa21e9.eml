@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+brian volk wrote hello is there a way to pass a variable from one program to another i have a web site that allows the user to set the time they would like to download a file the program uses the linux at command and launches another perl program that does the actual ftp download i would like to pass a parm variable email address from the web site captured in the first perl program to the second perl program is this possible if you can stand to temporarily store the data in a file check out storable module steve to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

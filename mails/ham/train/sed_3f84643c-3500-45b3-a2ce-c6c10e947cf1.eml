@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+in telepathy i can use getdbusnames on a tube that gives me a mapping from contacts to dbus addresses it roughly looks like escapenumber ' escapenumber abcdef' escapenumber ' escapenumber ghijkl' i will use such dbus addresses to send messages to one particular recipient on a tube however when a buddy joins my activty and the 'buddy joined' callback is fired i have a buddy object with a really tiny public api it seems said api does not allow me to retrieve dbus addresses that i need there is a gettelepathyhandles function in sugar services presence buddy py though which may or may not do what i want any pointers on the proper solution would be appreciated cheers marc sugar mailing list sugar laptop org http mailman laptop org mailman listinfo sugar

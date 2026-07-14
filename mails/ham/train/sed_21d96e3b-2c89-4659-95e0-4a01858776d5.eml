@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+on escapenumber escapenumber escapenumber joseph l casale wrote heh i never tried to use and i assumed it wasn't that simple snip well it is a little more complicated than that there are three and operators in perl bitwise high precedence logical and low precedence logical and in general the low precedence version works fine for your needs although you will see a lot of people coming from c c java etc using and a lot of parenthesis if a conditional statement is not returning the expect result you may want to check the precedence of the operators you are using and add parenthesis as needed there is a handy chart at http perldoc perl org perlop html or from the command line perldoc perlop snip problem with learning something from the beginning is i don't even know what that's called so searching the net is rather hard snip why search the internet go to http perldoc perl org you should also look into buying learning perl the llama to unsubscribe e mail beginners unsubscribe perl org for additional commands e mail beginners help perl org http learn perl org 

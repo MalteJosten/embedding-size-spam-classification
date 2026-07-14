@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+herb has smbtorture been modified anywhere to use different nodes for the multiple client connections the sambaescapenumber smbtorture has had this for quite a while on some tests look for tests that use torture open connection with a escapenumbernd argument other than escapenumber you then supply a list of targets with unclist the main tests i use that do this are raw bench open raw bench lock raw notify bench nbench raw open we should expand the range of tests that do this cheers tridge

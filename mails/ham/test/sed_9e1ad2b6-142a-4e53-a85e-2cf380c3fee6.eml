@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+chromatic wrote if you're using a modern gnu ld remove the shared library and add a few more flags to link dynamic in makefile here's mine link dynamic wl e oescapenumber zdynsort hashvals hash style gnu zcombreloc do you have to edit the makefile for this or can you set it with command line arguments to configure pl 

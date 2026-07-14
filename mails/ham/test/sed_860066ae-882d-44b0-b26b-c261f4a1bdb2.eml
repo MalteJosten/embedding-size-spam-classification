@@ -1,0 +1,5 @@
+To: to@example.com
+From: from@example.com
+Subject:
+
+hi as part of an ongoing effort to bring our kernel tree closer with the mainline kernel ideally identical we have opted to drop the speakup patch from our tree we have found it fairly difficult to maintain and it has not seen the kind of usage that the graphical systems orca etc have it seems that many speakup users traditionally prefer to compile their own kernel which will of course still be an option and as ubuntu approaches a fairly standard kernel this should be fairly easy this does by no means mean that we are reducing our focus on accessibility we have a range of new projects in the works both for the visually impaired and other groups see https wiki ubuntu com accessibility specs henrik ps i originally sent this on escapenumber escapenumber but as was not subscribed it must have bounced speakup mailing list speakup braille uwo ca http speech braille uwo ca mailman listinfo speakup
